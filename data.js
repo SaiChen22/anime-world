@@ -1,0 +1,14538 @@
+// ============================================================
+// Anime Catalog — Static Dataset
+// Source: MyAnimeList via Jikan API (jikan.moe)
+// Generated: 2026-04-19T04:03:06.572Z
+// Total entries: 500
+// NOTE: No API calls at runtime. This is pre-fetched static data.
+// ============================================================
+
+const animeData = [
+  {
+    "id": 52991,
+    "title": "Sousou no Frieren",
+    "titleJP": "葬送のフリーレン",
+    "type": "TV",
+    "episodes": 28,
+    "score": 9.27,
+    "scoredBy": 873408,
+    "rank": 1,
+    "popularity": 104,
+    "year": 2023,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.  However, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted...",
+    "imageUrl": "https://myanimelist.net/images/anime/1015/138006l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
+  },
+  {
+    "id": 61469,
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "titleJP": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+    "type": "ONA",
+    "episodes": null,
+    "score": 9.15,
+    "scoredBy": 88238,
+    "rank": 2,
+    "popularity": 1430,
+    "year": 2026,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical",
+      "Racing"
+    ],
+    "studios": [
+      "David Production"
+    ],
+    "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a...",
+    "imageUrl": "https://myanimelist.net/images/anime/1448/154111l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
+  },
+  {
+    "id": 5114,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "titleJP": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "type": "TV",
+    "episodes": 64,
+    "score": 9.11,
+    "scoredBy": 2305377,
+    "rank": 3,
+    "popularity": 3,
+    "year": 2009,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Military"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an ar...",
+    "imageUrl": "https://myanimelist.net/images/anime/1208/94745l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+  },
+  {
+    "id": 57555,
+    "title": "Chainsaw Man Movie: Reze-hen",
+    "titleJP": "劇場版 チェンソーマン レゼ篇",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 9.08,
+    "scoredBy": 286220,
+    "rank": 4,
+    "popularity": 584,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Gore",
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Despite the immediate challenges following becoming a devil hunter with the Public Safety Bureau, Denji has quickly adapted to his new life and responsibilities. As the chaos of Denji's first ordeal with Public Safety settles down, the elite devil hunter Makima decides to take Denji out on a date. Although the date strengthens his affection for Makima and he swears to not fall in love with anyone ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1763/150638l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
+  },
+  {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "titleJP": "STEINS;GATE",
+    "type": "TV",
+    "episodes": 24,
+    "score": 9.07,
+    "scoredBy": 1517241,
+    "rank": 5,
+    "popularity": 14,
+    "year": 2011,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave tha...",
+    "imageUrl": "https://myanimelist.net/images/anime/1935/127974l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9253/Steins_Gate"
+  },
+  {
+    "id": 38524,
+    "title": "Shingeki no Kyojin Season 3 Part 2",
+    "titleJP": "進撃の巨人 Season3 Part.2",
+    "type": "TV",
+    "episodes": 10,
+    "score": 9.05,
+    "scoredBy": 1787366,
+    "rank": 8,
+    "popularity": 20,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "Seeking to restore humanity's diminishing hope, the Survey Corps embark on a mission to retake Wall Maria, where the battle against the merciless \"Titans\" takes the stage once again.  Returning to the tattered Shiganshina District that was once his home, Eren Yeager and the Corps find the town oddly unoccupied by Titans. Even after the outer gate is plugged, they strangely encounter no opposition....",
+    "imageUrl": "https://myanimelist.net/images/anime/1517/100633l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
+  },
+  {
+    "id": 28977,
+    "title": "Gintama°",
+    "titleJP": "銀魂°",
+    "type": "TV",
+    "episodes": 51,
+    "score": 9.05,
+    "scoredBy": 272286,
+    "rank": 7,
+    "popularity": 349,
+    "year": 2015,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?  Meanwhile,...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/72078l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28977/Gintama°"
+  },
+  {
+    "id": 39486,
+    "title": "Gintama: The Final",
+    "titleJP": "銀魂 THE FINAL",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 9.05,
+    "scoredBy": 86889,
+    "rank": 6,
+    "popularity": 1501,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "Two years have passed following the Tendoshuu's invasion of the O-Edo Central Terminal. Since then, the Yorozuya have gone their separate ways. Foreseeing Utsuro's return, Gintoki Sakata begins surveying Earth's ley lines for traces of the other man's Altana. After an encounter with the remnants of the Tendoshuu—who continue to press on in search of immortality—Gintoki returns to Edo.  Later, the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1245/116760l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39486/Gintama__The_Final"
+  },
+  {
+    "id": 11061,
+    "title": "Hunter x Hunter (2011)",
+    "titleJP": "HUNTER×HUNTER（ハンター×ハンター）",
+    "type": "TV",
+    "episodes": 148,
+    "score": 9.03,
+    "scoredBy": 1973377,
+    "rank": 9,
+    "popularity": 8,
+    "year": 2011,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.  Ambitious participants who challenge the notorious exam carry their own reason. What drives...",
+    "imageUrl": "https://myanimelist.net/images/anime/1337/99013l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+  },
+  {
+    "id": 60022,
+    "title": "One Piece Fan Letter",
+    "titleJP": "ONE PIECE FAN LETTER",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 9.02,
+    "scoredBy": 110163,
+    "rank": 13,
+    "popularity": 1740,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "Although the golden age of piracy is about to reach new heights, most people do not seek the glory of finding the elusive One Piece—a treasure signifying a new conqueror of all seas that was once embodied by the legendary King of the Pirates, Gol D. Roger. However, even if civilians generally despise pirates, they secretly cheer for at least one of them.   One red-headed girl from Sabaody Archipel...",
+    "imageUrl": "https://myanimelist.net/images/anime/1455/146229l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60022/One_Piece_Fan_Letter"
+  },
+  {
+    "id": 9969,
+    "title": "Gintama'",
+    "titleJP": "銀魂'",
+    "type": "TV",
+    "episodes": 51,
+    "score": 9.02,
+    "scoredBy": 257519,
+    "rank": 11,
+    "popularity": 406,
+    "year": 2011,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his siste...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/50361l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9969/Gintama"
+  },
+  {
+    "id": 15417,
+    "title": "Gintama': Enchousen",
+    "titleJP": "銀魂' 延長戦",
+    "type": "TV",
+    "episodes": 13,
+    "score": 9.02,
+    "scoredBy": 179186,
+    "rank": 12,
+    "popularity": 763,
+    "year": 2012,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "While Gintoki Sakata was away, the Yorozuya found themselves a new leader: Kintoki, Gintoki's golden-haired doppelganger. In order to regain his former position, Gintoki will need the help of those around him, a troubling feat when no one can remember him! Between Kintoki and Gintoki, who will claim the throne as the main character?  In addition, Yorozuya make a trip back down to red-light distric...",
+    "imageUrl": "https://myanimelist.net/images/anime/1452/123686l.jpg",
+    "malUrl": "https://myanimelist.net/anime/15417/Gintama__Enchousen"
+  },
+  {
+    "id": 820,
+    "title": "Ginga Eiyuu Densetsu",
+    "titleJP": "銀河英雄伝説",
+    "type": "OVA",
+    "episodes": 110,
+    "score": 9.02,
+    "scoredBy": 87787,
+    "rank": 10,
+    "popularity": 754,
+    "year": 1988,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "K-Factory",
+      "Kitty Film Mitaka Studio"
+    ],
+    "synopsis": "The 150-year-long stalemate between the two interstellar superpowers, the Galactic Empire and the Free Planets Alliance, comes to an end when a new generation of leaders arises: the idealistic military genius Reinhard von Lohengramm, and the FPA's reserved historian, Yang Wenli.  While Reinhard climbs the ranks of the Empire with the aid of his childhood friend, Siegfried Kircheis, he must fight n...",
+    "imageUrl": "https://myanimelist.net/images/anime/1976/142016l.jpg",
+    "malUrl": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu"
+  },
+  {
+    "id": 34096,
+    "title": "Gintama.",
+    "titleJP": "銀魂。",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.98,
+    "scoredBy": 160018,
+    "rank": 15,
+    "popularity": 788,
+    "year": 2017,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "After joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing s...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/83528l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34096/Gintama"
+  },
+  {
+    "id": 41467,
+    "title": "Bleach: Sennen Kessen-hen",
+    "titleJP": "BLEACH 千年血戦篇",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.98,
+    "scoredBy": 379247,
+    "rank": 14,
+    "popularity": 339,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "Substitute Soul Reaper Ichigo Kurosaki spends his days fighting against Hollows, dangerous evil spirits that threaten Karakura Town. Ichigo carries out his quest with his closest allies: Orihime Inoue, his childhood friend with a talent for healing; Yasutora Sado, his high school classmate with superhuman strength; and Uryuu Ishida, Ichigo's Quincy rival.  Ichigo's vigilante routine is disrupted b...",
+    "imageUrl": "https://myanimelist.net/images/anime/1908/135431l.jpg",
+    "malUrl": "https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen"
+  },
+  {
+    "id": 43608,
+    "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+    "titleJP": "かぐや様は告らせたい-ウルトラロマンティック-",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.96,
+    "scoredBy": 632944,
+    "rank": 16,
+    "popularity": 165,
+    "year": 2022,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "The elite members of Shuchiin Academy's student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fighting tooth and nail to trick the other into confessing their romantic love. Kaguya struggles within the strict confines of her wealthy, uptight family, rebelling against her cold default demeanor as ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1160/122627l.jpg",
+    "malUrl": "https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic"
+  },
+  {
+    "id": 42938,
+    "title": "Fruits Basket: The Final",
+    "titleJP": "フルーツバスケット The Final",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.93,
+    "scoredBy": 279624,
+    "rank": 18,
+    "popularity": 442,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Hundreds of years ago, the Chinese zodiac spirits and their god swore to stay together eternally. United by this promise, the possessed members of the Souma family shall always return to each other under any circumstances. Yet, when these bonds shackle them from freedom, it becomes an undesirable burden—a curse. As head of the clan, Akito is convinced that he shares a special connection with the o...",
+    "imageUrl": "https://myanimelist.net/images/anime/1085/114792l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final"
+  },
+  {
+    "id": 4181,
+    "title": "Clannad: After Story",
+    "titleJP": "CLANNAD〜AFTER STORY〜 クラナド アフターストーリー",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.93,
+    "scoredBy": 699326,
+    "rank": 17,
+    "popularity": 123,
+    "year": 2008,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Tomoya Okazaki and Nagisa Furukawa have graduated from high school, and together, they experience the emotional rollercoaster of growing up. Unable to decide on a course for his future, Tomoya learns the value of a strong work ethic and discovers the strength of Nagisa's support. Through the couple's dedication and unity of purpose, they push forward to confront their personal problems, deepen the...",
+    "imageUrl": "https://myanimelist.net/images/anime/1299/110774l.jpg",
+    "malUrl": "https://myanimelist.net/anime/4181/Clannad__After_Story"
+  },
+  {
+    "id": 918,
+    "title": "Gintama",
+    "titleJP": "銀魂",
+    "type": "TV",
+    "episodes": 201,
+    "score": 8.93,
+    "scoredBy": 423805,
+    "rank": 19,
+    "popularity": 147,
+    "year": 2006,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Edo is a city that was home to the vigor and ambition of samurai across the country. However, following feudal Japan's surrender to powerful aliens known as the \"Amanto,\" those aspirations now seem unachievable. With the once-influential shogunate rebuilt as a puppet government, a new law is passed that promptly prohibits all swords in public.   Enter Gintoki Sakata, an eccentric silver-haired man...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/73274l.jpg",
+    "malUrl": "https://myanimelist.net/anime/918/Gintama"
+  },
+  {
+    "id": 28851,
+    "title": "Koe no Katachi",
+    "titleJP": "聲の形",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.93,
+    "scoredBy": 1793514,
+    "rank": 20,
+    "popularity": 19,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her. With Shouko transferring out of the school, Shouya is left at the mercy ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1122/96435l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28851/Koe_no_Katachi"
+  },
+  {
+    "id": 59978,
+    "title": "Sousou no Frieren 2nd Season",
+    "titleJP": "葬送のフリーレン 第2期",
+    "type": "TV",
+    "episodes": 10,
+    "score": 8.92,
+    "scoredBy": 195180,
+    "rank": 22,
+    "popularity": 513,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Following the First-Class Mage Exam, the trio—elven mage Frieren, warrior Stark, and first-class mage Fern—gains access to the dangerous Northern Plateau. As the party presses onward toward Aureole, formidable adversaries force Stark to confront his insecurities, solidifying his resolve and his role as the party's frontliner. Meanwhile, Fern continues to cherish the gifts she has been blessed with...",
+    "imageUrl": "https://myanimelist.net/images/anime/1921/154528l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59978/Sousou_no_Frieren_2nd_Season"
+  },
+  {
+    "id": 2904,
+    "title": "Code Geass: Hangyaku no Lelouch R2",
+    "titleJP": "コードギアス 反逆のルルーシュ R2",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.92,
+    "scoredBy": 1295455,
+    "rank": 21,
+    "popularity": 50,
+    "year": 2008,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Military",
+      "Super Power"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "One year has passed since the Black Rebellion, a failed uprising against the Holy Britannian Empire led by the masked vigilante Zero, who is now missing. At a loss without their revolutionary leader, Area 11's resistance group—the Black Knights—find themselves too powerless to combat the brutality inflicted upon the Elevens by Britannia, which has increased significantly in order to crush any hope...",
+    "imageUrl": "https://myanimelist.net/images/anime/1088/135089l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2"
+  },
+  {
+    "id": 58514,
+    "title": "Kusuriya no Hitorigoto 2nd Season",
+    "titleJP": "薬屋のひとりごと 第2期",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.91,
+    "scoredBy": 255431,
+    "rank": 23,
+    "popularity": 525,
+    "year": 2025,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "themes": [
+      "Historical",
+      "Medical"
+    ],
+    "studios": [
+      "OLM",
+      "TOHO animation STUDIO"
+    ],
+    "synopsis": "Using her wit and vast knowledge of medicines and poisons alike, Maomao played a pivotal role in solving a series of mysteries and conspiracies that plagued the imperial court. Having recently come to terms with the secrets of her parents, she returns to fulfill her normal duties on behalf of the emperor's highest-ranking consorts. Maomao also works alongside the eunuch Jinshi to better the consor...",
+    "imageUrl": "https://myanimelist.net/images/anime/1025/147458l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58514/Kusuriya_no_Hitorigoto_2nd_Season"
+  },
+  {
+    "id": 35180,
+    "title": "3-gatsu no Lion 2nd Season",
+    "titleJP": "3月のライオン 第2シリーズ",
+    "type": "TV",
+    "episodes": 22,
+    "score": 8.9,
+    "scoredBy": 215216,
+    "rank": 24,
+    "popularity": 611,
+    "year": 2017,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Strategy Game"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Now in his second year of high school, Rei Kiriyama continues pushing through his struggles in the professional shogi world as well as his personal life. Surrounded by vibrant personalities at the shogi hall, the school club, and in the local community, his solitary shell slowly begins to crack. Among them are the three Kawamoto sisters—Akari, Hinata, and Momo—who forge an affectionate and familia...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/88469l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35180/3-gatsu_no_Lion_2nd_Season"
+  },
+  {
+    "id": 15335,
+    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "titleJP": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.89,
+    "scoredBy": 144795,
+    "rank": 25,
+    "popularity": 1071,
+    "year": 2013,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai",
+      "Time Travel"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "When Gintoki apprehends a movie pirate at a premiere, he checks the camera's footage and finds himself transported to a bleak, post-apocalyptic version of Edo, where a mysterious epidemic called the \"White Plague\" has ravished the world's population. It turns out that the movie pirate wasn't a pirate after all—it was an android time machine, and Gintoki has been hurtled five years into the future!...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/51723l.jpg",
+    "malUrl": "https://myanimelist.net/anime/15335/Gintama_Movie_2__Kanketsu-hen_-_Yorozuya_yo_Eien_Nare"
+  },
+  {
+    "id": 19,
+    "title": "Monster",
+    "titleJP": "モンスター",
+    "type": "TV",
+    "episodes": 74,
+    "score": 8.89,
+    "scoredBy": 509232,
+    "rank": 26,
+    "popularity": 117,
+    "year": 2004,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Psychological"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Dr. Kenzou Tenma, an elite neurosurgeon recently engaged to his hospital director's daughter, is well on his way to ascending the hospital hierarchy. That is until one night, a seemingly small event changes Dr. Tenma's life forever. While preparing to perform surgery on someone, he gets a call from the hospital director telling him to switch patients and instead perform life-saving brain surgery o...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/18793l.jpg",
+    "malUrl": "https://myanimelist.net/anime/19/Monster"
+  },
+  {
+    "id": 37491,
+    "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
+    "titleJP": "銀魂. 銀ノ魂篇 後半戦",
+    "type": "TV",
+    "episodes": 14,
+    "score": 8.88,
+    "scoredBy": 107164,
+    "rank": 27,
+    "popularity": 1242,
+    "year": 2018,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "Following the temporary retreat of the Altana Liberation Army from the Kabuki District, the state of the war has seemingly improved. However, as the Oniwaban, Shinsengumi, and residents of the district combat the army's remnants, Edo's greatest inventor Gengai Hiraga is abducted. Responsible for causing the enemy's withdrawal by rendering their weapons useless, Gengai's nanomachine virus is now at...",
+    "imageUrl": "https://myanimelist.net/images/anime/1776/96566l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37491/Gintama_Shirogane_no_Tamashii-hen_-_Kouhan-sen"
+  },
+  {
+    "id": 51535,
+    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "titleJP": "進撃の巨人 The Final Season完結編",
+    "type": "TV Special",
+    "episodes": 2,
+    "score": 8.86,
+    "scoredBy": 524559,
+    "rank": 29,
+    "popularity": 249,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "In the wake of Eren Yeager's cataclysmic actions, his friends and former enemies form an alliance against his genocidal rampage. Though once bitter foes, Armin Arlert, Mikasa Ackerman, and the remaining members of the Scout Regiment join forces with Reiner Braun and the survivors of the Marleyan military. Their meager united front sets out on a mission to stop Eren's wrath and—if possible—save the...",
+    "imageUrl": "https://myanimelist.net/images/anime/1279/131078l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51535/Shingeki_no_Kyojin__The_Final_Season_-_Kanketsu-hen"
+  },
+  {
+    "id": 35247,
+    "title": "Owarimonogatari 2nd Season",
+    "titleJP": "終物語",
+    "type": "TV Special",
+    "episodes": 7,
+    "score": 8.86,
+    "scoredBy": 210211,
+    "rank": 28,
+    "popularity": 615,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Following an encounter with oddity specialist Izuko Gaen, third-year high school student Koyomi Araragi wakes up in a strange, deserted void only to be greeted by a joyfully familiar face in an alarmingly unfamiliar place.    Araragi, with the help of his girlfriend Hitagi Senjougahara, maneuvers through the webs of his past and the perplexities of the present in search of answers. However, fate o...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/87322l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season"
+  },
+  {
+    "id": 54492,
+    "title": "Kusuriya no Hitorigoto",
+    "titleJP": "薬屋のひとりごと",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.85,
+    "scoredBy": 467507,
+    "rank": 30,
+    "popularity": 268,
+    "year": 2023,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "themes": [
+      "Historical",
+      "Medical"
+    ],
+    "studios": [
+      "OLM",
+      "TOHO animation STUDIO"
+    ],
+    "synopsis": "Maomao, an apothecary's daughter, has been plucked from her peaceful life and sold to the lowest echelons of the imperial court. Now merely a maid, Maomao settles into her new mundane life and hides her extensive knowledge of medicine in order to avoid any unwanted attention.  Not long after Maomao's arrival, the emperor's infant children inexplicably begin to experience grave symptoms—almost as i...",
+    "imageUrl": "https://myanimelist.net/images/anime/1708/138033l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54492/Kusuriya_no_Hitorigoto"
+  },
+  {
+    "id": 40682,
+    "title": "Kingdom 3rd Season",
+    "titleJP": "キングダム 第3シリーズ",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.84,
+    "scoredBy": 55322,
+    "rank": 31,
+    "popularity": 1950,
+    "year": 2020,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Studio Pierrot",
+      "Studio Signpost"
+    ],
+    "synopsis": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.  Meanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the...",
+    "imageUrl": "https://myanimelist.net/images/anime/1443/111830l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40682/Kingdom_3rd_Season"
+  },
+  {
+    "id": 59571,
+    "title": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+    "titleJP": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.83,
+    "scoredBy": 40070,
+    "rank": 32,
+    "popularity": 2619,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "A compilation movie for Shingeki no Kyojin: The Final Season - Kanketsu-hen....",
+    "imageUrl": "https://myanimelist.net/images/anime/1379/145452l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59571/Shingeki_no_Kyojin_Movie__Kanketsu-hen_-_The_Last_Attack"
+  },
+  {
+    "id": 37987,
+    "title": "Violet Evergarden Movie",
+    "titleJP": "劇場版 ヴァイオレット・エヴァーガーデン",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.83,
+    "scoredBy": 339740,
+    "rank": 33,
+    "popularity": 322,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Several years have passed since the end of The Great War. As the radio tower in Leidenschaftlich continues to be built, telephones will soon become more relevant, leading to a decline in demand for \"Auto Memory Dolls.\" Even so, Violet Evergarden continues to rise in fame after her constant success with writing letters. However, sometimes the one thing you long for is the one thing that does not ap...",
+    "imageUrl": "https://myanimelist.net/images/anime/1825/110716l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37987/Violet_Evergarden_Movie"
+  },
+  {
+    "id": 49387,
+    "title": "Vinland Saga Season 2",
+    "titleJP": "ヴィンランド・サガ SEASON2",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.82,
+    "scoredBy": 480481,
+    "rank": 35,
+    "popularity": 258,
+    "year": 2023,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "themes": [
+      "Gore",
+      "Historical"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.   Ein...",
+    "imageUrl": "https://myanimelist.net/images/anime/1170/124312l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49387/Vinland_Saga_Season_2"
+  },
+  {
+    "id": 32281,
+    "title": "Kimi no Na wa.",
+    "titleJP": "君の名は。",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.82,
+    "scoredBy": 2078173,
+    "rank": 34,
+    "popularity": 12,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "CoMix Wave Films"
+    ],
+    "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.  One day, Mitsuha awakens in a room that is not her own and suddenl...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/87048l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa"
+  },
+  {
+    "id": 2921,
+    "title": "Ashita no Joe 2",
+    "titleJP": "あしたのジョー２",
+    "type": "TV",
+    "episodes": 47,
+    "score": 8.81,
+    "scoredBy": 26462,
+    "rank": 36,
+    "popularity": 3025,
+    "year": 1980,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Tokyo Movie Shinsha"
+    ],
+    "synopsis": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, b...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/45028l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2"
+  },
+  {
+    "id": 36838,
+    "title": "Gintama. Shirogane no Tamashii-hen",
+    "titleJP": "銀魂. 銀ノ魂篇",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.81,
+    "scoredBy": 116023,
+    "rank": 37,
+    "popularity": 1189,
+    "year": 2018,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "After the fierce battle on Rakuyou, the untold past and true goal of the immortal Naraku leader, Utsuro, are finally revealed. By corrupting the Altana reserves of several planets, Utsuro has successfully triggered the intervention of the Tendoshuu’s greatest enemy: the Altana Liberation Army. With Earth as the main battleground in this interplanetary war, Utsuro's master plan to destroy the plane...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/89603l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36838/Gintama_Shirogane_no_Tamashii-hen"
+  },
+  {
+    "id": 61316,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+    "titleJP": "Re:ゼロから始める異世界生活 4th season",
+    "type": "TV",
+    "episodes": 19,
+    "score": 8.79,
+    "scoredBy": 18751,
+    "rank": 39,
+    "popularity": 1451,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Suspense"
+    ],
+    "themes": [
+      "Isekai",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess eve...",
+    "imageUrl": "https://myanimelist.net/images/anime/1540/155824l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season"
+  },
+  {
+    "id": 58788,
+    "title": "Ikoku Nikki",
+    "titleJP": "違国日記",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.79,
+    "scoredBy": 32210,
+    "rank": 38,
+    "popularity": 2387,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "Thirty-five-year-old novelist Makio Koudai never had a good relationship with her older sister Minori, who always berated her for being different. Due to this, Makio is not stricken with grief upon hearing the news that Minori and her husband died in a car crash. But when Makio is asked to identify their bodies, she runs into her 15-year-old niece, Asa Takumi, whom she has not seen in years.  As A...",
+    "imageUrl": "https://myanimelist.net/images/anime/1791/154233l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58788/Ikoku_Nikki"
+  },
+  {
+    "id": 40028,
+    "title": "Shingeki no Kyojin: The Final Season",
+    "titleJP": "進撃の巨人 The Final Season",
+    "type": "TV",
+    "episodes": 16,
+    "score": 8.79,
+    "scoredBy": 1517017,
+    "rank": 40,
+    "popularity": 30,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Gabi Braun and Falco Grice have been training their entire lives to inherit one of the seven Titans under Marley's control and aid their nation in eradicating the Eldians on Paradis. However, just as all seems well for the two cadets, their peace is suddenly shaken by the arrival of Eren Yeager and the remaining members of the Survey Corps.  Having finally reached the Yeager family basement and le...",
+    "imageUrl": "https://myanimelist.net/images/anime/1000/110531l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season"
+  },
+  {
+    "id": 37510,
+    "title": "Mob Psycho 100 II",
+    "titleJP": "モブサイコ100 II",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.78,
+    "scoredBy": 1086820,
+    "rank": 43,
+    "popularity": 73,
+    "year": 2019,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Shigeo \"Mob\" Kageyama is now maturing and understanding his role as a supernatural psychic that has the power to drastically affect the livelihood of others. He and his mentor Reigen Arataka continue to deal with supernatural requests from clients, whether it be exorcizing evil spirits or tackling urban legends that haunt the citizens.  While the workflow remains the same, Mob isn't just blindly f...",
+    "imageUrl": "https://myanimelist.net/images/anime/1918/96303l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II"
+  },
+  {
+    "id": 31758,
+    "title": "Kizumonogatari III: Reiketsu-hen",
+    "titleJP": "傷物語〈Ⅲ冷血篇〉",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.78,
+    "scoredBy": 298123,
+    "rank": 42,
+    "popularity": 500,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "After helping revive the legendary vampire Kiss-shot Acerola-orion Heart-under-blade, Koyomi Araragi has become a vampire himself and her servant. Kiss-shot is certain she can turn him back into a human, but only once regaining her full power.   Araragi has hunted down the three vampire hunters that defeated Kiss-shot and retrieved her limbs to return her to full strength. However, now that Ararag...",
+    "imageUrl": "https://myanimelist.net/images/anime/1084/112813l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31758/Kizumonogatari_III__Reiketsu-hen"
+  },
+  {
+    "id": 37521,
+    "title": "Vinland Saga",
+    "titleJP": "ヴィンランド・サガ",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.78,
+    "scoredBy": 1057486,
+    "rank": 44,
+    "popularity": 61,
+    "year": 2019,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "themes": [
+      "Gore",
+      "Historical"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, \"You hav...",
+    "imageUrl": "https://myanimelist.net/images/anime/1500/103005l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37521/Vinland_Saga"
+  },
+  {
+    "id": 263,
+    "title": "Hajime no Ippo",
+    "titleJP": "はじめの一歩 THE FIGHTING!",
+    "type": "TV",
+    "episodes": 75,
+    "score": 8.78,
+    "scoredBy": 341765,
+    "rank": 41,
+    "popularity": 348,
+    "year": 2000,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "In his father's absence, teenager Ippo Makunouchi works hard to help his mother run her fishing boat rental business. Ippo's timid nature, his lack of sleep, and the sea smell make him an easy target for relentless bullies who leave him bruised and beaten on a daily basis. Mamoru Takamura, an up-and-coming boxer, rescues Ippo from a violent after-school incident and takes him back to the Kamogawa ...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/86334l.jpg",
+    "malUrl": "https://myanimelist.net/anime/263/Hajime_no_Ippo"
+  },
+  {
+    "id": 32935,
+    "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+    "titleJP": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "type": "TV",
+    "episodes": 10,
+    "score": 8.77,
+    "scoredBy": 872830,
+    "rank": 45,
+    "popularity": 115,
+    "year": 2016,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Pre...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/81992l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32935/Haikyuu_Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou"
+  },
+  {
+    "id": 199,
+    "title": "Sen to Chihiro no Kamikakushi",
+    "titleJP": "千と千尋の神隠し",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.77,
+    "scoredBy": 1410047,
+    "rank": 46,
+    "popularity": 44,
+    "year": 2001,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Fantasy"
+    ],
+    "themes": [
+      "Mythology"
+    ],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "Stubborn, spoiled, and naïve, 10-year-old Chihiro Ogino is less than pleased when she and her parents discover an abandoned amusement park on the way to their new house. Cautiously venturing inside, she realizes that there is more to this place than meets the eye, as strange things begin to happen once dusk falls. Ghostly apparitions and food that turns her parents into pigs are just the start—Chi...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/79597l.jpg",
+    "malUrl": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi"
+  },
+  {
+    "id": 48583,
+    "title": "Shingeki no Kyojin: The Final Season Part 2",
+    "titleJP": "進撃の巨人 The Final Season Part 2",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.77,
+    "scoredBy": 928869,
+    "rank": 47,
+    "popularity": 90,
+    "year": 2022,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Turning against his former allies and enemies alike, Eren Yeager sets a disastrous plan in motion. Under the guidance of the Beast Titan, Zeke, Eren takes extreme measures to end the ancient conflict between Marley and Eldia—but his true intentions remain a mystery. Delving deep into his family's past, Eren fights to control his own destiny.  Meanwhile, the long-feuding nations of Marley and Eldia...",
+    "imageUrl": "https://myanimelist.net/images/anime/1948/120625l.jpg",
+    "malUrl": "https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2"
+  },
+  {
+    "id": 60489,
+    "title": "Takopii no Genzai",
+    "titleJP": "タコピーの原罪",
+    "type": "ONA",
+    "episodes": 6,
+    "score": 8.76,
+    "scoredBy": 171798,
+    "rank": 49,
+    "popularity": 906,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "Enishiya"
+    ],
+    "synopsis": "A squid-like creature, known as a Happian, leaves his home planet with the desire to spread happiness across the universe. He lands on Earth, but quickly finds himself in danger of captivity by its inhabitants. Fortunately, he is found by an unsmiling little girl named Shizuka Kuze, who feeds him and names him Takopii. Feeling indebted, Takopii decides to do everything in his power to bring a smil...",
+    "imageUrl": "https://myanimelist.net/images/anime/1182/149879l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60489/Takopii_no_Genzai"
+  },
+  {
+    "id": 17074,
+    "title": "Monogatari Series: Second Season",
+    "titleJP": "〈物語〉シリーズ セカンドシーズン",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.76,
+    "scoredBy": 380106,
+    "rank": 48,
+    "popularity": 328,
+    "year": 2013,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Apparitions, oddities, and gods continue to manifest around Koyomi Araragi and his close-knit group of friends: Tsubasa Hanekawa, the group's modest genius; Shinobu Oshino, the resident doughnut-loving vampire; athletic deviant Suruga Kanbaru; bite-happy spirit Mayoi Hachikuji; Koyomi's cute admirer Nadeko Sengoku; and Hitagi Senjougahara, Koyomi's eclectic girlfriend.  A new semester has begun an...",
+    "imageUrl": "https://myanimelist.net/images/anime/1807/121534l.jpg",
+    "malUrl": "https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season"
+  },
+  {
+    "id": 1,
+    "title": "Cowboy Bebop",
+    "titleJP": "カウボーイビバップ",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.75,
+    "scoredBy": 1059137,
+    "rank": 50,
+    "popularity": 41,
+    "year": 1998,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Space"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements like those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters.  Spike Spiegel and Jet Black pursue criminals throughout space to make a humble living. Beneath his g...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/19644l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1/Cowboy_Bebop"
+  },
+  {
+    "id": 51553,
+    "title": "Tongari Boushi no Atelier",
+    "titleJP": "とんがり帽子のアトリエ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.73,
+    "scoredBy": 22212,
+    "rank": 55,
+    "popularity": 1403,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "BUG FILMS"
+    ],
+    "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts tes...",
+    "imageUrl": "https://myanimelist.net/images/anime/1726/155542l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier"
+  },
+  {
+    "id": 39894,
+    "title": "Hibike! Euphonium 3",
+    "titleJP": "響け！ユーフォニアム3",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.73,
+    "scoredBy": 38890,
+    "rank": 52,
+    "popularity": 2422,
+    "year": 2024,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music",
+      "Performing Arts",
+      "School"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "With the ensemble contest behind them, the members of the Kitauji High School concert band now aim to win a gold medal at the national competition. For third-year club president Kumiko Oumae and her friends, it is their last chance before graduation. Filled with anticipation and anxiety, Kumiko worries if she can successfully lead the band.  Amid her struggles, Kumiko encounters transfer student M...",
+    "imageUrl": "https://myanimelist.net/images/anime/1216/142086l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39894/Hibike_Euphonium_3"
+  },
+  {
+    "id": 47917,
+    "title": "Bocchi the Rock!",
+    "titleJP": "ぼっち・ざ・ろっく！",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.73,
+    "scoredBy": 475745,
+    "rank": 51,
+    "popularity": 292,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "CGDCT",
+      "Music"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "Yearning to make friends and perform live with a band, lonely and socially anxious Hitori \"Bocchi\" Gotou devotes her time to playing the guitar. On a fateful day, Bocchi meets the outgoing drummer Nijika Ijichi, who invites her to join Kessoku Band when their guitarist, Ikuyo Kita, flees before their first show. Soon after, Bocchi meets her final bandmate—the cool bassist Ryou Yamada.   Although t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1448/127956l.jpg",
+    "malUrl": "https://myanimelist.net/anime/47917/Bocchi_the_Rock"
+  },
+  {
+    "id": 50160,
+    "title": "Kingdom 4th Season",
+    "titleJP": "キングダム 第4シリーズ",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.73,
+    "scoredBy": 40739,
+    "rank": 53,
+    "popularity": 2551,
+    "year": 2022,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Studio Pierrot",
+      "Studio Signpost"
+    ],
+    "synopsis": "Following the conclusion of the large-scale coalition campaign, the entirety of China is in a state of economic recovery. The victor of the battle, the state of Qin, is no different. There, the political parties led by Ying Zheng and Buwei Lü continue their inner conflict. Having played the role of king in the coalition battle, Zheng has the trust of the people—but Lü is far from out of the fight....",
+    "imageUrl": "https://myanimelist.net/images/anime/1566/122794l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50160/Kingdom_4th_Season"
+  },
+  {
+    "id": 21,
+    "title": "One Piece",
+    "titleJP": "ONE PIECE",
+    "type": "TV",
+    "episodes": null,
+    "score": 8.73,
+    "scoredBy": 1524114,
+    "rank": 54,
+    "popularity": 17,
+    "year": 1999,
+    "season": "fall",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it.  The late Ki...",
+    "imageUrl": "https://myanimelist.net/images/anime/1244/138851l.jpg",
+    "malUrl": "https://myanimelist.net/anime/21/One_Piece"
+  },
+  {
+    "id": 60058,
+    "title": "[Oshi no Ko] 3rd Season",
+    "titleJP": "【推しの子】 第3期",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.72,
+    "scoredBy": 92402,
+    "rank": 62,
+    "popularity": 1112,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Reincarnation",
+      "Showbiz"
+    ],
+    "studios": [
+      "Doga Kobo"
+    ],
+    "synopsis": "Satisfied with his investigation of Lala Lai Theatrical Company, Aquamarine \"Aqua\" Hoshino shifts his focus from revenge to career growth and becomes a regular on the variety show Dig Deep! Chase the Impawsible. With memories of his mother still lingering in his mind, Aqua cuts contact with Kana Arima, leaving her unable to enjoy the surging popularity of her idol group, B-Komachi.  Meanwhile, fol...",
+    "imageUrl": "https://myanimelist.net/images/anime/1979/153329l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season"
+  },
+  {
+    "id": 55016,
+    "title": "Idol",
+    "titleJP": "アイドル",
+    "type": "Music",
+    "episodes": 1,
+    "score": 8.72,
+    "scoredBy": 19320,
+    "rank": null,
+    "popularity": 4800,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "Doga Kobo"
+    ],
+    "synopsis": "Music video for the song Idol by YOASOBI. The song was used as the opening theme of the anime [Oshi no Ko]....",
+    "imageUrl": "https://myanimelist.net/images/anime/1921/135489l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55016/Idol"
+  },
+  {
+    "id": 53223,
+    "title": "Kingdom 5th Season",
+    "titleJP": "キングダム 第5シリーズ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.72,
+    "scoredBy": 28542,
+    "rank": 59,
+    "popularity": 3180,
+    "year": 2024,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Studio Pierrot",
+      "Studio Signpost"
+    ],
+    "synopsis": "Fifth season of Kingdom....",
+    "imageUrl": "https://myanimelist.net/images/anime/1050/139641l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53223/Kingdom_5th_Season"
+  },
+  {
+    "id": 52215,
+    "title": "Chi. Chikyuu no Undou ni Tsuite",
+    "titleJP": "チ。―地球の運動について―",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.72,
+    "scoredBy": 116898,
+    "rank": 57,
+    "popularity": 965,
+    "year": 2024,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Twelve-year-old prodigy Rafal believes in living rationally, so as to earn praise and respect from society while not being led astray by his emotions. To this end, he publicly states his intention to study theology—the academic field held in highest regard in early 15th century Poland. However, an encounter with a mysterious man upends Rafal's life, sparking an illogical desire to instead pursue h...",
+    "imageUrl": "https://myanimelist.net/images/anime/1749/145922l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite"
+  },
+  {
+    "id": 52198,
+    "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+    "titleJP": "かぐや様は告らせたい -ファーストキッスは終わらない-",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.72,
+    "scoredBy": 215370,
+    "rank": 58,
+    "popularity": 720,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "After their first kiss, Kaguya Shinomiya and Miyuki Shirogane are left unsure where their relationship stands. The troubling uncertainty of whether they could be considered an official couple unleashes newfound problems as both Kaguya and Shirogane struggle to sort out their feelings.  While the lovestruck student council officers fret, the Christmas season rolls around, and romance is in the air....",
+    "imageUrl": "https://myanimelist.net/images/anime/1670/130060l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52198/Kaguya-sama_wa_Kokurasetai__First_Kiss_wa_Owaranai"
+  },
+  {
+    "id": 24701,
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "titleJP": "蟲師 続章",
+    "type": "TV",
+    "episodes": 10,
+    "score": 8.72,
+    "scoredBy": 116666,
+    "rank": 61,
+    "popularity": 951,
+    "year": 2014,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Artland"
+    ],
+    "synopsis": "Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern ...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/68095l.jpg",
+    "malUrl": "https://myanimelist.net/anime/24701/Mushishi_Zoku_Shou_2nd_Season"
+  },
+  {
+    "id": 50172,
+    "title": "Mob Psycho 100 III",
+    "titleJP": "モブサイコ100 III",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.72,
+    "scoredBy": 443491,
+    "rank": 60,
+    "popularity": 253,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "After foiling a world-threatening plot, Shigeo \"Mob\" Kageyama returns to tackle the more exhausting aspects of his mundane life—starting with filling out his school's nerve-racking career form. Meanwhile, he continues to assist his mentor Arataka Reigen and the office's new recruit, Katsuya Serizawa, in solving paranormal cases of their clients. While continuing his duties, Mob also works on gaini...",
+    "imageUrl": "https://myanimelist.net/images/anime/1228/125011l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50172/Mob_Psycho_100_III"
+  },
+  {
+    "id": 48569,
+    "title": "86 Part 2",
+    "titleJP": "86―エイティシックス―",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.72,
+    "scoredBy": 373026,
+    "rank": 56,
+    "popularity": 384,
+    "year": 2021,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Military"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "The disappearance of the Spearhead Squadron beyond the horizon does little to hide the intensity of the Republic of San Magnolia's endless propaganda. Vladilena Milizé continues to operate as \"Handler One,\" the commander of yet another dehumanized 86th faction's squadron in the continuous war against the Legion.  On the Western Front, Shinei Nouzen and his squad are quarantined in a military base ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1321/117508l.jpg",
+    "malUrl": "https://myanimelist.net/anime/48569/86_Part_2"
+  },
+  {
+    "id": 60098,
+    "title": "Boku no Hero Academia: Final Season",
+    "titleJP": "僕のヒーローアカデミア FINAL SEASON",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.71,
+    "scoredBy": 152251,
+    "rank": 63,
+    "popularity": 933,
+    "year": 2025,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "School",
+      "Super Power"
+    ],
+    "studios": [
+      "Bones Film"
+    ],
+    "synopsis": "The final stages of an all-out war between heroes and villains unfold as the world watches its symbols of peace and destruction collide. When All Might is critically injured, global fear takes hold as the fate of society hangs in the balance, and the threat of All For One and Tomura Shigaraki makes it clear that the conflict is far from over.  As hope begins to fade, Izuku \"Deku\" Midoriya stands a...",
+    "imageUrl": "https://myanimelist.net/images/anime/1959/151055l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60098/Boku_no_Hero_Academia__Final_Season"
+  },
+  {
+    "id": 1575,
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "titleJP": "コードギアス 反逆のルルーシュ",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.71,
+    "scoredBy": 1519136,
+    "rank": 64,
+    "popularity": 22,
+    "year": 2006,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Military",
+      "School",
+      "Super Power"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "In the year 2010, the Holy Empire of Britannia is establishing itself as a dominant military nation, starting with the conquest of Japan. Renamed to Area 11 after its swift defeat, Japan has seen significant resistance against these tyrants in an attempt to regain independence.  Lelouch Lamperouge, a Britannian student, unfortunately finds himself caught in a crossfire between the Britannian and t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1032/135088l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+  },
+  {
+    "id": 45649,
+    "title": "The First Slam Dunk",
+    "titleJP": "THE FIRST SLAM DUNK",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.71,
+    "scoredBy": 36344,
+    "rank": 66,
+    "popularity": 2810,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Toei Animation",
+      "DandeLion Animation Studio"
+    ],
+    "synopsis": "Shohoku's \"speedster\" and point guard, Ryouta Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. Born and raised in Okinawa, Ryouta had a brother who was three years older. Following in the footsteps of his older brother, who was a famous local player from a young age, Ryouta also became addicted to basketball.  In his second year o...",
+    "imageUrl": "https://myanimelist.net/images/anime/1745/129284l.jpg",
+    "malUrl": "https://myanimelist.net/anime/45649/The_First_Slam_Dunk"
+  },
+  {
+    "id": 51009,
+    "title": "Jujutsu Kaisen 2nd Season",
+    "titleJP": "呪術廻戦 懐玉・玉折／渋谷事変",
+    "type": "TV",
+    "episodes": 23,
+    "score": 8.71,
+    "scoredBy": 815906,
+    "rank": 65,
+    "popularity": 107,
+    "year": 2023,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "Gore",
+      "School"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "The year is 2006, and the halls of Tokyo Prefectural Jujutsu High School echo with the endless bickering and intense debate between two inseparable best friends. Exuding unshakeable confidence, Satoru Gojou and Suguru Getou believe there is no challenge too great for young and powerful Special Grade sorcerers such as themselves. They are tasked with safely delivering a sensible girl named Riko Ama...",
+    "imageUrl": "https://myanimelist.net/images/anime/1792/138022l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season"
+  },
+  {
+    "id": 53998,
+    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "titleJP": "BLEACH 千年血戦篇-訣別譚-",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.7,
+    "scoredBy": 233468,
+    "rank": 67,
+    "popularity": 659,
+    "year": 2023,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "After a brutal surprise attack by the forces of Quincy King Yhwach, the resident Reapers of the Soul Society lick their wounds and mourn their losses. Many of the surviving Soul Reaper captains train to battle without their Bankai, the ultimate technique wielded by the fiercest warriors.  In the previous assault, Ichigo Kurosaki narrowly managed to help fend off Yhwach's fearsome wrath. However, t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1164/138058l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53998/Bleach__Sennen_Kessen-hen_-_Ketsubetsu-tan"
+  },
+  {
+    "id": 33095,
+    "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "titleJP": "昭和元禄落語心中～助六再び篇～",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.7,
+    "scoredBy": 70006,
+    "rank": 70,
+    "popularity": 1376,
+    "year": 2017,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Love Polygon",
+      "Performing Arts"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "Even after having risen to the utmost rank of shin'uchi, Yotarou struggles to find his own identity in the world of rakugo. Caught between his master's teachings and the late Sukeroku's unique style, his performance lacks an important ingredient—ego. And while his popularity packs the theaters, he is but one of the few; rakugo is under threat of being eclipsed.  Meanwhile Yakumo, regarded by many ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1493/124765l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33095/Shouwa_Genroku_Rakugo_Shinjuu__Sukeroku_Futatabi-hen"
+  },
+  {
+    "id": 44074,
+    "title": "Shiguang Dailiren",
+    "titleJP": "时光代理人",
+    "type": "ONA",
+    "episodes": 11,
+    "score": 8.7,
+    "scoredBy": 188812,
+    "rank": 69,
+    "popularity": 541,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Super Power",
+      "Time Travel"
+    ],
+    "studios": [
+      "LAN Studio"
+    ],
+    "synopsis": "It is said that a picture is worth a thousand words. In this case, it holds an infinite amount of secrets. These are secrets that only Cheng Xiaoshi and Lu Guang are able to find. In a small shop called \"Time Photo Studio,\" the two friends provide a special service: using their extraordinary powers that let them enter photographs, they jump into pictures brought to them by clients in order to gran...",
+    "imageUrl": "https://myanimelist.net/images/anime/1135/114867l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44074/Shiguang_Dailiren"
+  },
+  {
+    "id": 47778,
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "titleJP": "鬼滅の刃 遊郭編",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.7,
+    "scoredBy": 1112935,
+    "rank": 68,
+    "popularity": 72,
+    "year": 2022,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "The devastation of the Mugen Train incident still weighs heavily on the members of the Demon Slayer Corps. Despite being given time to recover, life must go on, as the wicked never sleep: a vicious demon is terrorizing the alluring women of the Yoshiwara Entertainment District. The Sound Hashira, Tengen Uzui, and his three wives are on the case. However, when he soon loses contact with his spouses...",
+    "imageUrl": "https://myanimelist.net/images/anime/1908/120036l.jpg",
+    "malUrl": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen"
+  },
+  {
+    "id": 55690,
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+    "titleJP": "僕の心のヤバイやつ 第2期",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.69,
+    "scoredBy": 175706,
+    "rank": 71,
+    "popularity": 913,
+    "year": 2024,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Shin-Ei Animation"
+    ],
+    "synopsis": "After an eventful winter break, Kyoutarou Ichikawa and Anna Yamada reunite with a stronger bond. They continue to grow in their own ways, with Yamada taking on more challenging photoshoots and Ichikawa maturing both physically and emotionally as he tackles his affections for Yamada. However, spending time together outside of school allows for their relationship to deepen, and it becomes increasing...",
+    "imageUrl": "https://myanimelist.net/images/anime/1643/138581l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55690/Boku_no_Kokoro_no_Yabai_Yatsu_2nd_Season"
+  },
+  {
+    "id": 21939,
+    "title": "Mushishi Zoku Shou",
+    "titleJP": "蟲師 続章",
+    "type": "TV",
+    "episodes": 10,
+    "score": 8.69,
+    "scoredBy": 128391,
+    "rank": 72,
+    "popularity": 859,
+    "year": 2014,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Artland"
+    ],
+    "synopsis": "Perceived as strange and feared by man, over time the misshapen ones came to be known as Mushi. Although they harbor no ill intentions towards humans, many suffer from the side effects of their existence and strange nature; exploiting the Mushi without understanding them, even unintentionally, can lead to disaster and strife for any involved. Mushishi Zoku Shou continues the story of Mushishi Gink...",
+    "imageUrl": "https://myanimelist.net/images/anime/13/58533l.jpg",
+    "malUrl": "https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
+  },
+  {
+    "id": 33352,
+    "title": "Violet Evergarden",
+    "titleJP": "ヴァイオレット・エヴァーガーデン",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.69,
+    "scoredBy": 1088139,
+    "rank": 74,
+    "popularity": 46,
+    "year": 2018,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dea...",
+    "imageUrl": "https://myanimelist.net/images/anime/1795/95088l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33352/Violet_Evergarden"
+  },
+  {
+    "id": 44,
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+    "titleJP": "るろうに剣心―明治剣客浪漫譚―追憶編",
+    "type": "OVA",
+    "episodes": 4,
+    "score": 8.69,
+    "scoredBy": 144454,
+    "rank": 73,
+    "popularity": 952,
+    "year": 1999,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Samurai"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "When mankind's savagery surpasses his fear of death, there is little hope for those who wish to live honest lives. Beneath a full moon, a young boy witnesses the murder of the bandits who had enslaved him, and is then christened with a new name by the man who rescued him. This boy is Shinta, now known as Kenshin Himura, and he is destined to become a swordsman. The softness of his heart does not b...",
+    "imageUrl": "https://myanimelist.net/images/anime/1656/137618l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen"
+  },
+  {
+    "id": 61930,
+    "title": "Uma Musume: Cinderella Gray Part 2",
+    "titleJP": "ウマ娘 シンデレラグレイ 第2クール",
+    "type": "TV",
+    "episodes": 10,
+    "score": 8.68,
+    "scoredBy": 32015,
+    "rank": 77,
+    "popularity": 3156,
+    "year": 2025,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Anthropomorphic",
+      "Racing"
+    ],
+    "studios": [
+      "CygamesPictures"
+    ],
+    "synopsis": "Ever since horse girl Oguri Cap left the small town of Kasamatsu to chase greater heights in Tokyo, she has rapidly gained attention with her remarkable results. Her goal to become the best horse girl in Japan seems within reach, but there is a rival in her way—another running prodigy named Tamamo Cross.  However, Tamamo is not the only threat to Oguri: several world-class racers from overseas are...",
+    "imageUrl": "https://myanimelist.net/images/anime/1120/152280l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61930/Uma_Musume__Cinderella_Gray_Part_2"
+  },
+  {
+    "id": 53447,
+    "title": "Tu Bian Yingxiong X",
+    "titleJP": "凸变英雄X",
+    "type": "ONA",
+    "episodes": 24,
+    "score": 8.68,
+    "scoredBy": 108799,
+    "rank": 76,
+    "popularity": 1154,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Super Power"
+    ],
+    "studios": [
+      "Pb Animation",
+      "LAN Studio",
+      "Paper Plane Animation Studio",
+      "B.COOL STUDIO"
+    ],
+    "synopsis": "This is a world where heroes are created by people's trust, and the hero who has received the most trust is known as \"X.\" In this world, people's trust can be calculated by data, and these values will be reflected on everyone's wrist. As long as enough trust points are obtained, ordinary people can also have superpowers and become superheroes that save the world. However, the ever-changing trust v...",
+    "imageUrl": "https://myanimelist.net/images/anime/1492/150628l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53447/Tu_Bian_Yingxiong_X"
+  },
+  {
+    "id": 245,
+    "title": "Great Teacher Onizuka",
+    "titleJP": "グレート・ティーチャー・オニヅカ",
+    "type": "TV",
+    "episodes": 43,
+    "score": 8.68,
+    "scoredBy": 448759,
+    "rank": 75,
+    "popularity": 221,
+    "year": 1999,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Delinquents",
+      "School",
+      "Workplace"
+    ],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "Twenty-two-year-old Eikichi Onizuka—ex-biker gang leader, conqueror of Shonan, and virgin—has a dream: to become the greatest high school teacher in all of Japan. This isn't because of a passion for teaching, but because he wants a loving teenage wife when he's old and gray. Still, for a perverted, greedy, and lazy delinquent, there is more to Onizuka than meets the eye. So when he lands a job as ...",
+    "imageUrl": "https://myanimelist.net/images/anime/13/11460l.jpg",
+    "malUrl": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka"
+  },
+  {
+    "id": 61517,
+    "title": "Kingdom 6th Season",
+    "titleJP": "キングダム 第6シリーズ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.67,
+    "scoredBy": 16833,
+    "rank": 82,
+    "popularity": 4176,
+    "year": 2025,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Studio Pierrot",
+      "Studio Signpost"
+    ],
+    "synopsis": "In ancient China, during the Warring States period, a former servant named Xin rises through the ranks with a dream: to become the greatest general under the heavens. Fighting alongside King Ying Zheng of Qin—who seeks to unify China and end the chaos—Xin leads his own unit, the Fei Xin Force, onto the battlefield.  With power reclaimed from the influential Chancellor Buwei Lü, King Ying Zheng beg...",
+    "imageUrl": "https://myanimelist.net/images/anime/1282/151476l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61517/Kingdom_6th_Season"
+  },
+  {
+    "id": 59192,
+    "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+    "titleJP": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.67,
+    "scoredBy": 186744,
+    "rank": 81,
+    "popularity": 749,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "First anime movie of the trilogy adaptation of the Infinity Castle Arc....",
+    "imageUrl": "https://myanimelist.net/images/anime/1681/148216l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59192/Kimetsu_no_Yaiba_Movie_1__Mugenjou-hen_-_Akaza_Sairai"
+  },
+  {
+    "id": 56784,
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "titleJP": "BLEACH 千年血戦篇-相剋譚-",
+    "type": "TV",
+    "episodes": 14,
+    "score": 8.67,
+    "scoredBy": 155766,
+    "rank": 78,
+    "popularity": 948,
+    "year": 2024,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Pierrot Films"
+    ],
+    "synopsis": "After an awe-inspiring battle with Ichibei Hyousube—leader of the Soul Society's Royal Guard—the powerful Yhwach moves into the final stage of his master plan. He aims to slay the Soul King, the being whose very existence maintains the status quo of three worlds: Hueco Mundo, the Soul Society, and the realm of humans that Ichigo Kurosaki and his closest friends hail from. Conquering his own bout w...",
+    "imageUrl": "https://myanimelist.net/images/anime/1595/144074l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan"
+  },
+  {
+    "id": 5258,
+    "title": "Hajime no Ippo: New Challenger",
+    "titleJP": "はじめの一歩 新シリーズ",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.67,
+    "scoredBy": 189151,
+    "rank": 79,
+    "popularity": 862,
+    "year": 2009,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Japanese Featherweight Champion Ippo Makunouchi has successfully defended and retained his title. Meanwhile, his rival, Ichirou Miyata, has resurfaced in Japan, aiming for his own Featherweight belt in the Oriental Pacific Boxing Federation. When the rest of the world comes knocking, however, will Japan's best fighters rise to the challenge and achieve glory at the top? Or will the small island na...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/56617l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5258/Hajime_no_Ippo__New_Challenger"
+  },
+  {
+    "id": 431,
+    "title": "Howl no Ugoku Shiro",
+    "titleJP": "ハウルの動く城",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.67,
+    "scoredBy": 1023783,
+    "rank": 80,
+    "popularity": 99,
+    "year": 2004,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "That jumbled piece of architecture, that cacophony of hissing steam and creaking joints, with smoke billowing from it as it moves on its own... That castle is home to the magnificent wizard Howl, infamous for both his magical prowess and for being a womanizer—or so the rumor goes in Sophie Hatter's small town. Sophie, as the plain daughter of a hatmaker, does not expect much from her future and is...",
+    "imageUrl": "https://myanimelist.net/images/anime/1470/138723l.jpg",
+    "malUrl": "https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro"
+  },
+  {
+    "id": 164,
+    "title": "Mononoke Hime",
+    "titleJP": "もののけ姫",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.67,
+    "scoredBy": 886674,
+    "rank": 83,
+    "popularity": 108,
+    "year": 1997,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "When an Emishi village is attacked by a fierce demon boar, the young prince Ashitaka puts his life at stake to defend his tribe. With its dying breath, the beast curses the prince's arm, granting him demonic powers while gradually siphoning his life away. Instructed by the village elders to travel westward for a cure, Ashitaka arrives at Tatara, the Iron Town, where he finds himself embroiled in a...",
+    "imageUrl": "https://myanimelist.net/images/anime/1355/147277l.jpg",
+    "malUrl": "https://myanimelist.net/anime/164/Mononoke_Hime"
+  },
+  {
+    "id": 57864,
+    "title": "Monogatari Series: Off & Monster Season",
+    "titleJP": "〈物語〉シリーズ オフ&モンスターシーズン",
+    "type": "ONA",
+    "episodes": 14,
+    "score": 8.65,
+    "scoredBy": 39286,
+    "rank": 85,
+    "popularity": 2347,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Koyomi Araragi spent his last year of high school helping girls in his town resolve various supernatural afflictions. But now Araragi has departed for university, leaving his friends to fend for themselves against new problems and curses that plague them. Yotsugi Ononoki, once a human corpse and now a living doll, takes residence in Araragi's home, keeping watch over his sister Tsukihi, a girl har...",
+    "imageUrl": "https://myanimelist.net/images/anime/1142/146776l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season"
+  },
+  {
+    "id": 57647,
+    "title": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
+    "titleJP": "ウマ娘 プリティーダービー 新時代の扉",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.65,
+    "scoredBy": 34381,
+    "rank": 87,
+    "popularity": 3353,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Anthropomorphic",
+      "Racing"
+    ],
+    "studios": [
+      "CygamesPictures"
+    ],
+    "synopsis": "Running in the highest level of horse racing, the Twinkle Series, is the dream of many horse girls. Although she has only taken part in freestyle racing before, horse girl Jungle Pocket discovers that very same aspiration after she witnesses Fuji Kiseki's tremendous victory on a grand stage. Equipped with unwavering self-confidence, Jungle Pocket is quickly able to accumulate a few victories, allo...",
+    "imageUrl": "https://myanimelist.net/images/anime/1427/142210l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57647/Uma_Musume__Pretty_Derby_-_Shin_Jidai_no_Tobira"
+  },
+  {
+    "id": 57658,
+    "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    "titleJP": "呪術廻戦 「死滅回游 前編」",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.65,
+    "scoredBy": 201003,
+    "rank": 84,
+    "popularity": 561,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Kenjaku, the one known as Noritoshi Kamo and most recently as Suguru Getou, has initiated the next step in his destructive, thousand-year plan of ordinary humans' evolution and eventual eradication. The jujutsu world higher-ups reinstate 15-year-old Yuuji Itadori's execution, as Satoru Gojou is incapacitated as a result of Kenjaku's master plan in Shibuya. While Yuuji is unaware of this, he patrol...",
+    "imageUrl": "https://myanimelist.net/images/anime/1659/154920l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57658/Jujutsu_Kaisen__Shimetsu_Kaiyuu_-_Zenpen"
+  },
+  {
+    "id": 457,
+    "title": "Mushishi",
+    "titleJP": "蟲師",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.65,
+    "scoredBy": 297837,
+    "rank": 86,
+    "popularity": 226,
+    "year": 2005,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Artland"
+    ],
+    "synopsis": "\"Mushi\": the most basic forms of life in the world. They exist without any goals or purposes aside from simply \"being.\" They are beyond the shackles of the words \"good\" and \"evil.\" Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows.  This is, however, just a vague definition of these entities that...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/73862l.jpg",
+    "malUrl": "https://myanimelist.net/anime/457/Mushishi"
+  },
+  {
+    "id": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "titleJP": "天元突破グレンラガン",
+    "type": "TV",
+    "episodes": 27,
+    "score": 8.64,
+    "scoredBy": 974996,
+    "rank": 90,
+    "popularity": 66,
+    "year": 2007,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha"
+    ],
+    "studios": [
+      "Gainax"
+    ],
+    "synopsis": "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while excavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs L...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/5123l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann"
+  },
+  {
+    "id": 23273,
+    "title": "Shigatsu wa Kimi no Uso",
+    "titleJP": "四月は君の嘘",
+    "type": "TV",
+    "episodes": 22,
+    "score": 8.64,
+    "scoredBy": 1467271,
+    "rank": 88,
+    "popularity": 24,
+    "year": 2014,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Love Polygon",
+      "Music",
+      "Performing Arts",
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Kousei Arima is a child prodigy known as the \"Human Metronome\" for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he neve...",
+    "imageUrl": "https://myanimelist.net/images/anime/1405/143284l.jpg",
+    "malUrl": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso"
+  },
+  {
+    "id": 50399,
+    "title": "Tian Guan Cifu Er",
+    "titleJP": "天官賜福 貳",
+    "type": "ONA",
+    "episodes": 12,
+    "score": 8.64,
+    "scoredBy": 25041,
+    "rank": 91,
+    "popularity": 3119,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology"
+    ],
+    "studios": [
+      "Red Dog Culture House"
+    ],
+    "synopsis": "Although most gods in the heavenly realm avoid dealing with the forgotten god Xie Lian, Heavenly Emperor Jun Wu holds him in good graces. Xie Lian's luck is otherwise terrible, and adding to his troubles, the gods seem to suspect that Xie Lian's recent companion was the dreaded Ghost King Hua Cheng. Despite what others may think of him, Xie Lian fondly recalls Hua Cheng's promise: the next time th...",
+    "imageUrl": "https://myanimelist.net/images/anime/1203/139210l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50399/Tian_Guan_Cifu_Er"
+  },
+  {
+    "id": 35760,
+    "title": "Shingeki no Kyojin Season 3",
+    "titleJP": "進撃の巨人 Season3",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.64,
+    "scoredBy": 1805209,
+    "rank": 89,
+    "popularity": 18,
+    "year": 2018,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "Still threatened by the \"Titans\" that rob them of their freedom, mankind remains caged inside the two remaining walls. Efforts to eradicate these monsters continue; however, threats arise not only from the Titans beyond the walls, but from the humans within them as well.  After being rescued from the Colossal and Armored Titans, Eren Yaeger devotes himself to improving his Titan form. Krista Lenz ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1173/92110l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3"
+  },
+  {
+    "id": 33050,
+    "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+    "titleJP": "劇場版「Fate/stay night [Heaven's Feel] III.spring song」",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.63,
+    "scoredBy": 222331,
+    "rank": 92,
+    "popularity": 668,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "The Fifth Holy Grail War in Fuyuki City has reached a turning point in which the lives of all participants are threatened as the hidden enemy finally reveals itself. As Shirou Emiya, Rin Toosaka, and Illyasviel von Einzbern discover the true, corruptive nature of the shadow that has been rampaging throughout the city, they realize just how dire the situation is. In order to protect their beloved o...",
+    "imageUrl": "https://myanimelist.net/images/anime/1142/112957l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33050/Fate_stay_night_Movie__Heavens_Feel_-_III_Spring_Song"
+  },
+  {
+    "id": 11665,
+    "title": "Natsume Yuujinchou Shi",
+    "titleJP": "夏目友人帳 肆",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.63,
+    "scoredBy": 117639,
+    "rank": 93,
+    "popularity": 1060,
+    "year": 2012,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "Takashi Natsume, the timid youkai expert and master of the Book of Friends, continues his journey towards self-understanding and acceptance with the help of friends both new and old. His most important ally is still his gluttonous and sake-loving bodyguard, the arrogant but fiercely protective wolf spirit Madara—or Nyanko-sensei, as Madara is called when in his usual disguise of an unassuming, pud...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/37449l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi"
+  },
+  {
+    "id": 22135,
+    "title": "Ping Pong the Animation",
+    "titleJP": "ピンポン THE ANIMATION",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.63,
+    "scoredBy": 203892,
+    "rank": 95,
+    "popularity": 609,
+    "year": 2014,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sports"
+    ],
+    "themes": [],
+    "studios": [
+      "Tatsunoko Production"
+    ],
+    "synopsis": "Despite being polar opposites, Makoto \"Smile\" Tsukimoto and Yutaka \"Peco\" Hoshino have been best friends since childhood. Although the overly confident Peco strives to be the best ping-pong player in the world, he often skips practice, earning the ire of his fellow teammates on the Katase High School ping-pong team. Meanwhile, Smile—in spite of his innate talent for the sport—cannot help but hold ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1586/146565l.jpg",
+    "malUrl": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation"
+  },
+  {
+    "id": 46102,
+    "title": "Odd Taxi",
+    "titleJP": "オッドタクシー",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.63,
+    "scoredBy": 250205,
+    "rank": 94,
+    "popularity": 505,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Anthropomorphic",
+      "Organized Crime"
+    ],
+    "studios": [
+      "OLM",
+      "P.I.C.S."
+    ],
+    "synopsis": "Eccentric and blunt, the walrus Hiroshi Odokawa lives a relatively normal life. He drives a taxi for a living, and there he meets several unique individuals: the jobless Taichi Kabasawa who is dead-set on going viral, the mysterious nurse Miho Shirakawa, the struggling comedic duo \"Homo Sapiens,\" and Dobu, a well-known delinquent.  But Odokawa's simple way of life is about to be turned upside down...",
+    "imageUrl": "https://myanimelist.net/images/anime/1981/113348l.jpg",
+    "malUrl": "https://myanimelist.net/anime/46102/Odd_Taxi"
+  },
+  {
+    "id": 61952,
+    "title": "Luo Xiaohei Zhanji 2",
+    "titleJP": "罗小黑战记2",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.62,
+    "scoredBy": 2369,
+    "rank": 101,
+    "popularity": 7335,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "HMCH"
+    ],
+    "synopsis": "When an attack shatters the fragile peace between the spirit world and humanity, Hei teams up with Luye, the last disciple of his Shifu Wuxian, to expose a conspiracy that threatens both realms—and the bond they've sworn to protect.  (Source: AMC Theatres)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1288/151853l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61952/Luo_Xiaohei_Zhanji_2"
+  },
+  {
+    "id": 58125,
+    "title": "Look Back",
+    "titleJP": "ルックバック",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.62,
+    "scoredBy": 137144,
+    "rank": 100,
+    "popularity": 1176,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [
+      "Otaku Culture"
+    ],
+    "studios": [
+      "Studio DURIAN"
+    ],
+    "synopsis": "Ayumu Fujino may only be in the fourth grade, but she already basks in high praise for her hand-drawn four-panel comics featured in the school's newspaper. However, when she is asked to share the page with Kyoumoto—a reclusive student she has never met—Fujino feels inadequate for the first time: her free-spirited drawings look embarrassingly amateurish next to Kyoumoto's breathtakingly detailed ar...",
+    "imageUrl": "https://myanimelist.net/images/anime/1716/142633l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58125/Look_Back"
+  },
+  {
+    "id": 52742,
+    "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
+    "titleJP": "劇場版ハイキュー!! ゴミ捨て場の決戦",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.62,
+    "scoredBy": 106766,
+    "rank": 98,
+    "popularity": 1244,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Kenma Kozume has never considered volleyball fun or thrilling: it is merely something he is good at. But now Nekoma High School's volleyball team has qualified for the Spring Nationals and prepares to battle their long-standing rivals—Karasuno. Now, Kenma has to analyze the most confounding and resilient team and lead Nekoma to victory against them. Moreover, he will play against his friend Shouyo...",
+    "imageUrl": "https://myanimelist.net/images/anime/1665/140360l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52742/Haikyuu_Movie__Gomisuteba_no_Kessen"
+  },
+  {
+    "id": 34599,
+    "title": "Made in Abyss",
+    "titleJP": "メイドインアビス",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.62,
+    "scoredBy": 835397,
+    "rank": 102,
+    "popularity": 92,
+    "year": 2017,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gore"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "The Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. The best and bravest of the Divers, the White Whistles, are hailed as ...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/86733l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34599/Made_in_Abyss"
+  },
+  {
+    "id": 42310,
+    "title": "Cyberpunk: Edgerunners",
+    "titleJP": "サイバーパンク エッジランナーズ",
+    "type": "ONA",
+    "episodes": 10,
+    "score": 8.62,
+    "scoredBy": 709247,
+    "rank": 96,
+    "popularity": 175,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gore",
+      "Organized Crime"
+    ],
+    "studios": [
+      "Trigger"
+    ],
+    "synopsis": "Dreams are doomed to die in Night City, a futuristic Californian metropolis. As a teenager living in the city's slums, David Martinez is trying to fulfill his mother's lifelong wish for him to reach the top of Arasaka, the world's leading security corporation. To this end, he attends the prestigious Arasaka Academy while his mother works tirelessly to keep their family afloat.  When an incident wi...",
+    "imageUrl": "https://myanimelist.net/images/anime/1818/126435l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners"
+  },
+  {
+    "id": 1535,
+    "title": "Death Note",
+    "titleJP": "デスノート",
+    "type": "TV",
+    "episodes": 37,
+    "score": 8.62,
+    "scoredBy": 2997076,
+    "rank": 97,
+    "popularity": 2,
+    "year": 2006,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Supernatural",
+      "Suspense"
+    ],
+    "themes": [
+      "Psychological"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.  For his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of...",
+    "imageUrl": "https://myanimelist.net/images/anime/1079/138100l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1535/Death_Note"
+  },
+  {
+    "id": 28891,
+    "title": "Haikyuu!! Second Season",
+    "titleJP": "ハイキュー!! セカンドシーズン",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.62,
+    "scoredBy": 1026122,
+    "rank": 99,
+    "popularity": 87,
+    "year": 2015,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead.   When they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing wi...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/76662l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season"
+  },
+  {
+    "id": 49413,
+    "title": "Shiguang Dailiren II",
+    "titleJP": "时光代理人II",
+    "type": "ONA",
+    "episodes": 12,
+    "score": 8.62,
+    "scoredBy": 80076,
+    "rank": 104,
+    "popularity": 1606,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Super Power",
+      "Time Travel"
+    ],
+    "studios": [
+      "LAN Studio"
+    ],
+    "synopsis": "The attempt to capture the mysterious perpetrator who possesses people ends tragically: Lu Guang is rushed to the hospital in a critical state, while Cheng Xiaoshi is arrested for the alleged crime. In light of recent events, the father of Liu Min unleashes his skilled, ruthless lawyer—Qian Jin—after Police Chief Li Xiao, who is spearheading the investigation related to the photo studio owned by Q...",
+    "imageUrl": "https://myanimelist.net/images/anime/1897/137108l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49413/Shiguang_Dailiren_II"
+  },
+  {
+    "id": 40434,
+    "title": "Mo Dao Zu Shi: Wanjie Pian",
+    "titleJP": "魔道祖师 完结篇",
+    "type": "ONA",
+    "episodes": 12,
+    "score": 8.62,
+    "scoredBy": 35055,
+    "rank": 103,
+    "popularity": 2437,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology",
+      "Reincarnation"
+    ],
+    "studios": [
+      "B.CMAY PICTURES"
+    ],
+    "synopsis": "Along an empty road in the rural countryside, Wei Wuxian and Lan Wangji stumble across a stone plaque that reads \"Yi City.\" Still on their quest to unravel the mystery behind the cursed severed arm, they venture into the deserted city to obtain further leads.  However, with the appearance of a mysterious new cultivator, the demonic arm investigation leads Wei Wuxian and Lan Wangji to a plot that t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1634/116782l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian"
+  },
+  {
+    "id": 49818,
+    "title": "Guimi Zhi Zhu: Xiaochou Pian",
+    "titleJP": "诡秘之主 小丑篇",
+    "type": "ONA",
+    "episodes": 13,
+    "score": 8.61,
+    "scoredBy": 73562,
+    "rank": 106,
+    "popularity": 1381,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Isekai"
+    ],
+    "studios": [
+      "B.CMAY PICTURES"
+    ],
+    "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor's edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential...and unspeakable danger.  (Source: Crunchyroll)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1952/149229l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49818/Guimi_Zhi_Zhu__Xiaochou_Pian"
+  },
+  {
+    "id": 54898,
+    "title": "Bungou Stray Dogs 5th Season",
+    "titleJP": "文豪ストレイドッグス",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.61,
+    "scoredBy": 120632,
+    "rank": 105,
+    "popularity": 1086,
+    "year": 2023,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Organized Crime",
+      "Super Power",
+      "Vampire"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "The Armed Detective Agency is still on the run from the Hunting Dogs, but not all hope is lost. Detective Ranpo Edogawa has a plan to prove the Agency's innocence and save the world from chaos: to find and capture Kamui—the leader of the terrorist organization Decay of the Angel.   In order to determine Kamui's whereabouts, Ranpo and his colleague Atsushi Nakajima must convince Ouchi Fukuchi, the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1161/136691l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54898/Bungou_Stray_Dogs_5th_Season"
+  },
+  {
+    "id": 34591,
+    "title": "Natsume Yuujinchou Roku",
+    "titleJP": "夏目友人帳 陸",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.61,
+    "scoredBy": 76523,
+    "rank": 112,
+    "popularity": 1354,
+    "year": 2017,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "Takashi Natsume has grown accustomed to his encounters with youkai through the Book of Friends, which contains the names of youkai whom his grandmother, Reiko Natsume, has sealed in contracts. These encounters allow Natsume to better understand the youkai, Reiko, and himself.   The Book of Friends is a powerful tool that can be used to control youkai; it is sought after by both youkai and exorcist...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/84416l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34591/Natsume_Yuujinchou_Roku"
+  },
+  {
+    "id": 4565,
+    "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+    "titleJP": "劇場版 天元突破グレンラガン 螺巌篇",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.61,
+    "scoredBy": 113097,
+    "rank": 113,
+    "popularity": 1183,
+    "year": 2009,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Space",
+      "Super Power"
+    ],
+    "studios": [
+      "Gainax"
+    ],
+    "synopsis": "Humans have enjoyed their lavish, peaceful, and prosperous lives for seven years since the day the almighty Spiral King was defeated—the day they reclaimed their homeland, Earth. However, the boon of this lifestyle leaves them unprepared when an unknown, hostile threat arises due to the ever-growing human population. This calamity is the Anti-Spiral—a fearsome enemy with unparalleled power.    As ...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/19698l.jpg",
+    "malUrl": "https://myanimelist.net/anime/4565/Tengen_Toppa_Gurren_Lagann_Movie_2__Lagann-hen"
+  },
+  {
+    "id": 40591,
+    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+    "titleJP": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.61,
+    "scoredBy": 957810,
+    "rank": 109,
+    "popularity": 96,
+    "year": 2020,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different class...",
+    "imageUrl": "https://myanimelist.net/images/anime/1764/106659l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen"
+  },
+  {
+    "id": 45576,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "titleJP": "無職転生 ～異世界行ったら本気だす～ 第2クール",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.61,
+    "scoredBy": 702449,
+    "rank": 110,
+    "popularity": 159,
+    "year": 2021,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Studio Bind"
+    ],
+    "synopsis": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to F...",
+    "imageUrl": "https://myanimelist.net/images/anime/1028/117777l.jpg",
+    "malUrl": "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2"
+  },
+  {
+    "id": 19647,
+    "title": "Hajime no Ippo: Rising",
+    "titleJP": "はじめの一歩 Rising",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.61,
+    "scoredBy": 163725,
+    "rank": 108,
+    "popularity": 935,
+    "year": 2013,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Madhouse",
+      "MAPPA"
+    ],
+    "synopsis": "Japanese Featherweight Champion Makunouchi Ippo has defended his title belt once more with the help of his devastating signature move: the Dempsey Roll. However, new challengers are rising up left and right, claiming to have an answer for the move responsible for crushing his opponents. Will Ippo be able to step up to the challenge, or will the weight of his pride destroy him before he finds out j...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/56147l.jpg",
+    "malUrl": "https://myanimelist.net/anime/19647/Hajime_no_Ippo__Rising"
+  },
+  {
+    "id": 33,
+    "title": "Kenpuu Denki Berserk",
+    "titleJP": "剣風伝奇ベルセルク",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.61,
+    "scoredBy": 411887,
+    "rank": 109,
+    "popularity": 304,
+    "year": 1997,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Psychological"
+    ],
+    "studios": [
+      "OLM"
+    ],
+    "synopsis": "Guts, a man who will one day be known as the Black Swordsman, is a young traveling mercenary characterized by the large greatsword he carries. He accepts jobs that offer the most money, but he never stays with one group for long—until he encounters the Band of the Falcon. Ambushed after completing a job, Guts crushes many of its members in combat. Griffith, The Band of the Falcon's leader and foun...",
+    "imageUrl": "https://myanimelist.net/images/anime/1384/119988l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk"
+  },
+  {
+    "id": 50250,
+    "title": "Chiikawa",
+    "titleJP": "ちいかわ",
+    "type": "TV",
+    "episodes": null,
+    "score": 8.6,
+    "scoredBy": 6186,
+    "rank": 113,
+    "popularity": 5499,
+    "year": 2022,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [],
+    "studios": [
+      "Doga Kobo"
+    ],
+    "synopsis": "What's a Chiikawa? No one really knows, but everyone can see they're small, they're cute, and they're always having a fun time! Join them as they explore their surreal world with the sharp humor and clever antics that make the Chiikawa irresistible.  (Source: HIDIVE, edited)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1783/121944l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50250/Chiikawa"
+  },
+  {
+    "id": 36862,
+    "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+    "titleJP": "劇場版メイドインアビス 深き魂の黎明",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.6,
+    "scoredBy": 304136,
+    "rank": 114,
+    "popularity": 469,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gore"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "After bonding over a tragic loss, the long-suffering Nanachi joins Riko and Reg on their journey into the depths of the Abyss. Awaiting the children is the Sea of Corpses—the Abyss's fifth layer, and the deepest level from which a traveler can return without losing their human form.  The masked sadist Bondrewd stands between the children and the rest of their adventure. Bondrewd's horrific laborat...",
+    "imageUrl": "https://myanimelist.net/images/anime/1803/117183l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36862/Made_in_Abyss_Movie_3__Fukaki_Tamashii_no_Reimei"
+  },
+  {
+    "id": 41084,
+    "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+    "titleJP": "メイドインアビス 烈日の黄金郷",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.6,
+    "scoredBy": 260111,
+    "rank": 115,
+    "popularity": 467,
+    "year": 2022,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gore"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "After surviving the brutal challenges of Idofront, Riko now possesses a White Whistle, allowing her to descend into the Abyss's sixth layer—The Capital of the Unreturned. Alongside Reg and Nanachi, Riko begins to explore the uncharted domain, where the ruins of the promised Golden City are located.  As the trio starts to adapt to the harsh environment, they soon encounter dangerous creatures and t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1864/122519l.jpg",
+    "malUrl": "https://myanimelist.net/anime/41084/Made_in_Abyss__Retsujitsu_no_Ougonkyou"
+  },
+  {
+    "id": 55255,
+    "title": "Alien Stage",
+    "titleJP": "ALIEN STAGE (에일리언스테이지)",
+    "type": "Music",
+    "episodes": 12,
+    "score": 8.59,
+    "scoredBy": 7365,
+    "rank": null,
+    "popularity": 5956,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "High Stakes Game",
+      "Music",
+      "Psychological"
+    ],
+    "studios": [
+      "LICO"
+    ],
+    "synopsis": "Humans once lived like Earth was the center of the universe. Some people embraced religion and believed that God would deliver them from suffering. After humanity was enslaved by aliens, no one spoke of God any longer.  Now the grim truth is that humans are mere property of aliens. Recently, entering pet humans into the entertainment industry has become popular, and the biggest, most thrilling spe...",
+    "imageUrl": "https://myanimelist.net/images/anime/1524/143502l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55255/Alien_Stage"
+  },
+  {
+    "id": 52701,
+    "title": "Dungeon Meshi",
+    "titleJP": "ダンジョン飯",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.59,
+    "scoredBy": 297440,
+    "rank": 116,
+    "popularity": 433,
+    "year": 2024,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Gourmet"
+    ],
+    "themes": [],
+    "studios": [
+      "Trigger"
+    ],
+    "synopsis": "Adventuring knight Laios Touden leads a small party through a seemingly endless dungeon, a subterranean maze full of dangerous monsters and precarious traps. Through the use of advanced magic, an explorer can sometimes be resurrected, allowing them to learn from past mistakes and give traversing the dungeon another go. However, when a powerful dragon eats Falin, Laios' spellcasting sister, she sen...",
+    "imageUrl": "https://myanimelist.net/images/anime/1711/142478l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52701/Dungeon_Meshi"
+  },
+  {
+    "id": 38329,
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "titleJP": "青春ブタ野郎はゆめみる少女の夢を見ない",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.59,
+    "scoredBy": 518527,
+    "rank": 118,
+    "popularity": 275,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "Six months ago, Sakuta Azusagawa had a chance encounter with a bunny girl in a library. Ever since then, he's been blissfully happy with his girlfriend: Mai Sakurajima, that same bunny girl. However, the reappearance of his mysterious first crush, the now-adult Shouko Makinohara, adds a new complication to his relationship with Mai. To make matters worse, he then encounters a middle school Shouko ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1613/102179l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai"
+  },
+  {
+    "id": 7311,
+    "title": "Suzumiya Haruhi no Shoushitsu",
+    "titleJP": "涼宮ハルヒの消失",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.59,
+    "scoredBy": 329059,
+    "rank": 119,
+    "popularity": 377,
+    "year": 2010,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Mystery",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "On a cold December day, Kyon arrives at school prepared for another outing with his fellow SOS Brigade members. However, much to his surprise, he discovers that almost everything has changed completely: Haruhi Suzumiya and Itsuki Koizumi are nowhere to be found; Mikuru Asahina does not recognize him at all; Yuki Nagato is a regular human; and Ryouko Asakura has mysteriously returned. Although he i...",
+    "imageUrl": "https://myanimelist.net/images/anime/1248/112352l.jpg",
+    "malUrl": "https://myanimelist.net/anime/7311/Suzumiya_Haruhi_no_Shoushitsu"
+  },
+  {
+    "id": 28957,
+    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "titleJP": "蟲師 続章: 鈴の雫",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.59,
+    "scoredBy": 56288,
+    "rank": 117,
+    "popularity": 1858,
+    "year": 2015,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Artland"
+    ],
+    "synopsis": "On a warm summer day, a boy heard the sound of bells ringing, as if in celebration, in the mountain near his home. Several years later in that same mountain, the mushishi Ginko encounters a strange girl with weeds growing out of her body. Soon after, Ginko coincidentally runs into the now grown-up boy Yoshiro on his way off the mountain. With Yoshiro's help, Ginko soon begins to uncover who this m...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/72689l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28957/Mushishi_Zoku_Shou__Suzu_no_Shizuku"
+  },
+  {
+    "id": 59636,
+    "title": "Uma Musume: Cinderella Gray",
+    "titleJP": "ウマ娘 シンデレラグレイ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.58,
+    "scoredBy": 49630,
+    "rank": 123,
+    "popularity": 2401,
+    "year": 2025,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Anthropomorphic",
+      "Racing"
+    ],
+    "studios": [
+      "CygamesPictures"
+    ],
+    "synopsis": "Tokyo is the home of national-level horse girls and the next generation of running prodigies. Jou Kitahara, a rookie trainer with big dreams and modest expectations, does not expect to find talent in the quiet town of Kasamatsu—until he meets an ash-gray-haired girl with a wild, unconventional stride.  As a child with bad knees, Oguri Cap spent much of her early life in pain, struggling to stand. ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1626/148097l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59636/Uma_Musume__Cinderella_Gray"
+  },
+  {
+    "id": 55823,
+    "title": "Natsume Yuujinchou Shichi",
+    "titleJP": "夏目友人帳 漆",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.58,
+    "scoredBy": 18289,
+    "rank": 121,
+    "popularity": 3292,
+    "year": 2024,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "As a young child, Takashi Natsume believed his ability to see youkai to be nothing but a curse. Now a high school student, Natsume has managed to heal from his old wounds and form unbreakable bonds with humans and youkai alike. Natsume's newfound friendships—including the one with his spirit bodyguard Madara, nicknamed \"Nyanko-sensei\"—are often interlaced with his duty to return the names of the s...",
+    "imageUrl": "https://myanimelist.net/images/anime/1270/145168l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi"
+  },
+  {
+    "id": 3786,
+    "title": "Shin Evangelion Movie:||",
+    "titleJP": "シン・エヴァンゲリオン劇場版𝄇",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.58,
+    "scoredBy": 192387,
+    "rank": 122,
+    "popularity": 637,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Mecha",
+      "Psychological"
+    ],
+    "studios": [
+      "Khara"
+    ],
+    "synopsis": "Following NERV's failed attempt to retrieve the Spears of Longinus and carry out the Human Instrumentality Project, the destruction caused by the Fourth Impact has been largely averted. In a state of disarray, Shinji Ikari, Asuka Langley Shikinami, and Rei Ayanami travel to Village 3—a survivor settlement free from Earth's ruination. There, Shinji slowly comes to terms with his past, developing an...",
+    "imageUrl": "https://myanimelist.net/images/anime/1422/113533l.jpg",
+    "malUrl": "https://myanimelist.net/anime/3786/Shin_Evangelion_Movie_||"
+  },
+  {
+    "id": 37991,
+    "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "titleJP": "ジョジョの奇妙な冒険 黄金の風",
+    "type": "TV",
+    "episodes": 39,
+    "score": 8.58,
+    "scoredBy": 783247,
+    "rank": 120,
+    "popularity": 144,
+    "year": 2018,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Organized Crime",
+      "Super Power"
+    ],
+    "studios": [
+      "David Production"
+    ],
+    "synopsis": "In the coastal city of Naples, corruption is teeming—the police blatantly conspire with outlaws, drugs run rampant around the youth, and the mafia governs the streets with an iron fist. However, various fateful encounters will soon occur.  Enter Giorno Giovanna, a 15-year-old boy with an eccentric connection to the Joestar family, who makes a living out of part-time jobs and pickpocketing. Further...",
+    "imageUrl": "https://myanimelist.net/images/anime/1882/94989l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze"
+  },
+  {
+    "id": 16498,
+    "title": "Shingeki no Kyojin",
+    "titleJP": "進撃の巨人",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.57,
+    "scoredBy": 3058384,
+    "rank": 125,
+    "popularity": 1,
+    "year": 2013,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barrie...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/47347l.jpg",
+    "malUrl": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin"
+  },
+  {
+    "id": 877,
+    "title": "Nana",
+    "titleJP": "NANA [ナナ]",
+    "type": "TV",
+    "episodes": 47,
+    "score": 8.57,
+    "scoredBy": 301939,
+    "rank": 124,
+    "popularity": 295,
+    "year": 2006,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Love Polygon",
+      "Music"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Departing from their respective hometowns, two young women with identical names are brought together in their pursuit of new beginnings. With their hearts set on going to Tokyo, Nana Komatsu dreams about blissful love, while Nana Osaki aims for a successful music career.  The former has a cheerful and friendly nature, but her naivety has steered her romantic life astray until she meets her dependa...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/11232l.jpg",
+    "malUrl": "https://myanimelist.net/anime/877/Nana"
+  },
+  {
+    "id": 32,
+    "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+    "titleJP": "新世紀エヴァンゲリオン劇場版 Air / まごころを, 君に",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.57,
+    "scoredBy": 694432,
+    "rank": 126,
+    "popularity": 179,
+    "year": 1997,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Avant Garde",
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Mecha",
+      "Psychological"
+    ],
+    "studios": [
+      "Gainax",
+      "Production I.G"
+    ],
+    "synopsis": "Shinji Ikari is left emotionally comatose after the death of a dear friend. With his son mentally unable to pilot the humanoid robot Evangelion Unit-01, Gendou Ikari's NERV races against the shadow organization SEELE to see who can enact their ultimate plan first. SEELE desires to create a godlike being by fusing their own souls into an Evangelion unit, while Gendou wishes to revert all of humanit...",
+    "imageUrl": "https://myanimelist.net/images/anime/1404/98182l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32/Shinseiki_Evangelion_Movie__Air_Magokoro_wo_Kimi_ni"
+  },
+  {
+    "id": 32983,
+    "title": "Natsume Yuujinchou Go",
+    "titleJP": "夏目友人帳 伍",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.56,
+    "scoredBy": 83775,
+    "rank": 129,
+    "popularity": 1353,
+    "year": 2016,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "Blessed with eyes that are able to perceive the otherwise invisible youkai, Takashi Natsume hides his ability from his newfound family and friends to protect everyone's peaceful daily life. Nonetheless, Natsume never fails to show the same kindness to the benevolent youkai and happily returns their names by using the infamous Book of Friends he inherited from his late grandmother, Reiko.  Meanwhil...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/81755l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go"
+  },
+  {
+    "id": 31757,
+    "title": "Kizumonogatari II: Nekketsu-hen",
+    "titleJP": "傷物語〈Ⅱ熱血篇〉",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.56,
+    "scoredBy": 296068,
+    "rank": 128,
+    "popularity": 534,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "No longer truly human, Koyomi Araragi decides to retrieve Kiss-shot Acerola-orion Heart-under-blade's severed body parts that were stolen by three powerful vampire hunters. Awaiting him are Dramaturgie, a vampire hunter who is a vampire himself; Episode, a half-vampire with the ability to transform into mist; and Guillotinecutter, a human priest who is the most dangerous of them all.  Unbeknownst ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1981/112812l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen"
+  },
+  {
+    "id": 12355,
+    "title": "Ookami Kodomo no Ame to Yuki",
+    "titleJP": "おおかみこどもの雨と雪",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.56,
+    "scoredBy": 485868,
+    "rank": 131,
+    "popularity": 246,
+    "year": 2012,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Childcare"
+    ],
+    "studios": [
+      "Studio Chizu"
+    ],
+    "synopsis": "Hana, a hard-working college student, falls in love with a mysterious man who attends one of her classes though he is not an actual student. As it turns out, he is not truly human either. On a full moon night, he transforms, revealing that he is the last werewolf alive. Despite this, Hana's love remains strong, and the two ultimately decide to start a family.  Hana gives birth to two healthy child...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/35721l.jpg",
+    "malUrl": "https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki"
+  },
+  {
+    "id": 10379,
+    "title": "Natsume Yuujinchou San",
+    "titleJP": "夏目友人帳 参",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.56,
+    "scoredBy": 127018,
+    "rank": 130,
+    "popularity": 1034,
+    "year": 2011,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "Natsume Yuujinchou San follows Takashi Natsume, a boy who is able to see youkai. Natsume and his bodyguard Madara, nicknamed Nyanko-sensei, continue on their quest to release youkai from their contracts in the \"Book of Friends.\"  Natsume comes to terms with his ability to see youkai and stops thinking of it as a curse. As he spends more time with his human and youkai friends, he realizes how much ...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/82394l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San"
+  },
+  {
+    "id": 437,
+    "title": "Perfect Blue",
+    "titleJP": "パーフェクトブルー",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.56,
+    "scoredBy": 441415,
+    "rank": 132,
+    "popularity": 274,
+    "year": 1998,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Avant Garde",
+      "Award Winning",
+      "Drama",
+      "Horror",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Psychological",
+      "Showbiz"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "J-pop idol group CHAM! has spent the last two years entertaining its fans. Sadly, all good things must come to an end, and CHAM! must see one of its members, Mima Kirigoe, leave the group to pursue her acting career. While Mima's choice is met with a mixed response, she hopes her fans will continue to support her.  However, Mima's life begins to change drastically after her departure from the grou...",
+    "imageUrl": "https://myanimelist.net/images/anime/1254/134212l.jpg",
+    "malUrl": "https://myanimelist.net/anime/437/Perfect_Blue"
+  },
+  {
+    "id": 170,
+    "title": "Slam Dunk",
+    "titleJP": "スラムダンク",
+    "type": "TV",
+    "episodes": 101,
+    "score": 8.56,
+    "scoredBy": 151526,
+    "rank": 133,
+    "popularity": 822,
+    "year": 1993,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "Hanamichi Sakuragi, infamous for his temper, massive height, and fire-red hair, enrolls in Shohoku High, hoping to finally get a girlfriend and break his record of being rejected 50 consecutive times in middle school. His notoriety precedes him, however, leading to him being avoided by most students. Soon, after certain events, Hanamichi is left with two unwavering thoughts: \"I hate basketball,\" a...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/86890l.jpg",
+    "malUrl": "https://myanimelist.net/anime/170/Slam_Dunk"
+  },
+  {
+    "id": 40776,
+    "title": "Haikyuu!! To the Top Part 2",
+    "titleJP": "ハイキュー TO THE TOP 第2クール",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.56,
+    "scoredBy": 552645,
+    "rank": 127,
+    "popularity": 219,
+    "year": 2020,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Once called a fallen powerhouse and known as \"Flightless Crows,\" Karasuno High School has finally taken flight at nationals. With a comprehensive performance against Tsubakihara Academy in their first match, the team is now facing its toughest opponent yet: the runners-up of the last Spring Tournament, Inarizaki High School. Furthermore, dealing with the formidable twin Miya brothers only makes th...",
+    "imageUrl": "https://myanimelist.net/images/anime/1453/106768l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40776/Haikyuu_To_the_Top_Part_2"
+  },
+  {
+    "id": 58567,
+    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+    "titleJP": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.55,
+    "scoredBy": 493108,
+    "rank": 135,
+    "popularity": 299,
+    "year": 2025,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Sung Jin-Woo, dubbed the weakest hunter of all mankind, grows stronger by the day with the supernatural powers he has gained. However, keeping his skills hidden becomes more difficult as dungeon-related incidents pile up around him.  When Jin-Woo and a few other low-ranked hunters are the only survivors of a dungeon that turns out to be a bigger challenge than initially expected, he draws attentio...",
+    "imageUrl": "https://myanimelist.net/images/anime/1448/147351l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58567/Ore_dake_Level_Up_na_Ken_Season_2__Arise_from_the_Shadow"
+  },
+  {
+    "id": 28735,
+    "title": "Shouwa Genroku Rakugo Shinjuu",
+    "titleJP": "昭和元禄落語心中",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.55,
+    "scoredBy": 99800,
+    "rank": 136,
+    "popularity": 894,
+    "year": 2016,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Historical",
+      "Love Polygon",
+      "Performing Arts"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "Yotarou is a former yakuza member fresh out of prison and fixated on just one thing: rather than return to a life of crime, the young man aspires to take to the stage of rakugo, a traditional Japanese form of comedic storytelling. Inspired during his incarceration by the performance of distinguished practitioner Yakumo Yuurakutei, he sets his mind on meeting the man who changed his life. After hea...",
+    "imageUrl": "https://myanimelist.net/images/anime/1354/124768l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu"
+  },
+  {
+    "id": 36098,
+    "title": "Kimi no Suizou wo Tabetai",
+    "titleJP": "君の膵臓をたべたい",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.55,
+    "scoredBy": 666021,
+    "rank": 134,
+    "popularity": 161,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Studio VOLN"
+    ],
+    "synopsis": "The aloof protagonist: a bookworm who is deeply detached from the world he resides in. He has no interest in others and is firmly convinced that nobody has any interest in him either. His story begins when he stumbles across a handwritten book, titled Living with Dying. He soon identifies it as a secret diary belonging to his popular, bubbly classmate Sakura Yamauchi. She then confides in him abou...",
+    "imageUrl": "https://myanimelist.net/images/anime/1768/93291l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36098/Kimi_no_Suizou_wo_Tabetai"
+  },
+  {
+    "id": 30484,
+    "title": "Steins;Gate 0",
+    "titleJP": "シュタインズ・ゲート ゼロ",
+    "type": "TV",
+    "episodes": 23,
+    "score": 8.55,
+    "scoredBy": 473283,
+    "rank": 137,
+    "popularity": 207,
+    "year": 2018,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend Makise Kurisu, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his ad...",
+    "imageUrl": "https://myanimelist.net/images/anime/1375/93521l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30484/Steins_Gate_0"
+  },
+  {
+    "id": 7785,
+    "title": "Yojouhan Shinwa Taikei",
+    "titleJP": "四畳半神話大系",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.55,
+    "scoredBy": 156766,
+    "rank": 138,
+    "popularity": 524,
+    "year": 2010,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "One autumn evening at a mysterious ramen stand behind the Shimogamo Shrine, a lonely third-year college student bumps into a man with an eggplant-shaped head who calls himself a god of matrimony. Meeting this man causes the student to reflect upon his past two years at college—two years bitterly spent trying to break up couples on campus with his only friend Ozu, a ghoulish-looking man seemingly s...",
+    "imageUrl": "https://myanimelist.net/images/anime/1633/123689l.jpg",
+    "malUrl": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei"
+  },
+  {
+    "id": 61903,
+    "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+    "titleJP": "かぐや様は告らせたい 大人への階段",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.54,
+    "scoredBy": 47182,
+    "rank": 142,
+    "popularity": 2384,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Years after graduating from high school, Kaguya Shinomiya finds her old photo album and reminisces about when she was a part of Shuuchiin Academy's student council. At the time, Kaguya had just started dating the president Miyuki Shirogane, and the two were hopelessly in love. With each wholesome and silly memory from their past, Kaguya is filled with bliss.  [Written by MAL Rewrite]...",
+    "imageUrl": "https://myanimelist.net/images/anime/1112/150697l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61903/Kaguya-sama_wa_Kokurasetai__Otona_e_no_Kaidan"
+  },
+  {
+    "id": 60557,
+    "title": "Fanren Xiu Xian Zhuan 4th Season",
+    "titleJP": "凡人修仙传 第四季",
+    "type": "ONA",
+    "episodes": 52,
+    "score": 8.54,
+    "scoredBy": 1193,
+    "rank": 139,
+    "popularity": 11361,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Original Force",
+      "Wonder Cat Animation"
+    ],
+    "synopsis": "Fourth season of Fanren Xiu Xian Zhuan....",
+    "imageUrl": "https://myanimelist.net/images/anime/1421/153427l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60557/Fanren_Xiu_Xian_Zhuan_4th_Season"
+  },
+  {
+    "id": 52034,
+    "title": "[Oshi no Ko]",
+    "titleJP": "【推しの子】",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.54,
+    "scoredBy": 617426,
+    "rank": 146,
+    "popularity": 176,
+    "year": 2023,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [
+      "Reincarnation",
+      "Showbiz"
+    ],
+    "studios": [
+      "Doga Kobo"
+    ],
+    "synopsis": "In the entertainment world, celebrities often show exaggerated versions of themselves to the public, concealing their true thoughts and struggles beneath elaborate lies. Fans buy into these fabrications, showering their idols with undying love and support, until something breaks the illusion. Sixteen-year-old rising star Ai Hoshino of pop idol group B Komachi has the world captivated; however, whe...",
+    "imageUrl": "https://myanimelist.net/images/anime/1812/134736l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52034/Oshi_no_Ko"
+  },
+  {
+    "id": 25777,
+    "title": "Shingeki no Kyojin Season 2",
+    "titleJP": "進撃の巨人 Season2",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.54,
+    "scoredBy": 2059137,
+    "rank": 144,
+    "popularity": 13,
+    "year": 2017,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Survival"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "For centuries, humanity has been hunted by giant, mysterious predators known as the Titans. Three mighty walls—Wall Maria, Rose, and Sheena—provided peace and protection for humanity for over a hundred years. That peace, however, was shattered when the Colossal Titan and Armored Titan appeared and destroyed the outermost wall, Wall Maria. Forced to retreat behind Wall Rose, humanity waited with ba...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/84177l.jpg",
+    "malUrl": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2"
+  },
+  {
+    "id": 11741,
+    "title": "Fate/Zero 2nd Season",
+    "titleJP": "フェイト/ゼロ 2ndシーズン",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.54,
+    "scoredBy": 756369,
+    "rank": 140,
+    "popularity": 140,
+    "year": 2012,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "As the Fourth Holy Grail War rages on with no clear victor in sight, the remaining Servants and their Masters are called upon by Church supervisor Risei Kotomine, in order to band together and confront an impending threat that could unravel the Grail War and bring about the destruction of Fuyuki City. The uneasy truce soon collapses as Masters demonstrate that they will do anything in their power,...",
+    "imageUrl": "https://myanimelist.net/images/anime/1522/117645l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11741/Fate_Zero_2nd_Season"
+  },
+  {
+    "id": 40664,
+    "title": "Shoujo☆Kageki Revue Starlight Movie",
+    "titleJP": "劇場版 少女☆歌劇 レヴュースタァライト",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.54,
+    "scoredBy": 11530,
+    "rank": 145,
+    "popularity": 4936,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music",
+      "Performing Arts",
+      "School"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "With the arrival of a new generation of talented girls, another lively year at Seishou Music Academy begins. The graduating 99th class is already preparing for the much-anticipated rendition of Starlight, a bittersweet story about the parting of two girls.  It seems like all students in the Actor Training Department have their post-graduation future figured out—except for the cheerful Karen Aijou....",
+    "imageUrl": "https://myanimelist.net/images/anime/1378/119190l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40664/Shoujo☆Kageki_Revue_Starlight_Movie"
+  },
+  {
+    "id": 578,
+    "title": "Hotaru no Haka",
+    "titleJP": "火垂るの墓",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.54,
+    "scoredBy": 458531,
+    "rank": 141,
+    "popularity": 303,
+    "year": 1988,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "As World War II reaches its conclusion in 1945, Japan faces widespread destruction in the form of American bombings, devastating city after city. Hotaru no Haka, also known as Grave of the Fireflies, is the story of Seita and his sister Setsuko, two Japanese children whose lives are ravaged by the brutal war. They have lost their mother, their father, their home, and the prospect of a bright futur...",
+    "imageUrl": "https://myanimelist.net/images/anime/1485/141208l.jpg",
+    "malUrl": "https://myanimelist.net/anime/578/Hotaru_no_Haka"
+  },
+  {
+    "id": 40456,
+    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+    "titleJP": "劇場版 鬼滅の刃 無限列車編",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.54,
+    "scoredBy": 1177620,
+    "rank": 143,
+    "popularity": 64,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "After a string of mysterious disappearances begin to plague a train, the Demon Slayer Corps' multiple attempts to remedy the problem prove fruitless. To prevent further casualties, the Flame Pillar, Kyoujurou Rengoku, takes it upon himself to eliminate the threat. Accompanying him are some of the Corps' most promising new blood: Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, who all hop...",
+    "imageUrl": "https://myanimelist.net/images/anime/1704/106947l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen"
+  },
+  {
+    "id": 59845,
+    "title": "Kaoru Hana wa Rin to Saku",
+    "titleJP": "薫る花は凛と咲く",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.53,
+    "scoredBy": 216474,
+    "rank": 148,
+    "popularity": 599,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "The all-girls Kikyo Private Academy and Chidori Public High School are polar opposites. With its prestigious history, Kikyo is attended by noble young ladies from distinguished families, while Chidori is infamously full of simple-minded delinquents. It is no surprise that their students clash with their differences.  Having a tall stature and fierce appearance, Chidori student Rintarou Tsumugi is ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1744/150433l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59845/Kaoru_Hana_wa_Rin_to_Saku"
+  },
+  {
+    "id": 21329,
+    "title": "Mushishi: Hihamukage",
+    "titleJP": "蟲師 特別篇「日蝕む翳」",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.53,
+    "scoredBy": 73400,
+    "rank": 149,
+    "popularity": 1738,
+    "year": 2014,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Artland"
+    ],
+    "synopsis": "The entire countryside comes to a halt midday to witness a rare solar eclipse that is rumored to allow the average person to see Mushi. Unable to avert their gaze, the air is full of awe and wonder—but those who know the Mushi are preparing for the eclipse's aftermath.  Based on a prediction from Tanyuu Karibusa, the cursed recorder, Mushishi Ginko finds himself in a very unlucky farming village. ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1559/147521l.jpg",
+    "malUrl": "https://myanimelist.net/anime/21329/Mushishi__Hihamukage"
+  },
+  {
+    "id": 5300,
+    "title": "Zoku Natsume Yuujinchou",
+    "titleJP": "続 夏目友人帳",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.53,
+    "scoredBy": 134414,
+    "rank": 150,
+    "popularity": 1052,
+    "year": 2009,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "As with its prequel, Zoku Natsume Yuujinchou is about Takashi Natsume, a boy who has had the ability to see youkai since he was young, and his bodyguard youkai Madara, nicknamed Nyanko-sensei. Natsume attempts to return names written in his \"Book of Friends\" (which he inherited from his grandmother Reiko) to youkai in his village. Throughout these adventures, he meets some youkai that are friendly...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/79738l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou"
+  },
+  {
+    "id": 40417,
+    "title": "Fruits Basket 2nd Season",
+    "titleJP": "フルーツバスケット 2nd season",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.53,
+    "scoredBy": 302332,
+    "rank": 147,
+    "popularity": 431,
+    "year": 2020,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "A year has passed since Tooru Honda began living in the Souma residence, and she has since created stronger relationships with its inhabitants Shigure, Kyou, and Yuki. She has also grown closer to the rest of the Souma family and has become familiar with their ancestral secret, having helped them with many of their personal issues. The closer Tooru gets, however, the more she begins to realize tha...",
+    "imageUrl": "https://myanimelist.net/images/anime/1972/111635l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season"
+  },
+  {
+    "id": 61322,
+    "title": "Dr. Stone: Science Future Part 2",
+    "titleJP": "Dr.STONE SCIENCE FUTURE 第2クール",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.52,
+    "scoredBy": 109719,
+    "rank": 152,
+    "popularity": 1275,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "After a strategic maneuver, Senkuu Ishigami's team stalls Dr. Xeno's more scientifically advanced forces. A ceasefire between the two factions allows for the establishment of Corn City in North America, a hope for a future thriving population. Meanwhile, Senkuu and some of his teammates rush toward the Amazon in South America—the epicenter of the petrification beam's impact—to create Superalloy Ci...",
+    "imageUrl": "https://myanimelist.net/images/anime/1785/151710l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61322/Dr_Stone__Science_Future_Part_2"
+  },
+  {
+    "id": 7472,
+    "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
+    "titleJP": "劇場版 銀魂 新訳紅桜篇",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.52,
+    "scoredBy": 102156,
+    "rank": 153,
+    "popularity": 1551,
+    "year": 2010,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, continue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved in anything too dangerous. But when Katsura, the leader of the Joui rebels and Gintoki's long-time acquaintance, disappears after being brutally ...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/28803l.jpg",
+    "malUrl": "https://myanimelist.net/anime/7472/Gintama_Movie_1__Shinyaku_Benizakura-hen"
+  },
+  {
+    "id": 801,
+    "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "titleJP": "攻殻機動隊 S.A.C. 2nd GIG",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.52,
+    "scoredBy": 109435,
+    "rank": 154,
+    "popularity": 1170,
+    "year": 2004,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Mecha",
+      "Military"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Following the closure of the \"Laughing Man\" case, Section 9 is re-established by Japan's newly elected Prime Minister, Youko Kayabuki, to combat the persistent threat of cyber-terrorism.  A group calling themselves \"The Individual Eleven\" has begun committing acts of terror across Japan. While Motoko Kusanagi, Daisuke Aramaki, Batou, and the other members of Section 9 investigate this new menace, ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1646/135390l.jpg",
+    "malUrl": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG"
+  },
+  {
+    "id": 12365,
+    "title": "Bakuman. 3rd Season",
+    "titleJP": "バクマン。",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.52,
+    "scoredBy": 203624,
+    "rank": 151,
+    "popularity": 789,
+    "year": 2012,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Otaku Culture"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Onto their third serialization, manga duo Moritaka Mashiro and Akito Takagi—also known by their pen name, Muto Ashirogi—are ever closer to their dream of an anime adaption. However, the real challenge is only just beginning: if they are unable to compete with the artist Eiji Niizuma in the rankings within the span of six months, they will be canceled. To top it off, numerous rivals are close behin...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/41845l.jpg",
+    "malUrl": "https://myanimelist.net/anime/12365/Bakuman_3rd_Season"
+  },
+  {
+    "id": 205,
+    "title": "Samurai Champloo",
+    "titleJP": "サムライチャンプルー",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.52,
+    "scoredBy": 685377,
+    "rank": 155,
+    "popularity": 112,
+    "year": 2004,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [
+      "Historical",
+      "Samurai"
+    ],
+    "studios": [
+      "Manglobe"
+    ],
+    "synopsis": "Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is, until she accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately calls upon another samurai in the shop, Mugen, who quickly defeats them with his wild fighting technique, utilizing movements reminiscent to that of ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1370/135212l.jpg",
+    "malUrl": "https://myanimelist.net/anime/205/Samurai_Champloo"
+  },
+  {
+    "id": 63019,
+    "title": "Prism Rondo",
+    "titleJP": "プリズム輪舞曲〈ロンド〉",
+    "type": "ONA",
+    "episodes": 20,
+    "score": 8.51,
+    "scoredBy": 18484,
+    "rank": 161,
+    "popularity": 3461,
+    "year": 2026,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Visual Arts"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "In early-1900s London, Lili Ichijouin, a Japanese exchange student travels to England to enroll in the prestigious Saint Thomas Art Academy. Determined to become a painter, she arrives under pressure: her parents expect her to rise to the top of her class within six months or return home.  Lili's drive intensifies when she encounters Kit Church, a gifted aristocratic student known for his talent a...",
+    "imageUrl": "https://myanimelist.net/images/anime/1862/153881l.jpg",
+    "malUrl": "https://myanimelist.net/anime/63019/Prism_Rondo"
+  },
+  {
+    "id": 58222,
+    "title": "Given Movie 3: Umi e",
+    "titleJP": "映画 ギヴン 海へ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.51,
+    "scoredBy": 10044,
+    "rank": 157,
+    "popularity": 4615,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Boys Love",
+      "Drama"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "Lerche"
+    ],
+    "synopsis": "Second part of Given Movie: Hiiragi Mix....",
+    "imageUrl": "https://myanimelist.net/images/anime/1663/144261l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58222/Given_Movie_3__Umi_e"
+  },
+  {
+    "id": 55791,
+    "title": "[Oshi no Ko] 2nd Season",
+    "titleJP": "【推しの子】第2期",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.51,
+    "scoredBy": 257177,
+    "rank": 162,
+    "popularity": 495,
+    "year": 2024,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Reincarnation",
+      "Showbiz"
+    ],
+    "studios": [
+      "Doga Kobo"
+    ],
+    "synopsis": "With the help of producer Masaya Kaburagi, Aquamarine \"Aqua\" Hoshino and Kana Arima have landed the roles of Touki and Tsurugi in Lala Lai Theatrical Company's stage adaptation of the popular manga series Tokyo Blade. Co-starring with them is Aqua's girlfriend, Akane Kurokawa, who plays Touki's fiancée, Princess Saya. Due to the fanbase preferring Tsurugi as Touki's love interest, Saya has made fe...",
+    "imageUrl": "https://myanimelist.net/images/anime/1006/143302l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season"
+  },
+  {
+    "id": 53273,
+    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+    "titleJP": "ジョジョの奇妙な冒険 ストーンオーシャン",
+    "type": "ONA",
+    "episodes": 14,
+    "score": 8.51,
+    "scoredBy": 200355,
+    "rank": 158,
+    "popularity": 916,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Super Power"
+    ],
+    "studios": [
+      "David Production"
+    ],
+    "synopsis": "After finally escaping the confines of Green Dolphin Street Jail, Jolyne Kuujou—alongside her companions Ermes Costello and Emporio Alniño—pursues the villainous priest Enrico Pucci across the state of Florida. Jolyne's allies, Weather Report and Narciso Anasui, struggle to catch up with her in order to help bring an end to Pucci's plot. As both parties pursue the priest, they must battle against ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1233/128920l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53273/JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean_Part_3"
+  },
+  {
+    "id": 4282,
+    "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+    "titleJP": "劇場版 空の境界 the Garden of sinners 第五章『矛盾螺旋』",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.51,
+    "scoredBy": 139763,
+    "rank": 160,
+    "popularity": 1103,
+    "year": 2008,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance",
+      "Suspense"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "In November 1998, a double homicide occurs at the newly constructed Ogawa apartment complex in the heart of Mifune City. The murderer, Tomoe Enjou, has fled in a panic. To his astonishment, he is not pursued by the police and news of the incident has not been reported through media outlets. After Shiki Ryougi defends Tomoe from a group of thugs, she allows him to use her residence as a hideout. Ho...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/75851l.jpg",
+    "malUrl": "https://myanimelist.net/anime/4282/Kara_no_Kyoukai_Movie_5__Mujun_Rasen"
+  },
+  {
+    "id": 35843,
+    "title": "Gintama. Porori-hen",
+    "titleJP": "銀魂。ポロリ編",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.51,
+    "scoredBy": 112680,
+    "rank": 156,
+    "popularity": 1263,
+    "year": 2017,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "Following the grim events of Iga, Kokujou Island, Rakuyou, and multiple fruitless confrontations with the Tenshouin Naraku and Tendoshuu, Gintama. Porori-hen takes its viewers on a trip down memory lane to when Yorozuya were mostly doing what they did best—odd jobs. The great space hunter Umibouzu has returned to Edo and is livid when he finds out that his daughter Kagura has a boyfriend. He blame...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/88325l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35843/Gintama_Porori-hen"
+  },
+  {
+    "id": 40748,
+    "title": "Jujutsu Kaisen",
+    "titleJP": "呪術廻戦",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.51,
+    "scoredBy": 1989667,
+    "rank": 159,
+    "popularity": 11,
+    "year": 2020,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into...",
+    "imageUrl": "https://myanimelist.net/images/anime/1171/109222l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen"
+  },
+  {
+    "id": 60988,
+    "title": "Tian Guan Cifu Short Films",
+    "titleJP": "天官賜福 全新动画短片",
+    "type": "ONA",
+    "episodes": null,
+    "score": 8.5,
+    "scoredBy": 2464,
+    "rank": 167,
+    "popularity": 6880,
+    "year": 2025,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology"
+    ],
+    "studios": [
+      "Red Dog Culture House"
+    ],
+    "synopsis": "A series of short films.  Short film #1: Xie Lian and Hua Cheng's first encounter.  Short film #2: Xie Lian and Hua Cheng enjoy the Lantern Festival at the Ghost Market.  Short film #3: Xie Lian and Hua Cheng are underwater then they return to Ghost City....",
+    "imageUrl": "https://myanimelist.net/images/anime/1174/149943l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60988/Tian_Guan_Cifu_Short_Films"
+  },
+  {
+    "id": 59986,
+    "title": "Grand Blue Season 2",
+    "titleJP": "ぐらんぶる Season 2",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.5,
+    "scoredBy": 86936,
+    "rank": 164,
+    "popularity": 1413,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Gag Humor"
+    ],
+    "studios": [
+      "Zero-G",
+      "Liber"
+    ],
+    "synopsis": "Three months have passed since Iori Kitahara began living above Grand Blue, his uncle's scuba diving shop, and joined his university's Diving Club. Alongside the other members, he has spent his days drinking and recklessly having fun. However, when Iori's sister, Shiori, hears about his behavior, she decides to take matters into her own hands—and bring him back home to make him take over their fam...",
+    "imageUrl": "https://myanimelist.net/images/anime/1108/150583l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59986/Grand_Blue_Season_2"
+  },
+  {
+    "id": 38474,
+    "title": "Yuru Camp△ Season 2",
+    "titleJP": "ゆるキャン△ SEASON2",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.5,
+    "scoredBy": 113363,
+    "rank": 168,
+    "popularity": 1106,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "CGDCT",
+      "Iyashikei"
+    ],
+    "studios": [
+      "C-Station"
+    ],
+    "synopsis": "Having spent Christmas camping with her new friends, Rin Shima embarks on a solo-camping trip to see the New Year sunrise by the sea. All goes according to plan until unforeseen weather blocks the roads back home, making a return trip impossible. Rin, who is now stranded for a few days, is invited by Nadeshiko Kagamihara to stay at her grandmother's house.   What is supposed to be a two-day trip b...",
+    "imageUrl": "https://myanimelist.net/images/anime/1255/110636l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2"
+  },
+  {
+    "id": 11981,
+    "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+    "titleJP": "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.5,
+    "scoredBy": 249396,
+    "rank": 165,
+    "popularity": 642,
+    "year": 2013,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Mahou Shoujo",
+      "Psychological"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "The young girls of Mitakihara happily live their lives, occasionally fighting off evil, but otherwise going about their peaceful, everyday routines. However, Homura Akemi feels that something is wrong with this unusually pleasant atmosphere—though the others remain oblivious, she can't help but suspect that there is more to what is going on than meets the eye: someone who should not exist is curre...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/54231l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11981/Mahou_Shoujo_Madoka★Magica_Movie_3__Hangyaku_no_Monogatari"
+  },
+  {
+    "id": 35839,
+    "title": "Sora yori mo Tooi Basho",
+    "titleJP": "宇宙よりも遠い場所",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.5,
+    "scoredBy": 236075,
+    "rank": 166,
+    "popularity": 455,
+    "year": 2018,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "themes": [
+      "CGDCT"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Filled with an overwhelming sense of wonder for the world around her, Mari Tamaki has always dreamt of what lies beyond the reaches of the universe. However, despite harboring such large aspirations on the inside, her fear of the unknown and anxiety over her own possible limitations have always held her back from chasing them. But now, in her second year of high school, Mari is more determined tha...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/89879l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho"
+  },
+  {
+    "id": 31933,
+    "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "titleJP": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+    "type": "TV",
+    "episodes": 39,
+    "score": 8.5,
+    "scoredBy": 875394,
+    "rank": 164,
+    "popularity": 129,
+    "year": 2016,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Super Power"
+    ],
+    "studios": [
+      "David Production"
+    ],
+    "synopsis": "The year is 1999. Morioh, a normally quiet and peaceful town, has recently become a hotbed of strange activity. Joutarou Kuujou, now a marine biologist, heads to the mysterious town to meet Jousuke Higashikata. While the two may seem like strangers at first, Jousuke is actually the illegitimate child of Joutarou's grandfather, Joseph Joestar. When they meet, Joutarou realizes that he may have more...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/79156l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31933/JoJo_no_Kimyou_na_Bouken_Part_4__Diamond_wa_Kudakenai"
+  },
+  {
+    "id": 62896,
+    "title": "Chou Kaguya-hime!",
+    "titleJP": "超かぐや姫！",
+    "type": "ONA",
+    "episodes": 1,
+    "score": 8.49,
+    "scoredBy": 40293,
+    "rank": 169,
+    "popularity": 2677,
+    "year": 2026,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "themes": [
+      "Music",
+      "Mythology"
+    ],
+    "studios": [
+      "Studio Colorido",
+      "Studio Chromato"
+    ],
+    "synopsis": "Tsukuyomi is a virtual realm where hopes and dreams come together. Iroha Sakayori, a 17-year-old high school student in Tokyo, leads an extremely busy life trying to balance part-time work and academics. She finds peace by watching a popular streamer named Yachiyo Runami, who is the administrator of an online virtual space called Tsukuyomi.  Iroha frequents Tsukuyomi, where people can live differe...",
+    "imageUrl": "https://myanimelist.net/images/anime/1758/153953l.jpg",
+    "malUrl": "https://myanimelist.net/anime/62896/Chou_Kaguya-hime"
+  },
+  {
+    "id": 55809,
+    "title": "Xian Ni",
+    "titleJP": "仙逆",
+    "type": "ONA",
+    "episodes": 180,
+    "score": 8.49,
+    "scoredBy": 2907,
+    "rank": 171,
+    "popularity": 6976,
+    "year": 2023,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "BUILD DREAM"
+    ],
+    "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1289/149708l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55809/Xian_Ni"
+  },
+  {
+    "id": 32182,
+    "title": "Mob Psycho 100",
+    "titleJP": "モブサイコ100",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.49,
+    "scoredBy": 1417515,
+    "rank": 170,
+    "popularity": 27,
+    "year": 2016,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Eighth-grader Shigeo \"Mob\" Kageyama has tapped into his inner wellspring of psychic prowess at a young age. But the power quickly proves to be a liability when he realizes the potential danger in his skills. Choosing to suppress his power, Mob's only present use for his ability is to impress his longtime crush, Tsubomi, who soon grows bored of the same tricks.  In order to effectuate control on hi...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/80356l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32182/Mob_Psycho_100"
+  },
+  {
+    "id": 12431,
+    "title": "Uchuu Kyoudai",
+    "titleJP": "宇宙兄弟",
+    "type": "TV",
+    "episodes": 99,
+    "score": 8.48,
+    "scoredBy": 56102,
+    "rank": 175,
+    "popularity": 1321,
+    "year": 2012,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Space",
+      "Workplace"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "On a fateful summer night in 2006, Mutta Nanba and his younger brother Hibito witness what they believe to be a UFO flying toward the Moon. This impressing and unusual phenomenon leads both siblings vowing to become astronauts, with Hibito aiming for the Moon and Mutta, convinced that the eldest brother has to be one step ahead, for Mars.  Now an adult, life hasn't turned out how Mutta had picture...",
+    "imageUrl": "https://myanimelist.net/images/anime/1290/135694l.jpg",
+    "malUrl": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai"
+  },
+  {
+    "id": 3297,
+    "title": "Aria the Origination",
+    "titleJP": "ARIA The ORIGINATION",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.48,
+    "scoredBy": 34981,
+    "rank": 172,
+    "popularity": 1848,
+    "year": 2008,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "themes": [
+      "Iyashikei"
+    ],
+    "studios": [
+      "HAL Film Maker"
+    ],
+    "synopsis": "In the 24th century on the planet Aqua, three girls—Akari Mizunashi, Alice Carroll, and Aika S. Granzchesta—continue to work hard toward achieving their goal of becoming Prima Undines: professional tour guide gondoliers. Luckily, the girls have the guidance of the three best Prima Undines in Neo-Venezia—Alicia Florence, Athena Glory, and Akira E. Ferrari—who are known as the \"Water Fairies\" in hon...",
+    "imageUrl": "https://myanimelist.net/images/anime/1431/132867l.jpg",
+    "malUrl": "https://myanimelist.net/anime/3297/Aria_the_Origination"
+  },
+  {
+    "id": 30276,
+    "title": "One Punch Man",
+    "titleJP": "ワンパンマン",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.48,
+    "scoredBy": 2417854,
+    "rank": 173,
+    "popularity": 4,
+    "year": 2015,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Parody",
+      "Super Power"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer able to enjo...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/76049l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30276/One_Punch_Man"
+  },
+  {
+    "id": 40834,
+    "title": "Ousama Ranking",
+    "titleJP": "王様ランキング",
+    "type": "TV",
+    "episodes": 23,
+    "score": 8.48,
+    "scoredBy": 398216,
+    "rank": 174,
+    "popularity": 305,
+    "year": 2021,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "The people of the kingdom look down on the young Prince Bojji, who can neither hear nor speak. They call him \"The Useless Prince\" while jeering at his supposed foolishness.  However, while Bojji may not be physically strong, he is certainly not weak of heart. When a chance encounter with a shadow creature should have left him traumatized, it instead makes him believe that he has found a friend ami...",
+    "imageUrl": "https://myanimelist.net/images/anime/1347/117616l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40834/Ousama_Ranking"
+  },
+  {
+    "id": 61335,
+    "title": "Medalist 2nd Season",
+    "titleJP": "メダリスト 第2期",
+    "type": "TV",
+    "episodes": 9,
+    "score": 8.47,
+    "scoredBy": 15922,
+    "rank": 177,
+    "popularity": 4093,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Performing Arts"
+    ],
+    "studios": [
+      "ENGI"
+    ],
+    "synopsis": "Ever since the novice coach Tsukasa Akeuraji took Inori Yuitsuka under his mentorship, she has improved her figure skating at a fast pace. After passing a qualifying badge test, she earns a spot to compete in the upcoming Chubu Block Tournament, where only five of the 15 competitors can move forward to the next stage—the prestigious All-Japan Novice Tournament. However, earning a slot will not be ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1828/155038l.jpg",
+    "malUrl": "https://myanimelist.net/anime/61335/Medalist_2nd_Season"
+  },
+  {
+    "id": 60544,
+    "title": "Nezha Zhi Mo Tong Nao Hai",
+    "titleJP": "哪吒之魔童闹海",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.47,
+    "scoredBy": 5223,
+    "rank": 178,
+    "popularity": 6968,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "October Media"
+    ],
+    "synopsis": "After the heavenly lightning, although Ne Zha and Ao Bing survived by becoming Spirits, they would soon dissipate completely. Taiyi plans to rebuild Ne Zha and Ao Bing's mortal bodies with the Seven-colored Precious Lotus. However, during the process of reconstruction, numerous obstacles arise. What will become of the fate of Ne Zha and Ao Bing?   (Source: AMC)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1616/147002l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60544/Nezha_Zhi_Mo_Tong_Nao_Hai"
+  },
+  {
+    "id": 37779,
+    "title": "Yakusoku no Neverland",
+    "titleJP": "約束のネバーランド",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.47,
+    "scoredBy": 1395577,
+    "rank": 180,
+    "popularity": 37,
+    "year": 2019,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Psychological",
+      "Survival"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage—a rule they are expected to follow n...",
+    "imageUrl": "https://myanimelist.net/images/anime/1830/118780l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland"
+  },
+  {
+    "id": 30654,
+    "title": "Ansatsu Kyoushitsu 2nd Season",
+    "titleJP": "暗殺教室　第２期",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.47,
+    "scoredBy": 971508,
+    "rank": 176,
+    "popularity": 85,
+    "year": 2016,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Lerche"
+    ],
+    "synopsis": "Returning from their summer vacation, the students of Class 3-E at the prestigious Kunugigaoka Middle School find themselves up against unbeatable odds. Faced with the possibility of world annihilation, the students must come up with increasingly elaborate and creative ways to kill their teacher, the cunning yet optimistic and helpful Koro-sensei.   However, eliminating Koro-sensei is not the only...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/77966l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season"
+  },
+  {
+    "id": 10165,
+    "title": "Nichijou",
+    "titleJP": "日常",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.47,
+    "scoredBy": 400896,
+    "rank": 179,
+    "popularity": 196,
+    "year": 2011,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "School"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Nichijou primarily focuses on the daily antics of a trio of childhood friends—high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami—whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life ...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/75617l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10165/Nichijou"
+  },
+  {
+    "id": 33049,
+    "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+    "titleJP": "劇場版「Fate/stay night [Heaven's Feel] II.lost butterfly」",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.46,
+    "scoredBy": 260051,
+    "rank": 182,
+    "popularity": 612,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "The Fifth Holy Grail War continues, and the ensuing chaos results in higher stakes for all participants. Shirou Emiya continues to participate in the war, aspiring to be a hero of justice who saves everyone. He sets out in search of the truth behind a mysterious dark shadow and its murder spree, determined to defeat it.  Meanwhile, Shinji Matou sets his own plans into motion, threatening Shirou th...",
+    "imageUrl": "https://myanimelist.net/images/anime/1974/98158l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33049/Fate_stay_night_Movie__Heavens_Feel_-_II_Lost_Butterfly"
+  },
+  {
+    "id": 6114,
+    "title": "Rainbow: Nisha Rokubou no Shichinin",
+    "titleJP": "RAINBOW 二舎六房の七人",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.46,
+    "scoredBy": 167205,
+    "rank": 184,
+    "popularity": 635,
+    "year": 2010,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Delinquents",
+      "Historical"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Japan, 1955: Mario Minakami has just arrived at Shounan Special Reform School along with five other teenagers who have been arrested on serious criminal charges. All assigned to the same cell, they meet older inmate Rokurouta Sakuragi—a former boxer—with whom they establish a close bond. Under his guidance, and with the promise that they will meet again on the outside after serving their sentences...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/72697l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin"
+  },
+  {
+    "id": 44087,
+    "title": "Gintama: The Semi-Final",
+    "titleJP": "銀魂 THE SEMI-FINAL",
+    "type": "Special",
+    "episodes": 2,
+    "score": 8.46,
+    "scoredBy": 47381,
+    "rank": 183,
+    "popularity": 2506,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "As the war temporarily calms down and Edo rebuilds, Gintoki finds Shinpachi—who is still unaware of his return—on a bridge. However, as a fight quickly breaks out between the Yorozuya and the Tenshouin Naraku, suspicion grows, forcing Gintoki to use what is nearest—a loincloth—to mask his identity. Saved for the time being, Gintoki enters the Yorozuya office, but unbeknownst to him, someone else i...",
+    "imageUrl": "https://myanimelist.net/images/anime/1694/110521l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final"
+  },
+  {
+    "id": 392,
+    "title": "Yuu☆Yuu☆Hakusho",
+    "titleJP": "幽☆遊☆白書",
+    "type": "TV",
+    "episodes": 112,
+    "score": 8.46,
+    "scoredBy": 357790,
+    "rank": 186,
+    "popularity": 307,
+    "year": 1992,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "Martial Arts",
+      "Mythology"
+    ],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "One fateful day, Yuusuke Urameshi, a 14-year-old delinquent with a dim future, gets a miraculous chance to turn it all around when he throws himself in front of a moving car to save a young boy. His ultimate sacrifice is so out of character that the authorities of the spirit realm are not yet prepared to let him pass on. Koenma, heir to the throne of the spirit realm, offers Yuusuke an opportunity...",
+    "imageUrl": "https://myanimelist.net/images/anime/1228/111372l.jpg",
+    "malUrl": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho"
+  },
+  {
+    "id": 47194,
+    "title": "Summertime Render",
+    "titleJP": "サマータイムレンダ",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.46,
+    "scoredBy": 289672,
+    "rank": 185,
+    "popularity": 360,
+    "year": 2022,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Mystery",
+      "Supernatural",
+      "Suspense"
+    ],
+    "themes": [
+      "Time Travel"
+    ],
+    "studios": [
+      "OLM"
+    ],
+    "synopsis": "Since the death of his parents, Shinpei Ajiro had lived with the Kofune family and their two daughters—Mio and Ushio. Although he then left his home island to continue his education in Tokyo, Shinpei returns after Ushio tragically drowns during the attempted rescue of a little girl. During the funeral, his best friend informs him about bruises found around Ushio's neck, casting doubt over the caus...",
+    "imageUrl": "https://myanimelist.net/images/anime/1120/120796l.jpg",
+    "malUrl": "https://myanimelist.net/anime/47194/Summertime_Render"
+  },
+  {
+    "id": 37379,
+    "title": "Chihayafuru 3",
+    "titleJP": "ちはやふる 3",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.46,
+    "scoredBy": 71094,
+    "rank": 181,
+    "popularity": 1705,
+    "year": 2019,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "themes": [
+      "Love Polygon",
+      "School",
+      "Strategy Game"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Winning the high school team tournament was a great accomplishment for the Mizusawa members. Each of them has made great strides in improving themselves, and the victory symbolizes how far they have come. But after accomplishing one goal, their individual aims are within reach. Chihaya Ayase has her sights set on Shinobu Wakamiya and the title of Queen, and now that Taichi Mashima has made it into...",
+    "imageUrl": "https://myanimelist.net/images/anime/1898/110709l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37379/Chihayafuru_3"
+  },
+  {
+    "id": 31181,
+    "title": "Owarimonogatari",
+    "titleJP": "終物語",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.45,
+    "scoredBy": 251588,
+    "rank": 190,
+    "popularity": 503,
+    "year": 2015,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "A peculiar transfer student named Ougi Oshino has just arrived at Naoetsu Private High School. She is quickly introduced to senior student Koyomi Araragi by their mutual friend Kanbaru Suruga, in hopes of obtaining advice regarding a strange discovery she has made. After taking a look at the school's layout, Ougi notices that a classroom has appeared in an otherwise empty area—a place that should ...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/76479l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31181/Owarimonogatari"
+  },
+  {
+    "id": 11577,
+    "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+    "titleJP": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.45,
+    "scoredBy": 382347,
+    "rank": 191,
+    "popularity": 383,
+    "year": 2013,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "After a year in America, Kurisu Makise returns to Akihabara and reunites with Rintarou Okabe. However, their reunion is cut short when Okabe begins to experience recurring flashes of other timelines as the consequences of his time traveling start to manifest. These side effects eventually culminate in Okabe suddenly vanishing from the world, and only the startled Kurisu has any memory of his exist...",
+    "imageUrl": "https://myanimelist.net/images/anime/1611/112806l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Déjà_vu"
+  },
+  {
+    "id": 44070,
+    "title": "Tian Guan Cifu Special",
+    "titleJP": "天官赐福 特别篇",
+    "type": "ONA",
+    "episodes": 1,
+    "score": 8.45,
+    "scoredBy": 31124,
+    "rank": 192,
+    "popularity": 3224,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology"
+    ],
+    "studios": [
+      "Haoliners Animation"
+    ],
+    "synopsis": "Xie Lian and Hua Cheng recount their recent adventures during a quiet night at Puqi Shrine. Amidst the serenity, the Crimson Rain Sought Flower reveals a little more about Xie Lian's true character, and an embarrassing memory reminds him of how much he has changed since his previous ascensions. However, no matter how much time has passed, Xie Lian never fails to believe in the good he sees in the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1043/110306l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44070/Tian_Guan_Cifu_Special"
+  },
+  {
+    "id": 36649,
+    "title": "Banana Fish",
+    "titleJP": "BANANA FISH",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.45,
+    "scoredBy": 413456,
+    "rank": 187,
+    "popularity": 203,
+    "year": 2018,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Delinquents",
+      "Organized Crime",
+      "Psychological"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Aslan Jade Callenreese, known as Ash Lynx, was a runaway picked off the streets of New York City and raised by the infamous godfather of the mafia, Dino Golzine. Now 17 years old and the boss of his own gang, Ash begins investigating the mysterious \"Banana Fish\"—the same two words his older brother, Griffin, has muttered since his return from the Iraq War. However, his inquiries are hindered when ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1190/93472l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36649/Banana_Fish"
+  },
+  {
+    "id": 37105,
+    "title": "Grand Blue",
+    "titleJP": "ぐらんぶる",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.45,
+    "scoredBy": 482144,
+    "rank": 189,
+    "popularity": 228,
+    "year": 2018,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Gag Humor"
+    ],
+    "studios": [
+      "Zero-G"
+    ],
+    "synopsis": "Iori Kitahara moves to the coastal town of Izu for his freshman year at its university, taking residence above Grand Blue, his uncle's scuba diving shop. Iori has high hopes and dreams about having the ideal college experience, but when he enters the shop he is sucked into the alcoholic activities of the carefree members of the Diving Club who frequent the place. Persuaded by upperclassmen Shinji ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1302/94882l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37105/Grand_Blue"
+  },
+  {
+    "id": 49701,
+    "title": "Doupo Cangqiong: San Nian Zhi Yue",
+    "titleJP": "斗破苍穹 三年之约",
+    "type": "ONA",
+    "episodes": 13,
+    "score": 8.45,
+    "scoredBy": 5141,
+    "rank": 188,
+    "popularity": 6824,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Motion Magic"
+    ],
+    "synopsis": "Three years ago, Nalan Yanran, the young sect leader of the Yunlan Sect, rashly broke off her engagement. Feeling deeply humiliated, Xiao Yan made a three-year pact with Nalan Yanran. For this pact, Xiao Yan cultivated tirelessly, enduring trials from the Magical Beast Mountain Range to the Tagor Desert, from alchemy to the excruciating pain of absorbing a strange fire—all to prove the saying: \"Th...",
+    "imageUrl": "https://myanimelist.net/images/anime/1029/118861l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49701/Doupo_Cangqiong__San_Nian_Zhi_Yue"
+  },
+  {
+    "id": 35737,
+    "title": "Pluto",
+    "titleJP": "プルートウ",
+    "type": "ONA",
+    "episodes": 8,
+    "score": 8.44,
+    "scoredBy": 110377,
+    "rank": 198,
+    "popularity": 1125,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Detective",
+      "Psychological"
+    ],
+    "studios": [
+      "Studio M2"
+    ],
+    "synopsis": "Gesicht, an android police detective of Europol, is tasked with finding the murderer of Montblanc, a retired war hero robot. Although it appears that only a robot could have committed this crime, the murder of a renowned robot rights activist casts doubts on the criminal's identity. Indeed, outside of an isolated and unexplained incident that occurred eight years ago, robots are programmed to be u...",
+    "imageUrl": "https://myanimelist.net/images/anime/1021/138568l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35737/Pluto"
+  },
+  {
+    "id": 38450,
+    "title": "Mo Dao Zu Shi: Xian Yun Pian",
+    "titleJP": "魔道祖师 羡云篇",
+    "type": "ONA",
+    "episodes": 8,
+    "score": 8.44,
+    "scoredBy": 55863,
+    "rank": 197,
+    "popularity": 2135,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology",
+      "Reincarnation"
+    ],
+    "studios": [
+      "B.CMAY PICTURES"
+    ],
+    "synopsis": "Continuing his masquerade as the deranged lunatic from the Lanling Jin Clan, Wei Wuxian resides in the Cloud Recesses while his former cultivation classmate, Lan Wangji, searches for answers about the demonic severed arm they have in custody. With an overwhelming dark energy emanating from the arm, the two are forced to work together in order to keep it contained. However, the demonic arm is not t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1404/106707l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38450/Mo_Dao_Zu_Shi__Xian_Yun_Pian"
+  },
+  {
+    "id": 37208,
+    "title": "Mo Dao Zu Shi",
+    "titleJP": "魔道祖师",
+    "type": "ONA",
+    "episodes": 15,
+    "score": 8.44,
+    "scoredBy": 88911,
+    "rank": 196,
+    "popularity": 1097,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology",
+      "Reincarnation"
+    ],
+    "studios": [
+      "B.CMAY PICTURES"
+    ],
+    "synopsis": "Xian: the state of immortality that all cultivators strive to achieve. However, there is a dark energy that lies underneath—the forbidden Mo Dao, or demonic path. Through an unfortunate series of tragedies, this is the path that cultivator Wei Wuxian experiments with during his teachings. His rise in power is accompanied by chaos and destruction, but his reign of terror comes to an abrupt end when...",
+    "imageUrl": "https://myanimelist.net/images/anime/1908/153734l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37208/Mo_Dao_Zu_Shi"
+  },
+  {
+    "id": 36999,
+    "title": "Zoku Owarimonogatari",
+    "titleJP": "続・終物語",
+    "type": "TV",
+    "episodes": 6,
+    "score": 8.44,
+    "scoredBy": 121536,
+    "rank": 199,
+    "popularity": 1114,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Graduation day is finally here, marking the end of Koyomi Araragi's eccentric high school life full of peculiar relationships with otherworldly beings.  However, Araragi is unexpectedly absorbed into his own bathroom mirror and trapped inside a bizarre world where everything he knows is completely reversed—the haughty Karen Araragi is shorter than usual, poker-faced Yotsugi Ononoki is brimming wit...",
+    "imageUrl": "https://myanimelist.net/images/anime/1022/96168l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36999/Zoku_Owarimonogatari"
+  },
+  {
+    "id": 26055,
+    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
+    "titleJP": "ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.44,
+    "scoredBy": 882439,
+    "rank": 195,
+    "popularity": 132,
+    "year": 2015,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Super Power"
+    ],
+    "studios": [
+      "David Production"
+    ],
+    "synopsis": "Joutarou Kuujou and his allies have finally made it to Egypt, where the immortal Dio awaits. Upon their arrival, the group gains a new comrade: Iggy, a mutt who wields the Stand \"The Fool.\" It's not all good news however, as standing in their path is a new group of Stand users who serve Dio, each with a Stand representative of an ancient Egyptian god. As their final battle approaches, it is a race...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/75045l.jpg",
+    "malUrl": "https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_-_Egypt-hen"
+  },
+  {
+    "id": 136,
+    "title": "Hunter x Hunter",
+    "titleJP": "HUNTER×HUNTER（ハンター×ハンター）",
+    "type": "TV",
+    "episodes": 62,
+    "score": 8.44,
+    "scoredBy": 314423,
+    "rank": 194,
+    "popularity": 379,
+    "year": 1999,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Nippon Animation"
+    ],
+    "synopsis": "Hunters are specialized in a wide variety of fields, ranging from treasure hunting to cooking. They have access to otherwise unavailable funds and information that allow them to pursue their dreams and interests. However, being a hunter is a special privilege, only attained by taking a deadly exam with an extremely low success rate.  Gon Freecss, a 12-year-old boy with the hope of finding his miss...",
+    "imageUrl": "https://myanimelist.net/images/anime/1305/132237l.jpg",
+    "malUrl": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+  },
+  {
+    "id": 40059,
+    "title": "Golden Kamuy 3rd Season",
+    "titleJP": "ゴールデンカムイ",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.44,
+    "scoredBy": 98994,
+    "rank": 193,
+    "popularity": 1389,
+    "year": 2020,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Geno Studio"
+    ],
+    "synopsis": "After obtaining information about Asirpa from the foreteller Inkarmat, Saichi Sugimoto, Genjirou Tanigaki, and Cikapasi join the Seventh Division's Otonoshin Koito and Hajime Tsukishima on a journey to Karafuto. Heading further north into the freezing Russian territory, they collect any clues about Asirpa's whereabouts they can find and rush after her.  Meanwhile, Asirpa is unaware of what truly t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1763/108108l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40059/Golden_Kamuy_3rd_Season"
+  },
+  {
+    "id": 63375,
+    "title": "Nippon Sangoku",
+    "titleJP": "日本三國",
+    "type": "TV",
+    "episodes": null,
+    "score": 8.43,
+    "scoredBy": 4805,
+    "rank": 204,
+    "popularity": 3962,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Military"
+    ],
+    "studios": [
+      "Studio Kafka"
+    ],
+    "synopsis": "In the near future, Japan has completely collapsed due to a mix of nuclear warfare, natural disasters, and widespread corruption that sparked a revolution.  The country is now split into three warring superpowers. This new era of the Three Kingdoms Period sees diplomacy vanish, replaced by a harsh, relentless fight for power. Each territory is using its military strength and resources against the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1623/156387l.jpg",
+    "malUrl": "https://myanimelist.net/anime/63375/Nippon_Sangoku"
+  },
+  {
+    "id": 56538,
+    "title": "Kimi ni Todoke 3rd Season",
+    "titleJP": "君に届け3RD SEASON",
+    "type": "ONA",
+    "episodes": 5,
+    "score": 8.43,
+    "scoredBy": 42060,
+    "rank": 202,
+    "popularity": 2193,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Summer is in full swing, and so is the love between Sawako Kuronuma and Shouta Kazehaya. From attending summer school together to meeting each other's parents, the two enjoy quality time together while tackling the feelings of self-doubt and emotional strain that come with their newfound love.  Meanwhile, Sawako's close friends, Chizuru Yoshida and Ayane Yano, struggle through their own romantic d...",
+    "imageUrl": "https://myanimelist.net/images/anime/1617/142448l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56538/Kimi_ni_Todoke_3rd_Season"
+  },
+  {
+    "id": 54857,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "titleJP": "Re:ゼロから始める異世界生活 3rd season",
+    "type": "TV",
+    "episodes": 16,
+    "score": 8.43,
+    "scoredBy": 226575,
+    "rank": 205,
+    "popularity": 522,
+    "year": 2024,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Suspense"
+    ],
+    "themes": [
+      "Isekai",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "One year after the events at the Sanctuary, Subaru Natsuki trains hard to better face future challenges. The peaceful days come to an end when Emilia receives an invitation to a meeting in the Watergate City of Priestella from none other than Anastasia Hoshin, one of her rivals in the royal selection. Considering the meeting's significance and the potential dangers Emilia could face, Subaru and hi...",
+    "imageUrl": "https://myanimelist.net/images/anime/1706/144725l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season"
+  },
+  {
+    "id": 24687,
+    "title": "Mushishi Zoku Shou: Odoro no Michi",
+    "titleJP": "蟲師 続章",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.43,
+    "scoredBy": 54186,
+    "rank": 203,
+    "popularity": 2219,
+    "year": 2014,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Artland"
+    ],
+    "synopsis": "Mysterious, unknowable creatures alien to the laws of nature—known only to some and feared by others—\"Mushi\" lie behind many of life's strange phenomena.  Long ago, a Mushi of terrifying power threatened to extinguish all life. The Minai clan of Mushishi were born from those who stopped this malevolent force, their members bound by duty to serve as retainers to the Karibusa family, within whom the...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/63539l.jpg",
+    "malUrl": "https://myanimelist.net/anime/24687/Mushishi_Zoku_Shou__Odoro_no_Michi"
+  },
+  {
+    "id": 44511,
+    "title": "Chainsaw Man",
+    "titleJP": "チェンソーマン",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.43,
+    "scoredBy": 1134490,
+    "rank": 200,
+    "popularity": 48,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Gore",
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1806/126216l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44511/Chainsaw_Man"
+  },
+  {
+    "id": 20583,
+    "title": "Haikyuu!!",
+    "titleJP": "ハイキュー!!",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.43,
+    "scoredBy": 1344695,
+    "rank": 201,
+    "popularity": 36,
+    "year": 2014,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Ever since having witnessed the \"Little Giant\" and his astonishing skills on the volleyball court, Shouyou Hinata has been bewitched by the dynamic nature of the sport. Even though his attempt to make his debut as a volleyball regular during a middle school tournament went up in flames, he longs to prove that his less-than-impressive height ceases to be a hindrance in the face of his sheer will an...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/76014l.jpg",
+    "malUrl": "https://myanimelist.net/anime/20583/Haikyuu"
+  },
+  {
+    "id": 57334,
+    "title": "Dandadan",
+    "titleJP": "ダンダダン",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.42,
+    "scoredBy": 586465,
+    "rank": 207,
+    "popularity": 204,
+    "year": 2024,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Science SARU"
+    ],
+    "synopsis": "Reeling from her recent breakup, Momo Ayase, a popular high schooler, shows kindness to her socially awkward schoolmate, Ken Takakura, by standing up to his bullies. Takakura misunderstands her intentions, believing he has made a new friend who shares his obsession with aliens and UFOs. However, Momo's own eccentric occult beliefs lie in the supernatural realm; she thinks aliens do not exist. A ri...",
+    "imageUrl": "https://myanimelist.net/images/anime/1584/143719l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57334/Dandadan"
+  },
+  {
+    "id": 36538,
+    "title": "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+    "titleJP": "劇場版 夏目友人帳 ～うつせみに結ぶ～",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.42,
+    "scoredBy": 30903,
+    "rank": 211,
+    "popularity": 2668,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "Takashi Natsume and his spirit companion Madara, nicknamed \"Nyanko,\" continue returning the names of spirits from the Book of Friends given by his late grandmother Reiko Natsume.  On his way back from school one day, Takashi encounters a lurking spirit named Monmonbou, who recalls memories of Takashi's grandmother after hearing his name. Takashi's natural curiosity leads him to explore a mysteriou...",
+    "imageUrl": "https://myanimelist.net/images/anime/1250/94846l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36538/Natsume_Yuujinchou_Movie__Utsusemi_ni_Musubu"
+  },
+  {
+    "id": 42203,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+    "titleJP": "Re：ゼロから始める異世界生活 2 part 2",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.42,
+    "scoredBy": 632720,
+    "rank": 212,
+    "popularity": 173,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Suspense"
+    ],
+    "themes": [
+      "Isekai",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "After a stern yet compelling speech by Otto Suwen, Subaru Natsuki solemnly swears that he will successfully make it through this timeline and save everyone he can along the way. The first step toward achieving this goal is to help Emilia work through her past; however, that is easier said than done. Feeling as if she has been lied to by everyone around her, it will be difficult for Emilia to trust...",
+    "imageUrl": "https://myanimelist.net/images/anime/1724/117421l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42203/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2"
+  },
+  {
+    "id": 38889,
+    "title": "Kono Oto Tomare! Part 2",
+    "titleJP": "この音とまれ！",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.42,
+    "scoredBy": 107586,
+    "rank": 209,
+    "popularity": 1373,
+    "year": 2019,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music",
+      "Performing Arts",
+      "School"
+    ],
+    "studios": [
+      "Platinum Vision"
+    ],
+    "synopsis": "The Tokise High School Koto Club has courageously pushed through their fractured and unsynchronized performance at the Kanto Region Traditional Japanese Music Festival. Club members Chika Kudou, Satowa Houzuki, Takezou Kurata, Hiro Kurusu, Kouta Mizuhara, Saneyasu Adachi, and Michitaka Sakai are devastated to learn the negative results of their performance, leaving them crushed. Nonetheless, the g...",
+    "imageUrl": "https://myanimelist.net/images/anime/1422/111621l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38889/Kono_Oto_Tomare_Part_2"
+  },
+  {
+    "id": 21899,
+    "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+    "titleJP": "銀魂 よりぬき銀魂さんオンシアター2D",
+    "type": "Movie",
+    "episodes": 2,
+    "score": 8.42,
+    "scoredBy": 18359,
+    "rank": 208,
+    "popularity": 3641,
+    "year": 2012,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Demonic Vice-Commander of the Shinsengumi, Toushirou Hijikata, acquires a cursed sword—one which completely rewrites his personality, morphing him from a hard-boiled, no-nonsense cop into a hopeless otaku. As he struggles to break the curse, an ambitious new member of the police force, Itou Kamotarou, seizes the opportunity to depose Hijikata in his bid for power within the organization. However, ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1172/90571l.jpg",
+    "malUrl": "https://myanimelist.net/anime/21899/Gintama__Yorinuki_Gintama-san_on_Theater_2D"
+  },
+  {
+    "id": 25781,
+    "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+    "titleJP": "進撃の巨人 悔いなき選択",
+    "type": "OVA",
+    "episodes": 2,
+    "score": 8.42,
+    "scoredBy": 335673,
+    "rank": 214,
+    "popularity": 441,
+    "year": 2014,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "Many years before becoming the famed captain of the Survey Corps, a young Levi struggles to survive in the capital's garbage dump, the Underground. As the boss of his own criminal operation, Levi attempts to get by with meager earnings while aided by fellow criminals, Isabel Magnolia and Farlan Church. With little hope for the future, Levi accepts a deal from the anti-expedition faction leader Nic...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/69497l.jpg",
+    "malUrl": "https://myanimelist.net/anime/25781/Shingeki_no_Kyojin__Kuinaki_Sentaku"
+  },
+  {
+    "id": 467,
+    "title": "Koukaku Kidoutai: Stand Alone Complex",
+    "titleJP": "攻殻機動隊 STAND ALONE COMPLEX",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.42,
+    "scoredBy": 172503,
+    "rank": 210,
+    "popularity": 636,
+    "year": 2002,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Award Winning",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Mecha",
+      "Military"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "In the not so distant future, mankind has advanced to a state where complete body transplants from flesh to machine is possible. This allows for great increases in both physical and cybernetic prowess and blurring the lines between the two worlds. However, criminals can also make full use of such technology, leading to new and sometimes, very dangerous crimes. In response to such innovative new me...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/50857l.jpg",
+    "malUrl": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex"
+  },
+  {
+    "id": 50265,
+    "title": "Spy x Family",
+    "titleJP": "SPY×FAMILY",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.42,
+    "scoredBy": 1158490,
+    "rank": 215,
+    "popularity": 56,
+    "year": 2022,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Comedy"
+    ],
+    "themes": [
+      "Childcare",
+      "Super Power"
+    ],
+    "studios": [
+      "Wit Studio",
+      "CloverWorks"
+    ],
+    "synopsis": "Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise \"Twilight\" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.  In the bustling Ostanian city of Berli...",
+    "imageUrl": "https://myanimelist.net/images/anime/1441/122795l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50265/Spy_x_Family"
+  },
+  {
+    "id": 36885,
+    "title": "Saenai Heroine no Sodatekata Fine",
+    "titleJP": "冴えない彼女の育てかた Fine",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.42,
+    "scoredBy": 94737,
+    "rank": 213,
+    "popularity": 1358,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Harem",
+      "Otaku Culture",
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "With the second Winter Comiket just around the corner, Blessing Software has been vigorously producing its new game, \"How to Raise a Boring Girlfriend.\" Despite Utaha Kasumigaoka and Eriri Spencer Sawamura leaving the circle, Megumi Katou and Tomoya Aki are hopeful that, by sticking to Tomoya's original vision for the game, their upcoming creation will exceed Blessing Software's previous installme...",
+    "imageUrl": "https://myanimelist.net/images/anime/1671/111411l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine"
+  },
+  {
+    "id": 50330,
+    "title": "Bungou Stray Dogs 4th Season",
+    "titleJP": "文豪ストレイドッグス",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.42,
+    "scoredBy": 148487,
+    "rank": 206,
+    "popularity": 762,
+    "year": 2023,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Organized Crime",
+      "Super Power"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "No longer concerned with military affairs, Yukichi Fukuzawa intends to act as a lone bodyguard-for-hire, making use of his deadly swordsmanship. However, things are not going as planned for his freelance business, and that is when he crosses paths with a mouthy boy named Ranpo Edogawa. While their initial interactions are intertwined with a bizarre murder mystery, the aftermath prompts the formati...",
+    "imageUrl": "https://myanimelist.net/images/anime/1263/132759l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50330/Bungou_Stray_Dogs_4th_Season"
+  },
+  {
+    "id": 39741,
+    "title": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+    "titleJP": "ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.42,
+    "scoredBy": 283195,
+    "rank": 216,
+    "popularity": 540,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Isabella, the daughter of the noble York family, is enrolled in an all-girls academy to be groomed into a dame worthy of nobility. However, she has given up on her future, seeing the prestigious school as nothing more than a prison from the outside world. Her family notices her struggling in her lessons and decides to hire Violet Evergarden to personally tutor her under the guise of a handmaiden. ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1667/112943l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39741/Violet_Evergarden_Gaiden__Eien_to_Jidou_Shuki_Ningyou"
+  },
+  {
+    "id": 60543,
+    "title": "Dandadan 2nd Season",
+    "titleJP": "ダンダダン 第2期",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.41,
+    "scoredBy": 286180,
+    "rank": 218,
+    "popularity": 464,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Science SARU"
+    ],
+    "synopsis": "While the mission to exorcise Jin \"Jiji\" Enjouji's family home is underway, things are not going as expected. Momo Ayase narrowly evades an attempted abduction while Ken \"Okarun\" Takakura and Jiji are ambushed by the Kitou family—the unsettling landlords of the cursed estate. The trio's efforts threaten the foundation of this enigmatic town shrouded in legends and mysteries.  As Momo, Okarun, and ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1721/149001l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60543/Dandadan_2nd_Season"
+  },
+  {
+    "id": 55772,
+    "title": "Golden Kamuy: Saishuushou",
+    "titleJP": "ゴールデンカムイ 最終章",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.41,
+    "scoredBy": 13749,
+    "rank": 219,
+    "popularity": 3329,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "Ex-convict Keiji Ueji appears in Sapporo, causing all the different factions to travel to the city in hopes of obtaining part of the map to the Ainu gold that is tattooed on his skin. At the same time, a figure who appears to be a copycat of Jack the Ripper terrorizes the streets of Sapporo. Saichi Sugimoto, Asirpa, and Yoshitake Shiraishi—joined by Fusatarou \"Boutarou the Pirate\" Oosawa and Vasil...",
+    "imageUrl": "https://myanimelist.net/images/anime/1288/154763l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55772/Golden_Kamuy__Saishuushou"
+  },
+  {
+    "id": 53672,
+    "title": "Violet Evergarden: Recollections",
+    "titleJP": "ヴァイオレット・エヴァーガーデン特別総集版",
+    "type": "Special",
+    "episodes": 1,
+    "score": 8.41,
+    "scoredBy": 16386,
+    "rank": 227,
+    "popularity": 3721,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Recap of Violet Evergarden....",
+    "imageUrl": "https://myanimelist.net/images/anime/1902/143097l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53672/Violet_Evergarden__Recollections"
+  },
+  {
+    "id": 36275,
+    "title": "Natsume Yuujinchou Roku Specials",
+    "titleJP": "夏目友人帳 陸 特別編",
+    "type": "Special",
+    "episodes": 2,
+    "score": 8.41,
+    "scoredBy": 24375,
+    "rank": 224,
+    "popularity": 3444,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "Suzunaru no Kirikabu  On a hot summer day, Takashi Natsume and his feline companion Madara take a walk to buy jelly. Suddenly a truck passes the two, running over an old, masked man who asks Natsume for help. The mysterious individual turns out to be a youkai, the spirit of the Suzunaru tree that was recently hit by lightning and cut down. As the tree withers away, the youkai requests Natsume to f...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/87615l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36275/Natsume_Yuujinchou_Roku_Specials"
+  },
+  {
+    "id": 33255,
+    "title": "Saiki Kusuo no Ψ-nan",
+    "titleJP": "斉木楠雄のΨ難",
+    "type": "TV",
+    "episodes": 120,
+    "score": 8.41,
+    "scoredBy": 697811,
+    "rank": 225,
+    "popularity": 131,
+    "year": 2016,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "School",
+      "Super Power"
+    ],
+    "studios": [
+      "J.C.Staff",
+      "Egg Firm"
+    ],
+    "synopsis": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this could not be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse. As all the inconveniences his powers cause constantly pile up, all Kusuo aims for is an ordinary, hassle-free li...",
+    "imageUrl": "https://myanimelist.net/images/anime/1973/142750l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33255/Saiki_Kusuo_no_Ψ-nan"
+  },
+  {
+    "id": 34612,
+    "title": "Saiki Kusuo no Ψ-nan 2",
+    "titleJP": "斉木楠雄のΨ難 2",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.41,
+    "scoredBy": 430578,
+    "rank": 226,
+    "popularity": 326,
+    "year": 2018,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "School",
+      "Super Power"
+    ],
+    "studios": [
+      "J.C.Staff",
+      "Egg Firm"
+    ],
+    "synopsis": "The disastrous life of the gifted psychic Kusuo Saiki continues, despite his utmost effort to live an ordinary life. Although he has certainly grown accustomed to dealing with his troublesome friends—who are his biggest hurdle to achieving a peaceful life—he still has a long way to go. Also joining the usual oddballs are a few new faces whose shenanigans add to Saiki's misery, making his dreams of...",
+    "imageUrl": "https://myanimelist.net/images/anime/1961/91383l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34612/Saiki_Kusuo_no_Ψ-nan_2"
+  },
+  {
+    "id": 2246,
+    "title": "Mononoke",
+    "titleJP": "モノノ怪",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.41,
+    "scoredBy": 105938,
+    "rank": 223,
+    "popularity": 747,
+    "year": 2007,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Mythology",
+      "Psychological"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "The \"Medicine Seller\" is a deadly and mysterious master of the occult who travels across feudal Japan in search of malevolent spirits called \"mononoke\" to slay. When he locates one of these spirits, he cannot simply kill it; he must first learn its Form, its Truth, and its Reason in order to wield the mighty Exorcism Sword and fight against it. He must begin  his strange exorcisms with intense psy...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/20713l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2246/Mononoke"
+  },
+  {
+    "id": 49722,
+    "title": "Karakai Jouzu no Takagi-san Movie",
+    "titleJP": "からかい上手の高木さん",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.41,
+    "scoredBy": 43804,
+    "rank": 221,
+    "popularity": 2457,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "Love Status Quo",
+      "School"
+    ],
+    "studios": [
+      "Shin-Ei Animation"
+    ],
+    "synopsis": "Takagi and Nishikata's final summer in junior high is about to begin, and it's already off to a heartwarming start! When the pair find an abandoned kitten, they decide to work together and take care of their adorable new companion until they can locate its missing mother.  (Source: Sentai Filmworks)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1376/123398l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49722/Karakai_Jouzu_no_Takagi-san_Movie"
+  },
+  {
+    "id": 30709,
+    "title": "Kamisama Hajimemashita: Kako-hen",
+    "titleJP": "神様はじめました～過去編～",
+    "type": "OVA",
+    "episodes": 4,
+    "score": 8.41,
+    "scoredBy": 91509,
+    "rank": 220,
+    "popularity": 1489,
+    "year": 2015,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Mythology",
+      "Time Travel"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "While playing in the snow one day at her shrine, the land god Nanami Momozono witnesses her familiar—the fox youkai Tomoe—collapse, with dark markings appearing on his body. Tomoe's former master, Lord Mikage, appears after his long absence and places Tomoe into a magical pocket mirror in order to stave off his ailment.  Mikage explains that long ago, before he and Tomoe had met, the fox youkai wa...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/81250l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30709/Kamisama_Hajimemashita__Kako-hen"
+  },
+  {
+    "id": 50183,
+    "title": "Blue Giant",
+    "titleJP": "BLUE GIANT",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.41,
+    "scoredBy": 18082,
+    "rank": 217,
+    "popularity": 3646,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "Nut"
+    ],
+    "synopsis": "Ever since a fateful encounter with jazz music, Dai Miyamoto has dreamed of becoming the world's best jazz saxophonist. After only three years of playing the instrument, he makes the bold decision to move to Tokyo in order to break into the music scene.  When he meets pianist Yukinori Sawabe at a small music club, Dai believes that he has found a kindred spirit he can form a band with. However, th...",
+    "imageUrl": "https://myanimelist.net/images/anime/1958/132159l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50183/Blue_Giant"
+  },
+  {
+    "id": 38000,
+    "title": "Kimetsu no Yaiba",
+    "titleJP": "鬼滅の刃",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.41,
+    "scoredBy": 2356857,
+    "rank": 222,
+    "popularity": 5,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelte...",
+    "imageUrl": "https://myanimelist.net/images/anime/1286/99889l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
+  },
+  {
+    "id": 35851,
+    "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+    "titleJP": "さよならの朝に約束の花をかざろう",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.4,
+    "scoredBy": 217004,
+    "rank": 232,
+    "popularity": 526,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "P.A. Works"
+    ],
+    "synopsis": "Maquia is a member of a special race called the Iorph—mystical beings who can live for hundreds of years and remain separate from the lives and daily troubles of mankind. However, Maquia has always felt lonely despite being surrounded by her people, as she was orphaned from a young age. She daydreams about the outside world, but dares not travel from her home due to the warnings of the clan's chie...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/89556l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou"
+  },
+  {
+    "id": 39167,
+    "title": "Girls & Panzer: Saishuushou Part 4",
+    "titleJP": "『ガールズ＆パンツァー 最終章』第4話",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.4,
+    "scoredBy": 9775,
+    "rank": 228,
+    "popularity": 4883,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [],
+    "themes": [
+      "CGDCT",
+      "Military",
+      "School"
+    ],
+    "studios": [
+      "Actas"
+    ],
+    "synopsis": "The Winter Continuous Track Cup semifinals are underway and Ooarai Girls’ Academy find themselves in deep trouble early in their match against Continuation High School. The Anglerfish Team are knocked out by Continuation's sharpshooter, forcing the rest of the team to use a different game plan. Stepping up in the absence of her star teammates, Azusa Sawa shows her leadership potential by temporari...",
+    "imageUrl": "https://myanimelist.net/images/anime/1652/138188l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39167/Girls___Panzer__Saishuushou_Part_4"
+  },
+  {
+    "id": 5028,
+    "title": "Major S5",
+    "titleJP": "メジャー",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.4,
+    "scoredBy": 44008,
+    "rank": 231,
+    "popularity": 2830,
+    "year": 2009,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "SynergySP"
+    ],
+    "synopsis": "The Baseball World Cup is nearing, and Gorou Honda is eager to represent his country. However, one small problem stands in his way: the team roster has already been selected, and he is not a part of it.   Nonetheless, Gorou remains adamant to join. He becomes a practice pitcher for the Japanese national team, hoping to demonstrate his incredible speed and skills to the team's manager. Fortunately,...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/75218l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5028/Major_S5"
+  },
+  {
+    "id": 40730,
+    "title": "Tian Guan Cifu",
+    "titleJP": "天官賜福",
+    "type": "ONA",
+    "episodes": 11,
+    "score": 8.4,
+    "scoredBy": 77031,
+    "rank": 233,
+    "popularity": 1561,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology"
+    ],
+    "studios": [
+      "Haoliners Animation"
+    ],
+    "synopsis": "The heavens shake, the thunder rumbles, and Xie Lian appears with an apologetic smile—again! Eight hundred years prior, he was a beloved martial god, known as the Crown Prince of Xianle. Now, he ascends to the heavenly realm for the third time, but simply as a pitiful scrap-collecting god with no followers behind him.   On his first mission, Xie Lian finds himself alone in the dark moonlit night. ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1319/109301l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40730/Tian_Guan_Cifu"
+  },
+  {
+    "id": 38040,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+    "titleJP": "映画 この素晴らしい世界に祝福を！紅伝説",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.4,
+    "scoredBy": 559528,
+    "rank": 230,
+    "popularity": 240,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Parody"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic.  When Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she im...",
+    "imageUrl": "https://myanimelist.net/images/anime/1638/119321l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38040/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Movie__Kurenai_Densetsu"
+  },
+  {
+    "id": 37999,
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "titleJP": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.4,
+    "scoredBy": 1210327,
+    "rank": 229,
+    "popularity": 51,
+    "year": 2019,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. Alongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. They are the envy of the entire st...",
+    "imageUrl": "https://myanimelist.net/images/anime/1295/106551l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen"
+  },
+  {
+    "id": 55888,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "titleJP": "無職転生 II ～異世界行ったら本気だす～ (第2クール)",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.39,
+    "scoredBy": 327571,
+    "rank": 236,
+    "popularity": 437,
+    "year": 2024,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Studio Bind"
+    ],
+    "synopsis": "Following the faceless god Hitogami's advice seems to have worked wonders for Rudeus Greyrat. After enrolling into the University of Magic as he was told, Rudeus reunites with his childhood friend Sylphiette, who put a valiant effort into curing his condition. The two grow ever closer together and decide to host a wedding party, inviting the friends they have made over the years to announce and fo...",
+    "imageUrl": "https://myanimelist.net/images/anime/1876/141251l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2"
+  },
+  {
+    "id": 53236,
+    "title": "Road of Naruto",
+    "titleJP": "ROAD OF NARUTO",
+    "type": "PV",
+    "episodes": 1,
+    "score": 8.39,
+    "scoredBy": 22788,
+    "rank": null,
+    "popularity": 4117,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "In celebration of 20 years of Naruto, Studio Pierrot posted an anniversary PV on their YouTube channel. The PV is a compilation of newly reworked scenes from Naruto containing new animation....",
+    "imageUrl": "https://myanimelist.net/images/anime/1731/128787l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53236/Road_of_Naruto"
+  },
+  {
+    "id": 37515,
+    "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+    "titleJP": "劇場版総集編【後編】メイドインアビス 放浪する黄昏",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.39,
+    "scoredBy": 69427,
+    "rank": 235,
+    "popularity": 1650,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gore"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "The movie is a compilation of episodes 9-13 of the 2017 television series. Riko and Reg descend to the third layer where Riko has her first experience of the Curse. They descend to the fourth layer where Riko's arm is injured by an Orbed Piercer and Reg tries to save her. Nanachi comes to their aid and saves Riko's poisoned arm. In return Nanachi asks Reg to kill her immortal companion Mitty. Nana...",
+    "imageUrl": "https://myanimelist.net/images/anime/1336/95168l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37515/Made_in_Abyss_Movie_2__Hourou_Suru_Tasogare"
+  },
+  {
+    "id": 35557,
+    "title": "Houseki no Kuni",
+    "titleJP": "宝石の国",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.39,
+    "scoredBy": 219681,
+    "rank": 234,
+    "popularity": 491,
+    "year": 2017,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "themes": [
+      "Anthropomorphic"
+    ],
+    "studios": [
+      "Orange"
+    ],
+    "synopsis": "In the mysterious future, crystalline organisms called Gems inhabit a world that has been destroyed by six meteors. Each Gem is assigned a role in order to fight against the Lunarians, a species who attacks them in order to shatter their bodies and use them as decorations.   Phosphophyllite, also known as Phos, is a young and fragile Gem who dreams of helping their friends in the war effort. Inste...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/88293l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35557/Houseki_no_Kuni"
+  },
+  {
+    "id": 55318,
+    "title": "Medalist",
+    "titleJP": "メダリスト",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.38,
+    "scoredBy": 38178,
+    "rank": 246,
+    "popularity": 2533,
+    "year": 2025,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Performing Arts"
+    ],
+    "studios": [
+      "ENGI"
+    ],
+    "synopsis": "Tsukasa Akeuraji always dreamed of becoming a competitive solo figure skater, but starting too late in life meant his ambitions never got off the ground. Now barely scraping by, he takes on an assistant coach job, resigned to a future far from the one he once imagined.  Before his first day, Tsukasa meets Inori Yuitsuka, a shy fifth grader sneaking into the rink to practice. Captivated by figure s...",
+    "imageUrl": "https://myanimelist.net/images/anime/1029/146850l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55318/Medalist"
+  },
+  {
+    "id": 4921,
+    "title": "Ramayana: The Legend of Prince Rama",
+    "titleJP": "ラーマーヤナ ラーマ王子伝説",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.38,
+    "scoredBy": 7236,
+    "rank": 247,
+    "popularity": 6097,
+    "year": 1993,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure"
+    ],
+    "themes": [],
+    "studios": [
+      "Nippon Ramayana Film"
+    ],
+    "synopsis": "Rama, the eldest prince of the Kingdom of Ayodhya, is beloved by all and the natural successor to his father's throne. However, when one of his father's wives conspires to get her son on the throne instead, Rama ends up being banished into the woods for 14 years. Accompanied by his wife, Sita, and his brother, Lakshman—Rama tries to make the most of life in exile despite his challenges.  The trio'...",
+    "imageUrl": "https://myanimelist.net/images/anime/1070/104671l.jpg",
+    "malUrl": "https://myanimelist.net/anime/4921/Ramayana__The_Legend_of_Prince_Rama"
+  },
+  {
+    "id": 2402,
+    "title": "Ashita no Joe",
+    "titleJP": "あしたのジョー",
+    "type": "TV",
+    "episodes": 79,
+    "score": 8.38,
+    "scoredBy": 29739,
+    "rank": 237,
+    "popularity": 2195,
+    "year": 1970,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Mushi Production"
+    ],
+    "synopsis": "Joe Yabuki is a troubled youth, whose only solution to problems is throwing punches at them. What he lacks in manners and discipline, he makes up for with his self-taught fighting skills.  One day, while wandering the slums of Doya, Joe gets into a fight with the local gang. Although greatly outnumbered, he effortlessly defeats them, drawing the attention of Danpei Tange—a former boxing coach turn...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/64671l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2402/Ashita_no_Joe"
+  },
+  {
+    "id": 37965,
+    "title": "Kaze ga Tsuyoku Fuiteiru",
+    "titleJP": "風が強く吹いている",
+    "type": "TV",
+    "episodes": 23,
+    "score": 8.38,
+    "scoredBy": 151243,
+    "rank": 243,
+    "popularity": 834,
+    "year": 2018,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Former ace runner of Sendai Josei High School, Kakeru Kurahara is chased away from a convenience store for shoplifting. Shaking off his pursuer, he runs into Haiji Kiyose, another student from his university. Haiji is impressed by Kakeru's agility and persuades him to live in Chikusei-sou, the run-down apartment where Haiji resides along with eight other students. Having lost his entire apartment ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1936/129119l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru"
+  },
+  {
+    "id": 46095,
+    "title": "Vivy: Fluorite Eye's Song",
+    "titleJP": "Vivy -Fluorite Eye's Song- (ヴィヴィ -フローライトアイズソング-)",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.38,
+    "scoredBy": 272448,
+    "rank": 248,
+    "popularity": 410,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Music",
+      "Time Travel"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "When highly evolved AIs set out to eradicate mankind, the carnage that ensues fills the air with the stench of fresh blood and burning bodies. In a desperate bid to prevent the calamity from ever occurring, a scientist bets everything on a remnant from the past.  Turning the clock back a hundred years, AIs are already an integral part of human society, programmed with specific missions meant to be...",
+    "imageUrl": "https://myanimelist.net/images/anime/1551/128960l.jpg",
+    "malUrl": "https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song"
+  },
+  {
+    "id": 11979,
+    "title": "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
+    "titleJP": "劇場版 魔法少女まどか☆マギカ 永遠の物語",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.38,
+    "scoredBy": 108205,
+    "rank": 245,
+    "popularity": 1273,
+    "year": 2012,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Mahou Shoujo",
+      "Psychological"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Though Sayaka Miki's wish was fulfilled, the unforeseen consequences that came with it overwhelm her, causing her soul gem to become tainted as she succumbs to despair and eventually loses her humanity. Homura Akemi reveals to Kyouko Sakura and Madoka Kaname the ultimate fate of magical girls: once their soul gem becomes tainted, it transforms into a Grief Seed, and they are reborn as witches—a tr...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/42265l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11979/Mahou_Shoujo_Madoka★Magica_Movie_2__Eien_no_Monogatari"
+  },
+  {
+    "id": 40787,
+    "title": "Josee to Tora to Sakana-tachi",
+    "titleJP": "ジョゼと虎と魚たち",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.38,
+    "scoredBy": 275287,
+    "rank": 242,
+    "popularity": 479,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Visual Arts"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Equipped with his passion for diving and admiration for marine biology, university student Tsuneo Suzukawa tries his best to juggle several part-time jobs to earn enough money to study abroad. But one night, in a fateful accident, he meets a girl in a wheelchair, driving his current path into a detour.  The girl, Kumiko—who prefers to be called \"Josee\"—initially comes off as rude. Tsuneo, however,...",
+    "imageUrl": "https://myanimelist.net/images/anime/1714/108892l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40787/Josee_to_Tora_to_Sakana-tachi"
+  },
+  {
+    "id": 9756,
+    "title": "Mahou Shoujo Madoka★Magica",
+    "titleJP": "魔法少女まどか★マギカ",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.38,
+    "scoredBy": 815761,
+    "rank": 244,
+    "popularity": 105,
+    "year": 2011,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Mahou Shoujo",
+      "Psychological"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Madoka Kaname and Sayaka Miki are regular middle school girls with regular lives, but all that changes when they encounter Kyuubey, a cat-like magical familiar, and Homura Akemi, the new transfer student.  Kyuubey offers them a proposition: he will grant any one of their wishes and in exchange, they will each become a magical girl, gaining enough power to fulfill their dreams. However, Homura Akem...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/55225l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica"
+  },
+  {
+    "id": 14397,
+    "title": "Chihayafuru 2",
+    "titleJP": "ちはやふる 2",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.38,
+    "scoredBy": 138473,
+    "rank": 238,
+    "popularity": 1112,
+    "year": 2013,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "themes": [
+      "Love Polygon",
+      "School",
+      "Strategy Game"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Chihaya Ayase is obsessed with developing her school's competitive karuta club, nursing daunting ambitions like winning the national team championship at the Omi Jingu and becoming the Queen, the best female karuta player in Japan—and in extension, the world. As their second year of high school rolls around, Chihaya and her fellow teammates must recruit new members, train their minds and bodies al...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/47435l.jpg",
+    "malUrl": "https://myanimelist.net/anime/14397/Chihayafuru_2"
+  },
+  {
+    "id": 32366,
+    "title": "Gintama°: Aizome Kaori-hen",
+    "titleJP": "銀魂　愛染香篇",
+    "type": "OVA",
+    "episodes": 2,
+    "score": 8.38,
+    "scoredBy": 49160,
+    "rank": 241,
+    "popularity": 2505,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "Parody"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "synopsis": "The red-light district, Yoshiwara, is suddenly taken over by \"Aizen Kou,\" an incense that has the ability to make anyone fall in love with the first person they see. Having been outlawed for its strong potency, the love drug was thought to have disappeared from the red-light district for good; however, it seems to have found its way back inside Yoshiwara's walls and now has the entire district und...",
+    "imageUrl": "https://myanimelist.net/images/anime/1962/133573l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32366/Gintama°__Aizome_Kaori-hen"
+  },
+  {
+    "id": 51039,
+    "title": "Doupo Cangqiong: Nian Fan",
+    "titleJP": "斗破苍穹年番",
+    "type": "ONA",
+    "episodes": 209,
+    "score": 8.38,
+    "scoredBy": 4221,
+    "rank": 240,
+    "popularity": 6656,
+    "year": 2022,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Motion Magic"
+    ],
+    "synopsis": "Fifth season of Doupo Cangqiong....",
+    "imageUrl": "https://myanimelist.net/images/anime/1419/126374l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan"
+  },
+  {
+    "id": 5,
+    "title": "Cowboy Bebop: Tengoku no Tobira",
+    "titleJP": "カウボーイビバップ 天国の扉",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.38,
+    "scoredBy": 231803,
+    "rank": 239,
+    "popularity": 657,
+    "year": 2001,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Space"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the...",
+    "imageUrl": "https://myanimelist.net/images/anime/1439/93480l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira"
+  },
+  {
+    "id": 38475,
+    "title": "Yuru Camp△ Movie",
+    "titleJP": "映画 ゆるキャン△",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.38,
+    "scoredBy": 35340,
+    "rank": 250,
+    "popularity": 2473,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "Adult Cast",
+      "CGDCT",
+      "Iyashikei"
+    ],
+    "studios": [
+      "C-Station"
+    ],
+    "synopsis": "As time marches forward, Rin Shima, Nadeshiko Kagamihara, and their friends have grown into full-fledged adults. Now with careers and responsibilities, they can no longer freely spend their days camping and adventuring. However, Chiaki Oogaki, who currently works for the Yamanashi Tourism Organization, reunites the group as she comes up with an exciting proposal—to build a campground together to r...",
+    "imageUrl": "https://myanimelist.net/images/anime/1806/124396l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38475/Yuru_Camp△_Movie"
+  },
+  {
+    "id": 45556,
+    "title": "Wu Liuqi: Xuanwu Guo Pian",
+    "titleJP": "伍六七之玄武国篇",
+    "type": "ONA",
+    "episodes": 10,
+    "score": 8.38,
+    "scoredBy": 46377,
+    "rank": 249,
+    "popularity": 2655,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "themes": [
+      "Martial Arts",
+      "Super Power"
+    ],
+    "studios": [
+      "Sharefun Studio"
+    ],
+    "synopsis": "In order to protect the residents of Xiaoji Island and the peaceful life here, Wu Liuqi and his partners Dabao and Xiaofei embark on a journey to the Xuanwu Kingdom to find out the truth about his identity and a way to save the island. Waiting for them is more unknowns and adventures.  (Source: bilibili, edited)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1884/111224l.jpg",
+    "malUrl": "https://myanimelist.net/anime/45556/Wu_Liuqi__Xuanwu_Guo_Pian"
+  },
+  {
+    "id": 56523,
+    "title": "Tunshi Xingkong 3rd Season",
+    "titleJP": "吞噬星空 第三季",
+    "type": "ONA",
+    "episodes": 33,
+    "score": 8.37,
+    "scoredBy": 2441,
+    "rank": 258,
+    "popularity": 9455,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Sparkly Key Animation Studio"
+    ],
+    "synopsis": "Third season of Tunshi Xingkong....",
+    "imageUrl": "https://myanimelist.net/images/anime/1250/138217l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56523/Tunshi_Xingkong_3rd_Season"
+  },
+  {
+    "id": 5205,
+    "title": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
+    "titleJP": "劇場版 空の境界 the Garden of sinners 第七章『殺人考察（後）』",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.37,
+    "scoredBy": 118861,
+    "rank": 255,
+    "popularity": 1280,
+    "year": 2009,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mystery",
+      "Romance",
+      "Suspense"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "In February 1999, a string of murders has Shiki Ryougi and Mikiya Kokutou on edge. These crimes share a disturbing resemblance to a similar set of homicides from 1995, when Shiki and Mikiya first met, and awaken a dark, murderous desire that has laid dormant within Shiki's soul ever since then.  With Shiki under suspicion due to her involvement in the past killings and supposed resemblance to the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/56619l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5205/Kara_no_Kyoukai_Movie_7__Satsujin_Kousatsu_Go"
+  },
+  {
+    "id": 5941,
+    "title": "Cross Game",
+    "titleJP": "クロスゲーム",
+    "type": "TV",
+    "episodes": 50,
+    "score": 8.37,
+    "scoredBy": 53748,
+    "rank": 252,
+    "popularity": 1952,
+    "year": 2009,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "SynergySP"
+    ],
+    "synopsis": "Kou Kitamura and Aoba Tsukishima are often at odds—even though their families happen to be close friends and business partners. Although the only child of a sports shop owner, Kou has never been interested in playing baseball. Despite this, he possesses an impressive batting ability honed by frequent visits to the local baseball batting center run by the Tsukishima family. On the other hand, Aoba ...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/22103l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5941/Cross_Game"
+  },
+  {
+    "id": 31646,
+    "title": "3-gatsu no Lion",
+    "titleJP": "3月のライオン",
+    "type": "TV",
+    "episodes": 22,
+    "score": 8.37,
+    "scoredBy": 300881,
+    "rank": 251,
+    "popularity": 316,
+    "year": 2016,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Strategy Game"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Having reached professional status in middle school, Rei Kiriyama is one of the few elite in the world of shogi. Due to this, he faces an enormous amount of pressure, both from the shogi community and his adoptive family. Seeking independence from his tense home life, he moves into an apartment in Tokyo. As a 17-year-old living on his own, Rei tends to take poor care of himself, and his reclusive ...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/82899l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31646/3-gatsu_no_Lion"
+  },
+  {
+    "id": 48561,
+    "title": "Jujutsu Kaisen 0 Movie",
+    "titleJP": "劇場版 呪術廻戦 0",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.37,
+    "scoredBy": 786769,
+    "rank": 254,
+    "popularity": 130,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Violent misfortunes frequently occur around 16-year-old Yuuta Okkotsu, a timid victim of high school bullying. Yuuta is saddled with a monstrous curse, a power that dishes out brutal revenge against his bullies. Rika Orimoto, Yuuta's curse, is a shadow from his tragic childhood and a potentially lethal threat to anyone who dares wrong him.  Yuuta's unique situation catches the attention of Satoru ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1121/119044l.jpg",
+    "malUrl": "https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie"
+  },
+  {
+    "id": 38883,
+    "title": "Haikyuu!! To the Top",
+    "titleJP": "ハイキュー!! TO THE TOP",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.37,
+    "scoredBy": 646483,
+    "rank": 253,
+    "popularity": 174,
+    "year": 2020,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "After their triumphant victory over Shiratorizawa Academy, the Karasuno High School volleyball team has earned their long-awaited ticket to nationals. As preparations begin, genius setter Tobio Kageyama is invited to the All-Japan Youth Training Camp to play alongside fellow nationally recognized players. Meanwhile, Kei Tsukishima is invited to a special rookie training camp for first-years within...",
+    "imageUrl": "https://myanimelist.net/images/anime/1813/105367l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38883/Haikyuu_To_the_Top"
+  },
+  {
+    "id": 49721,
+    "title": "Karakai Jouzu no Takagi-san 3",
+    "titleJP": "からかい上手の高木さん3",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.37,
+    "scoredBy": 96485,
+    "rank": 256,
+    "popularity": 1312,
+    "year": 2022,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Love Status Quo",
+      "School"
+    ],
+    "studios": [
+      "Shin-Ei Animation"
+    ],
+    "synopsis": "As summer break comes to an end, Nishikata is stoked to try out his newest pranks and finally outdo his classmate Takagi once and for all. Despite his losing streak, he is slowly getting to know the unrelenting workings of her crafty mind. However, he soon realizes that Takagi's motivations behind her teasing may not be what he initially assumed. One thing is certain, though: each fun-filled day o...",
+    "imageUrl": "https://myanimelist.net/images/anime/1861/120361l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49721/Karakai_Jouzu_no_Takagi-san_3"
+  },
+  {
+    "id": 30,
+    "title": "Shinseiki Evangelion",
+    "titleJP": "新世紀エヴァンゲリオン",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.37,
+    "scoredBy": 1210625,
+    "rank": 257,
+    "popularity": 45,
+    "year": 1995,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Avant Garde",
+      "Award Winning",
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Mecha",
+      "Psychological"
+    ],
+    "studios": [
+      "Gainax",
+      "Tatsunoko Production"
+    ],
+    "synopsis": "Fifteen years after a cataclysmic event known as the Second Impact, the world faces a new threat: monstrous celestial beings called Angels invade Tokyo-3 one by one. Mankind is unable to defend themselves against the Angels despite utilizing their most advanced munitions and military tactics. The only hope for human salvation rests in the hands of NERV, a mysterious organization led by the cold Ge...",
+    "imageUrl": "https://myanimelist.net/images/anime/1314/108941l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30/Shinseiki_Evangelion"
+  },
+  {
+    "id": 56524,
+    "title": "Tunshi Xingkong 4th Season",
+    "titleJP": "吞噬星空 第四季",
+    "type": "ONA",
+    "episodes": 175,
+    "score": 8.36,
+    "scoredBy": 2105,
+    "rank": 270,
+    "popularity": 8962,
+    "year": 2023,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Sparkly Key Animation Studio"
+    ],
+    "synopsis": "Fourth season of Tunshi Xingkong....",
+    "imageUrl": "https://myanimelist.net/images/anime/1335/138907l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season"
+  },
+  {
+    "id": 55102,
+    "title": "Girls Band Cry",
+    "titleJP": "ガールズバンドクライ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.36,
+    "scoredBy": 54420,
+    "rank": 262,
+    "popularity": 1918,
+    "year": 2024,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "Everyone yearns to find their true purpose in life. This is also true for Nina Iseri, a 17-year-old girl looking to enroll in a good university, but the world always seems to work against her. On her very first day in Tokyo, she gets lost, ignored, and locked out of her new apartment. However, an unexpected opportunity arises when Nina meets Momoka Kawaragi, one of her favorite guitarists.  After ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1711/140515l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55102/Girls_Band_Cry"
+  },
+  {
+    "id": 53540,
+    "title": "Meitantei Conan Movie 26: Kurogane no Submarine",
+    "titleJP": "名探偵コナン 黒鉄の魚影 (サブマリン)",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 9759,
+    "rank": 268,
+    "popularity": 5598,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "themes": [
+      "Detective"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "This time's location is set in the sea near the Hachijo-jima island, Tokyo. Engineers from around the world have gathered for the full-scale operation of \"Pacific Buoy,\" an offshore facility to connect security cameras owned by the worldwide police forces. A test of a certain \"new technology\" based on a face recognition system is underway there.  Meanwhile, Conan and the Detective Boys visit Hachi...",
+    "imageUrl": "https://myanimelist.net/images/anime/1138/133101l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53540/Meitantei_Conan_Movie_26__Kurogane_no_Submarine"
+  },
+  {
+    "id": 9617,
+    "title": "K-On! Movie",
+    "titleJP": "映画 けいおん！",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 209491,
+    "rank": 265,
+    "popularity": 767,
+    "year": 2011,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Comedy"
+    ],
+    "themes": [
+      "CGDCT",
+      "Music"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Graduation looms for the founding members of the Light Music Club. With only a few precious weeks of school left, the girls decide to make the most of it and plan a trip abroad. Hawaii, New York, Dubai—many destinations are suggested, but after a little help from the club's precious pet turtle, Ton-chan, London is chosen as the host of their next misadventure!  Yui Hirasawa, Mio Akiyama, Tsumugi K...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/76233l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9617/K-On_Movie"
+  },
+  {
+    "id": 9260,
+    "title": "Kizumonogatari I: Tekketsu-hen",
+    "titleJP": "傷物語〈Ⅰ鉄血篇〉",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 312207,
+    "rank": 267,
+    "popularity": 432,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "During Koyomi Araragi's second year at Naoetsu Private High School, he has a chance encounter with Tsubasa Hanekawa, the top honor student in his class. When they strike up a conversation, Hanekawa mentions a shocking rumor: a vampire with beautiful blonde hair and freezing cold eyes has been seen lurking around town.  Happy to have made a new friend, Araragi writes off the rumor and goes about th...",
+    "imageUrl": "https://myanimelist.net/images/anime/1783/112810l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen"
+  },
+  {
+    "id": 6945,
+    "title": "Gintama: Shiroyasha Koutan",
+    "titleJP": "ジャンプアニメツアー 2008 白夜叉降誕",
+    "type": "Special",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 36880,
+    "rank": 261,
+    "popularity": 2837,
+    "year": 2008,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Historical",
+      "Parody"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "According to Aniplex, a 10min short anime of Gintama \"Shiroyasha Koutan\" will be released on September 30th. It was shown at Jump Super Anime Tour 2008 and had never been released as a DVD.  It's a trailer of an imaginary Gintama movie. Gintama OVA shown at Jump Anime Tour '05 is also included in the DVD....",
+    "imageUrl": "https://myanimelist.net/images/anime/6/16161l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6945/Gintama__Shiroyasha_Koutan"
+  },
+  {
+    "id": 39808,
+    "title": "Non Non Biyori Nonstop",
+    "titleJP": "のんのんびより のんすとっぷ",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.36,
+    "scoredBy": 54144,
+    "rank": 269,
+    "popularity": 1882,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "CGDCT",
+      "Iyashikei"
+    ],
+    "studios": [
+      "SILVER LINK."
+    ],
+    "synopsis": "The carefree journeys of the four girls continue! As their fleeting yet eventful summer becomes a distant memory, the arrival of fall signals a new school year with limitless opportunities. Even as the four girls return to their peaceful routine, the appearance of new faces enlivens the anything but exciting rural life of Asahigaoka.  Non Non Biyori Nonstop leisurely walks back into the lives of H...",
+    "imageUrl": "https://myanimelist.net/images/anime/1033/111540l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39808/Non_Non_Biyori_Nonstop"
+  },
+  {
+    "id": 49310,
+    "title": "Fruits Basket: Prelude",
+    "titleJP": "フルーツバスケット -prelude-",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 50446,
+    "rank": 261,
+    "popularity": 1971,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Despite Kyouko Honda's tragic death, her vivid memory lives on, providing guidance through times of hardship to her close ones. However, Kyouko was not always the wise and radiant person that she is fondly remembered as in the present day.  Feeling deserted by her own family and rejected by society, a young Kyouko abandons stability for a life of delinquency, jeopardizing her education and future....",
+    "imageUrl": "https://myanimelist.net/images/anime/1034/120096l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49310/Fruits_Basket__Prelude"
+  },
+  {
+    "id": 46654,
+    "title": "IDOLiSH7 Third Beat! Part 2",
+    "titleJP": "アイドリッシュセブン",
+    "type": "TV",
+    "episodes": 17,
+    "score": 8.36,
+    "scoredBy": 6156,
+    "rank": 263,
+    "popularity": 5728,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Idols (Male)",
+      "Music"
+    ],
+    "studios": [
+      "TROYCA"
+    ],
+    "synopsis": "IDOLiSH7 is more successful than ever, but no one is smiling because a new threat has taken the stage: the debuting idol group ŹOOĻ. Managed by the nefarious entertainment executive Ryou Tsukumo, they will stop at nothing to get their way, resorting to all kinds of underhanded tactics to bring down their rivals. TRIGGER's image has already been ruined by scandal, and IDOLiSH7 and Re:vale are heade...",
+    "imageUrl": "https://myanimelist.net/images/anime/1458/125998l.jpg",
+    "malUrl": "https://myanimelist.net/anime/46654/IDOLiSH7_Third_Beat_Part_2"
+  },
+  {
+    "id": 572,
+    "title": "Kaze no Tani no Nausicaä",
+    "titleJP": "風の谷のナウシカ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 257862,
+    "rank": 266,
+    "popularity": 652,
+    "year": 1984,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Topcraft"
+    ],
+    "synopsis": "A millennium has passed since the catastrophic nuclear war named the \"Seven Days of Fire,\" which destroyed nearly all life on Earth. Humanity now lives in a constant struggle against the treacherous jungle that has evolved in response to the destruction caused by mankind. Filled with poisonous spores and enormous insects, the jungle spreads rapidly across the Earth and threatens to swallow the rem...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/75914l.jpg",
+    "malUrl": "https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausicaä"
+  },
+  {
+    "id": 338,
+    "title": "Versailles no Bara",
+    "titleJP": "ベルサイユのばら",
+    "type": "TV",
+    "episodes": 40,
+    "score": 8.36,
+    "scoredBy": 34359,
+    "rank": 271,
+    "popularity": 2174,
+    "year": 1979,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Crossdressing",
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Tokyo Movie Shinsha"
+    ],
+    "synopsis": "In a time of class stratification and rising tensions amongst the impoverished population, the Austrian Empire sends Princess Marie Antoinette to France to be wed to Crown Prince Louis XVI. The political marriage is arranged to strengthen the alliance between both countries, but the future queen is deeply unsatisfied with her fate being decided for her. Upon arrival in the country, Marie Antoinett...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/57043l.jpg",
+    "malUrl": "https://myanimelist.net/anime/338/Versailles_no_Bara"
+  },
+  {
+    "id": 185,
+    "title": "Initial D First Stage",
+    "titleJP": "頭文字〈イニシャル〉D",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.36,
+    "scoredBy": 218275,
+    "rank": 264,
+    "popularity": 607,
+    "year": 1998,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "themes": [
+      "Racing"
+    ],
+    "studios": [
+      "Gallop",
+      "Studio Comet"
+    ],
+    "synopsis": "Unlike his friends, Takumi Fujiwara is not particularly interested in cars, with little to no knowledge about the world of car enthusiasts and street racers. The son of a tofu shop owner, he is tasked to deliver tofu every morning without fail, driving along the mountain of Akina. Thus, conversations regarding cars or driving in general would only remind Takumi of the tiring daily routine forced u...",
+    "imageUrl": "https://myanimelist.net/images/anime/1384/127972l.jpg",
+    "malUrl": "https://myanimelist.net/anime/185/Initial_D_First_Stage"
+  },
+  {
+    "id": 37095,
+    "title": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+    "titleJP": "ヴァイオレット・エヴァーガーデンきっと\"愛\"を知る日が来るのだろう",
+    "type": "Special",
+    "episodes": 1,
+    "score": 8.36,
+    "scoredBy": 222008,
+    "rank": 272,
+    "popularity": 738,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "The CH Postal Company has just received a request to transcribe a love letter from Irma Felice, a famous opera singer. Accepting the task, Violet Evergarden visits Irma to write her letter. However, not only does Irma provide little information, she asks Violet to write based on her own feelings. Despite Violet's numerous attempts, Irma finds every version of the letter inadequate.  Violet consult...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/89993l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37095/Violet_Evergarden__Kitto_Ai_wo_Shiru_Hi_ga_Kuru_no_Darou"
+  },
+  {
+    "id": 22789,
+    "title": "Barakamon",
+    "titleJP": "ばらかもん",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.36,
+    "scoredBy": 361766,
+    "rank": 259,
+    "popularity": 331,
+    "year": 2014,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "Childcare",
+      "Iyashikei",
+      "Visual Arts"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "Seishuu Handa is an up-and-coming calligrapher: young, handsome, talented, and unfortunately, a narcissist to boot. When a veteran labels his award-winning piece as \"unoriginal,\" Seishuu quickly loses his cool with severe repercussions.  As punishment, and also in order to aid him in self-reflection, Seishuu's father exiles him to the Goto Islands, far from the comfortable Tokyo lifestyle the temp...",
+    "imageUrl": "https://myanimelist.net/images/anime/1426/111248l.jpg",
+    "malUrl": "https://myanimelist.net/anime/22789/Barakamon"
+  },
+  {
+    "id": 58919,
+    "title": "Hyakuemu.",
+    "titleJP": "ひゃくえむ。",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.35,
+    "scoredBy": 39023,
+    "rank": 281,
+    "popularity": 3003,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "themes": [],
+    "studios": [
+      "Rock'n Roll Mountain"
+    ],
+    "synopsis": "For as long as anyone can remember, Togashi has been the fastest elementary school student around. His speed makes him untouchable during every gym class and sports day, and there is nowhere his skill shines brighter than the hundred-meter dash. Bored by the lack of competition, he decides to help train Komiya, a transfer student who loves to run, but whose bad form leaves him consistently in last...",
+    "imageUrl": "https://myanimelist.net/images/anime/1259/151080l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58919/Hyakuemu"
+  },
+  {
+    "id": 57779,
+    "title": "Dorohedoro Season 2",
+    "titleJP": "ドロヘドロ Season2",
+    "type": "ONA",
+    "episodes": 11,
+    "score": 8.35,
+    "scoredBy": 4354,
+    "rank": 276,
+    "popularity": 3189,
+    "year": 2026,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "themes": [
+      "Gore"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Second season of Dorohedoro....",
+    "imageUrl": "https://myanimelist.net/images/anime/1603/155354l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57779/Dorohedoro_Season_2"
+  },
+  {
+    "id": 57067,
+    "title": "Fanren Xiu Xian Zhuan: Xinghai Feichi",
+    "titleJP": "凡人修仙传 星海飞驰",
+    "type": "ONA",
+    "episodes": 48,
+    "score": 8.35,
+    "scoredBy": 1735,
+    "rank": 277,
+    "popularity": 10300,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Original Force",
+      "Wonder Cat Animation"
+    ],
+    "synopsis": "Third season of Fanren Xiu Xian Zhuan....",
+    "imageUrl": "https://myanimelist.net/images/anime/1763/155878l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57067/Fanren_Xiu_Xian_Zhuan__Xinghai_Feichi"
+  },
+  {
+    "id": 55830,
+    "title": "Fate/strange Fake",
+    "titleJP": "Fate/strange Fake",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.35,
+    "scoredBy": 52472,
+    "rank": 277,
+    "popularity": 1658,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "A new Holy Grail War is emerging in Snowfield, Nevada, where mages from around the world summon Servants, heroic spirits drawn from myth and history, to fight on their behalf. However, this war seems to differ from previous ones. The organization behind it appears to have used data from the Fuyuki Grail War for their ritual, resulting in strange happenings.   Unbeknownst to most participants, this...",
+    "imageUrl": "https://myanimelist.net/images/anime/1752/150192l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55830/Fate_strange_Fake"
+  },
+  {
+    "id": 39547,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+    "titleJP": "やはり俺の青春ラブコメはまちがっている。完",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.35,
+    "scoredBy": 456319,
+    "rank": 280,
+    "popularity": 273,
+    "year": 2020,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Love Polygon",
+      "School"
+    ],
+    "studios": [
+      "feel."
+    ],
+    "synopsis": "Resolved to become a more independent person, Yukino Yukinoshita decides to smoothen things out with her parents, and the first step toward achieving that goal is to prove herself.  As graduation draws closer for the third-year students, Iroha Isshiki—the president of the student council—requests a graduation prom in collaboration with the Volunteer Service Club. Yukino accepts this request of her...",
+    "imageUrl": "https://myanimelist.net/images/anime/1958/107912l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39547/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan"
+  },
+  {
+    "id": 31988,
+    "title": "Hibike! Euphonium 2",
+    "titleJP": "響け！ユーフォニアム2",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.35,
+    "scoredBy": 136308,
+    "rank": 279,
+    "popularity": 1088,
+    "year": 2016,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music",
+      "Performing Arts",
+      "School"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Following their success in the qualifying round for the Kansai regional competition, the members of the Kitauji High School concert band set their sights on the next upcoming performance. Utilizing their summer break to the utmost, the band participates in a camp where they are instructed by their band advisor Noboru Taki and his friends who make their living as professional musicians.  Kumiko Oum...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/81155l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31988/Hibike_Euphonium_2"
+  },
+  {
+    "id": 41025,
+    "title": "Fumetsu no Anata e",
+    "titleJP": "不滅のあなたへ",
+    "type": "TV",
+    "episodes": 20,
+    "score": 8.35,
+    "scoredBy": 424317,
+    "rank": 278,
+    "popularity": 194,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "An Orb, known only as It, is cast to Earth to be observed from afar. Capable of changing forms from beings whose reflections It captures, It first becomes a rock and then, due to the rising temperature, moss.  It does not move until one snowy day, a wolf at death's door barely crosses by. When It takes the animal's form, It attains awareness of its consciousness and starts to wander with an unclea...",
+    "imageUrl": "https://myanimelist.net/images/anime/1880/118484l.jpg",
+    "malUrl": "https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e"
+  },
+  {
+    "id": 41457,
+    "title": "86",
+    "titleJP": "86―エイティシックス―",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.35,
+    "scoredBy": 506912,
+    "rank": 273,
+    "popularity": 201,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Military"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "According to the Republic of San Magnolia, their ongoing war against the Giadian Empire has no casualties—however, that is mere propaganda. While the silver-haired Alba of the Republic's eighty-five sectors live safely behind protective walls, those of different appearances are interned in a secret eighty-sixth faction. Known within the military as the Eighty-Six, they are forced to fight against ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1987/117507l.jpg",
+    "malUrl": "https://myanimelist.net/anime/41457/86"
+  },
+  {
+    "id": 2251,
+    "title": "Baccano!",
+    "titleJP": "バッカーノ！",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.35,
+    "scoredBy": 398869,
+    "rank": 274,
+    "popularity": 205,
+    "year": 2007,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Organized Crime"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will leave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis are looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Adven...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/14547l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2251/Baccano"
+  },
+  {
+    "id": 10534,
+    "title": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+    "titleJP": "映画 ドラえもん 新・のび太と鉄人兵団～はばたけ 天使たち～",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.35,
+    "scoredBy": 14521,
+    "rank": 275,
+    "popularity": 5262,
+    "year": 2011,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Mecha"
+    ],
+    "studios": [
+      "Shin-Ei Animation"
+    ],
+    "synopsis": "Jealous of Suneo's new robot toy, Nobita asks Doraemon to build him an even better one. Doraemon initially refuses, until Nobita accidentally discovers pieces of a mysterious robot that falls from the sky. After gathering all the robot parts and assembled them together, the giant robot, Zanda Claus, is soon completed. The duo soon learn that the robot is not a mere toy, but a powerful weapon in th...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/72436l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10534/Doraemon_Movie_31__Shin_Nobita_to_Tetsujin_Heidan_-_Habatake_Tenshi-tachi"
+  },
+  {
+    "id": 59897,
+    "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "titleJP": "小林さんちのメイドラゴン さみしがりやの竜",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.34,
+    "scoredBy": 10556,
+    "rank": 285,
+    "popularity": 3390,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Miss Kobayashi, Tohru, Kanna, and Iruru's peaceful lives are shattered when Kanna's father, Kamun Kamui, leader of the Chaos Forces, arrives and forces her to return to the Dragon World to fix a past mistake. With a war brewing between Chaos and Harmony, Kanna must find a way to unite the two worlds but is torn between her loyalty to her friends and her father's demands. Miss Kobayashi, however, r...",
+    "imageUrl": "https://myanimelist.net/images/anime/1134/148744l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59897/Kobayashi-san_Chi_no_Maid_Dragon__Samishigariya_no_Ryuu"
+  },
+  {
+    "id": 58390,
+    "title": "Yofukashi no Uta Season 2",
+    "titleJP": "よふかしのうた Season2",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.34,
+    "scoredBy": 90897,
+    "rank": 288,
+    "popularity": 1179,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "synopsis": "A human may become a vampire only if they fall in love with one—and 14-year-old Kou Yamori wishes for nothing more. Kou has decided to fall in love with a vampire named Nazuna Nanakusa, and he has only 10 months of nightly rendezvous left to realize his goal.  Kou's friends, Mahiru Seki and Akira Asai, are slowly coming to terms with the existence of vampires and Kou's decision to become one. As K...",
+    "imageUrl": "https://myanimelist.net/images/anime/1509/148453l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58390/Yofukashi_no_Uta_Season_2"
+  },
+  {
+    "id": 49458,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "titleJP": "この素晴らしい世界に祝福を！3",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.34,
+    "scoredBy": 238240,
+    "rank": 286,
+    "popularity": 458,
+    "year": 2024,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Parody"
+    ],
+    "studios": [
+      "Drive"
+    ],
+    "synopsis": "Kazuma Satou, former NEET and current reincarnated adventurer, finally returns home after the incident at the Crimson Demon village. He is joined by his ever-reliable companions: self-absorbed goddess Aqua, one-trick pony arch-wizard Megumin, and masochistic crusader Lalatina Ford \"Darkness\" Dustiness. Following their recent exploits, the party is one step closer to vanquishing the Demon King and ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1758/141268l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49458/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3"
+  },
+  {
+    "id": 777,
+    "title": "Hellsing Ultimate",
+    "titleJP": "HELLSING OVA",
+    "type": "OVA",
+    "episodes": 10,
+    "score": 8.34,
+    "scoredBy": 524801,
+    "rank": 282,
+    "popularity": 182,
+    "year": 2006,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Gore",
+      "Military",
+      "Vampire"
+    ],
+    "studios": [
+      "Madhouse",
+      "Satelight",
+      "Graphinica"
+    ],
+    "synopsis": "There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undea...",
+    "imageUrl": "https://myanimelist.net/images/anime/1012/143965l.jpg",
+    "malUrl": "https://myanimelist.net/anime/777/Hellsing_Ultimate"
+  },
+  {
+    "id": 49926,
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "titleJP": "鬼滅の刃 無限列車編",
+    "type": "TV",
+    "episodes": 7,
+    "score": 8.34,
+    "scoredBy": 590291,
+    "rank": 284,
+    "popularity": 198,
+    "year": 2021,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "A mysterious string of disappearances on a certain train has caught the attention of the Demon Slayer Corps, and they have sent one of their best to exterminate what can only be a demon responsible. However, the plan to board the Mugen Train is delayed by a lesser demon who is terrorizing the mechanics and targeting a kind, elderly woman and her granddaughter. Kyoujurou Rengoku, the Flame Hashira,...",
+    "imageUrl": "https://myanimelist.net/images/anime/1065/118763l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49926/Kimetsu_no_Yaiba__Mugen_Ressha-hen"
+  },
+  {
+    "id": 39551,
+    "title": "Tensei shitara Slime Datta Ken 2nd Season",
+    "titleJP": "転生したらスライムだった件",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.34,
+    "scoredBy": 645283,
+    "rank": 287,
+    "popularity": 162,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "8bit"
+    ],
+    "synopsis": "Taking a break from his time as a teacher, the powerful slime Rimuru Tempest returns to his kingdom, eponymously named Tempest, just in time to begin negotiations with a nearby nation—the Kingdom of Eurazania. While the negotiations are anything but peaceful, they do end successfully, allowing Rimuru to return and finish teaching. When trying to again return to Tempest, this time permanently, Rimu...",
+    "imageUrl": "https://myanimelist.net/images/anime/1271/109841l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39551/Tensei_shitara_Slime_Datta_Ken_2nd_Season"
+  },
+  {
+    "id": 60371,
+    "title": "Seihantai na Kimi to Boku",
+    "titleJP": "正反対な君と僕",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.33,
+    "scoredBy": 71333,
+    "rank": 294,
+    "popularity": 1587,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Lapin Track"
+    ],
+    "synopsis": "Miyu Suzuki is a high school girl whose cheerful outlook on life is tempered by her need to fit in. Coincidentally, beside her in the classroom sits Yuusuke Tani, a boy unconcerned with others' expectations. Their exchanges rarely extend beyond brief discourse, yet the polarity of their demeanors unexpectedly draws them to one another.  As their mutual interest grows, the newfound feelings are no ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1140/154457l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60371/Seihantai_na_Kimi_to_Boku"
+  },
+  {
+    "id": 10937,
+    "title": "Kidou Senshi Gundam: The Origin",
+    "titleJP": "機動戦士ガンダムTHE ORIGIN",
+    "type": "OVA",
+    "episodes": 6,
+    "score": 8.33,
+    "scoredBy": 36522,
+    "rank": 290,
+    "popularity": 2656,
+    "year": 2015,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "In the year 0068 of the Universal Century, Casval Rem Deikun's life is thrown into chaotic disarray after the assassination of his father, a prolific figure in the crusade towards civil rights for people who live away from the Earth's surface. Casval and his sister Artesia receive aid from soldiers who were loyal to their father, and the siblings are whisked away from their home, separated, and th...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/72702l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10937/Kidou_Senshi_Gundam__The_Origin"
+  },
+  {
+    "id": 42984,
+    "title": "Gotcha!",
+    "titleJP": "GOTCHA!",
+    "type": "Music",
+    "episodes": 1,
+    "score": 8.33,
+    "scoredBy": 20553,
+    "rank": null,
+    "popularity": 4591,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "In a bright, grandiose city, a young boy and girl look for their partners amidst a technicolor tour de force. As the two embark on their respective quests, they encounter the familiar faces of those who have made their mark on the Pokémon world. Villains, champions, rivals, and professors alike grace the tallest skyscrapers and largest screens while the adventurous teens carry on in the search for...",
+    "imageUrl": "https://myanimelist.net/images/anime/1637/109512l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42984/Gotcha"
+  },
+  {
+    "id": 13601,
+    "title": "Psycho-Pass",
+    "titleJP": "サイコパス",
+    "type": "TV",
+    "episodes": 22,
+    "score": 8.33,
+    "scoredBy": 829908,
+    "rank": 293,
+    "popularity": 70,
+    "year": 2012,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Psychological"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, ci...",
+    "imageUrl": "https://myanimelist.net/images/anime/1314/142015l.jpg",
+    "malUrl": "https://myanimelist.net/anime/13601/Psycho-Pass"
+  },
+  {
+    "id": 39535,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "titleJP": "無職転生 ～異世界行ったら本気だす～",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.33,
+    "scoredBy": 968673,
+    "rank": 291,
+    "popularity": 84,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Studio Bind"
+    ],
+    "synopsis": "Despite being bullied, scorned, and oppressed all of his life, a 34-year-old shut-in still found the resolve to attempt something heroic—only for it to end in a tragic accident. But in a twist of fate, he awakens in another world as Rudeus Greyrat, starting life again as a baby born to two loving parents.  Preserving his memories and knowledge from his previous life, Rudeus quickly adapts to his n...",
+    "imageUrl": "https://myanimelist.net/images/anime/1530/117776l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu"
+  },
+  {
+    "id": 10030,
+    "title": "Bakuman. 2nd Season",
+    "titleJP": "バクマン。2ndシーズン",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.33,
+    "scoredBy": 222130,
+    "rank": 289,
+    "popularity": 737,
+    "year": 2011,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Otaku Culture"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "With the serialization of their new manga, \"Detective Trap,\" the writer-artist team, Akito Takagi and Moritaka Mashiro, better known by their pseudonym Muto Ashirogi, are one step closer to becoming world-renowned mangaka. For Mashiro, however, serialization is just the first step. Having promised to marry his childhood sweetheart and aspiring voice actress, Azuki Miho, once his manga gets an anim...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/34923l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10030/Bakuman_2nd_Season"
+  },
+  {
+    "id": 48653,
+    "title": "Yoru ni Kakeru",
+    "titleJP": "夜に駆ける",
+    "type": "Music",
+    "episodes": 1,
+    "score": 8.33,
+    "scoredBy": 12338,
+    "rank": null,
+    "popularity": 5537,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [],
+    "themes": [
+      "Music"
+    ],
+    "studios": [],
+    "synopsis": "Music video of the song Yoru ni Kakeru by Yoasobi....",
+    "imageUrl": "https://myanimelist.net/images/anime/1548/124083l.jpg",
+    "malUrl": "https://myanimelist.net/anime/48653/Yoru_ni_Kakeru"
+  },
+  {
+    "id": 20651,
+    "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+    "titleJP": "夏目友人帳 新作OVA いつかゆきのひに",
+    "type": "OVA",
+    "episodes": 1,
+    "score": 8.33,
+    "scoredBy": 38918,
+    "rank": 292,
+    "popularity": 2603,
+    "year": 2014,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "As the first delicate snowflake touches the cold ground, Nyanko-sensei dozes on his hot-water bottle next to Takashi Natsume. While his aunt prepares a warm dinner, Natsume takes a walk, welcoming the snow and the chilly weather. However, his peaceful promenade is disturbed by a white, fluffy snowman yokai with perturbing black eyes, searching for something warm and sparkly. With no further inform...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/79742l.jpg",
+    "malUrl": "https://myanimelist.net/anime/20651/Natsume_Yuujinchou__Itsuka_Yuki_no_Hi_ni"
+  },
+  {
+    "id": 51805,
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+    "titleJP": "銀河英雄伝説 Die Neue These 策謀",
+    "type": "Movie",
+    "episodes": 12,
+    "score": 8.32,
+    "scoredBy": 7514,
+    "rank": 298,
+    "popularity": 5642,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "After Yang Wen-li successfully captures the Iserlohn Fortress, the Free Planets Alliance grows bolder in its militaristic ambitions. With recent incursions into Galactic Empire territory and the possession of a perfect beachhead, the Alliance is now able to deal significant damage to the Empire. However, Reinhard von Lohengramm has no intention of allowing the Free Planets Alliance to gain a footh...",
+    "imageUrl": "https://myanimelist.net/images/anime/1700/123762l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51805/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Sakubou"
+  },
+  {
+    "id": 12029,
+    "title": "Uchuu Senkan Yamato 2199",
+    "titleJP": "宇宙戦艦ヤマト2199",
+    "type": "OVA",
+    "episodes": 26,
+    "score": 8.32,
+    "scoredBy": 42039,
+    "rank": 306,
+    "popularity": 2028,
+    "year": 2012,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Xebec",
+      "AIC"
+    ],
+    "synopsis": "Earth's once green hills and rich blue oceans have been converted into a desolate wasteland by the relentless onslaught of planet bombs from the expansionist Gamilas Empire. By the year 2199, humankind has retreated to the depths of underground cities to escape the radiation.  However, all hope is not lost, as the distant planet Iscandar offers Earth its final salvation: the Cosmo Reverse System, ...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/36607l.jpg",
+    "malUrl": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199"
+  },
+  {
+    "id": 28701,
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "titleJP": "Fate/stay night [Unlimited Blade Works] 2nd シーズン",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.32,
+    "scoredBy": 604999,
+    "rank": 295,
+    "popularity": 220,
+    "year": 2015,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "In the midst of the Fifth Holy Grail War, Caster sets her plans into motion, beginning with the capture of Shirou's Servant Saber. With the witch growing ever more powerful, Rin and Archer determine she is a threat that must be dealt with at once. But as the balance of power in the war begins to shift, the Master and Servant find themselves walking separate ways.  Meanwhile, despite losing his Ser...",
+    "imageUrl": "https://myanimelist.net/images/anime/1881/124810l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28701/Fate_stay_night__Unlimited_Blade_Works_2nd_Season"
+  },
+  {
+    "id": 39112,
+    "title": "Kawaki wo Ameku",
+    "titleJP": "カワキヲアメク",
+    "type": "Music",
+    "episodes": 1,
+    "score": 8.32,
+    "scoredBy": 19033,
+    "rank": null,
+    "popularity": 4671,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [],
+    "themes": [
+      "Music"
+    ],
+    "studios": [],
+    "synopsis": "Music video for the song Kawaki wo Ameku by Minami....",
+    "imageUrl": "https://myanimelist.net/images/anime/1776/121796l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39112/Kawaki_wo_Ameku"
+  },
+  {
+    "id": 5040,
+    "title": "One Outs",
+    "titleJP": "ワンナウツ",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.32,
+    "scoredBy": 123178,
+    "rank": 302,
+    "popularity": 1089,
+    "year": 2008,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Psychological",
+      "Team Sports"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Toua Tokuchi is a prodigy when it comes to both baseball and gambling. Pitching nothing but mediocre fastballs, he has made a name for himself by attaining 499 consecutive victories in the game of One Outs: a one-on-one showdown between a pitcher and a batter. Despite his remarkable abilities, however, Tokuchi sees the sport as nothing more than a way to make some quick money.  When Hiromichi Koji...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/21065l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5040/One_Outs"
+  },
+  {
+    "id": 7655,
+    "title": "Major S6",
+    "titleJP": "メジャー 第6シリーズ",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.32,
+    "scoredBy": 39185,
+    "rank": 301,
+    "popularity": 3037,
+    "year": 2010,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "SynergySP"
+    ],
+    "synopsis": "The intense Baseball World Cup has reached its conclusion. Gorou Honda has regained his passion for baseball and is once again back in full gear. He has secured a team position with the Hornets and has travelled back to America to prepare for his spectacular debut as a Major League pitcher.  However, Gorou encounters a sudden series of unexpected issues and devastating events follow, crushing his ...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/75216l.jpg",
+    "malUrl": "https://myanimelist.net/anime/7655/Major_S6"
+  },
+  {
+    "id": 39587,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "titleJP": "Re：ゼロから始める異世界生活 2",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.32,
+    "scoredBy": 754013,
+    "rank": 303,
+    "popularity": 126,
+    "year": 2020,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Suspense"
+    ],
+    "themes": [
+      "Isekai",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "A reunion that was supposed to spell the arrival of peaceful times is quickly shattered when Subaru Natsuki and Emilia return to Irlam village. Witnessing the devastation left behind by the calamities known as Sin Archbishops, Subaru sinks into the depths of despair as his ability to redo proves futile.  As the group makes their way to the Sanctuary in search of answers, Subaru has an unexpected e...",
+    "imageUrl": "https://myanimelist.net/images/anime/1444/108005l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season"
+  },
+  {
+    "id": 2559,
+    "title": "Romeo no Aoi Sora",
+    "titleJP": "ロミオの青い空",
+    "type": "TV",
+    "episodes": 33,
+    "score": 8.32,
+    "scoredBy": 19280,
+    "rank": 304,
+    "popularity": 3362,
+    "year": 1995,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "Nippon Animation"
+    ],
+    "synopsis": "Romeo is a kindhearted and courageous boy living with his family in a small village in Switzerland. Unfortunately, Romeo becomes the interest of a man named Luini, known as \"The God of Death,\" who is infamous for buying children and selling them as chimney sweeps in Milan. While visiting the village, Luini burns down Romeo's family cornfield in an attempt to have Romeo as his own. With the cornfie...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/17979l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2559/Romeo_no_Aoi_Sora"
+  },
+  {
+    "id": 42941,
+    "title": "Uma Musume: Pretty Derby Season 2",
+    "titleJP": "ウマ娘 プリティーダービー Season 2",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.32,
+    "scoredBy": 58705,
+    "rank": 307,
+    "popularity": 2238,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Anthropomorphic",
+      "Racing"
+    ],
+    "studios": [
+      "Studio KAI"
+    ],
+    "synopsis": "Within the horse-racing world, the horse girls of Team Spica have been gaining popularity as they continue to rack up victories. The one receiving the most attention in the group is Toukai Teiou, known for her cheerful personality and exceptional running skills. Teiou aims to become an undefeated Triple Crown horse girl by winning all three G1 races consecutively, a feat that has not been accompli...",
+    "imageUrl": "https://myanimelist.net/images/anime/1447/114282l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42941/Uma_Musume__Pretty_Derby_Season_2"
+  },
+  {
+    "id": 34240,
+    "title": "Shelter (Music)",
+    "titleJP": "シェルター",
+    "type": "Music",
+    "episodes": 1,
+    "score": 8.32,
+    "scoredBy": 220513,
+    "rank": null,
+    "popularity": 853,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Day 2539: Rin wakes up alone again with blurred memories and still no contact from any other human. She is not bored, however, because in her arms lies a tablet capable of creating any world her heart desires. Day after day, Rin crafts a wonderful reality—one utopia at a time—to shelter her from loneliness, hoping to one day reveal the truth behind her very existence.  [Written by MAL Rewrite]...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/82388l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34240/Shelter_Music"
+  },
+  {
+    "id": 5081,
+    "title": "Bakemonogatari",
+    "titleJP": "化物語",
+    "type": "TV",
+    "episodes": 15,
+    "score": 8.32,
+    "scoredBy": 771220,
+    "rank": 294,
+    "popularity": 98,
+    "year": 2009,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Vampire"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Koyomi Araragi, a third-year high school student, manages to survive a vampire attack with the help of Meme Oshino, a strange man residing in an abandoned building. Though being saved from vampirism and now a human again, several side effects such as superhuman healing abilities and enhanced vision still remain. Regardless, Araragi tries to live the life of a normal student, with the help of his f...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/75274l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5081/Bakemonogatari"
+  },
+  {
+    "id": 22535,
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "titleJP": "寄生獣 セイの格率",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.32,
+    "scoredBy": 1249973,
+    "rank": 300,
+    "popularity": 43,
+    "year": 2014,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Gore",
+      "Psychological"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.   Sixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/73178l.jpg",
+    "malUrl": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu"
+  },
+  {
+    "id": 10162,
+    "title": "Usagi Drop",
+    "titleJP": "うさぎドロップ",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.32,
+    "scoredBy": 255367,
+    "rank": 308,
+    "popularity": 484,
+    "year": 2011,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "Childcare",
+      "Iyashikei"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Daikichi Kawachi is a 30-year-old bachelor working a respectable job but otherwise wandering aimlessly through life. When his grandfather suddenly passes away, he returns to the family home to pay his respects. Upon arriving at the house, he meets a mysterious young girl named Rin who, to Daikichi’s astonishment, is his grandfather's illegitimate daughter!   The shy and unapproachable girl is deem...",
+    "imageUrl": "https://myanimelist.net/images/anime/1460/98853l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10162/Usagi_Drop"
+  },
+  {
+    "id": 137,
+    "title": "Hunter x Hunter: Original Video Animation",
+    "titleJP": "HUNTER×HUNTER Original Video Animation",
+    "type": "OVA",
+    "episodes": 8,
+    "score": 8.32,
+    "scoredBy": 70667,
+    "rank": 298,
+    "popularity": 1907,
+    "year": 2002,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Nippon Animation"
+    ],
+    "synopsis": "After reuniting with Gon and his friends, Kurapika explained to them the risks he bears because of his abilities. Believing that his target of revenge is no longer alive and the search for his fallen comrade's eyes could truly begin, Kurapika soon after receives a message informing him that all the Spiders still lived. After much discussion between his friends, Gon, Kurapika and company decided to...",
+    "imageUrl": "https://myanimelist.net/images/anime/1/137l.jpg",
+    "malUrl": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation"
+  },
+  {
+    "id": 1210,
+    "title": "NHK ni Youkoso!",
+    "titleJP": "N・H・Kにようこそ！",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.32,
+    "scoredBy": 371843,
+    "rank": 302,
+    "popularity": 264,
+    "year": 2006,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Psychological"
+    ],
+    "studios": [
+      "Gonzo"
+    ],
+    "synopsis": "Twenty-two-year-old college dropout Tatsuhiro Satou has been a hikikomori for almost four years now. In his isolation, he has come to believe in many obscure conspiracy theories, but there is one in particular which he holds unshakable faith in: the theory that the evil conspirator behind his shut-in NEET (Not in Employment, Education or Training) status is the Nihon Hikikomori Kyokai (NHK)—an evi...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/52675l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso"
+  },
+  {
+    "id": 42886,
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+    "titleJP": "銀河英雄伝説 Die Neue These 激突",
+    "type": "Movie",
+    "episodes": 12,
+    "score": 8.32,
+    "scoredBy": 9985,
+    "rank": 296,
+    "popularity": 4939,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "As Yang is ordered to appear before the Free Planet Alliance, he’s shaken by the corruption he discovers. Meanwhile, Marshal Reinhardt uncovers disloyalty under his command as an upstart admiral launches a vicious offensive to retake the Iserlohn Fortress. Struggling to make strides in this never-ending bloody war, these two finally see their true enemy lies not from without—but from within!  (Sou...",
+    "imageUrl": "https://myanimelist.net/images/anime/1859/118711l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42886/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Gekitotsu"
+  },
+  {
+    "id": 55357,
+    "title": "Bocchi the Rock! Movie",
+    "titleJP": "ぼっち・ざ・ろっく！劇場総集編",
+    "type": "Movie",
+    "episodes": 2,
+    "score": 8.31,
+    "scoredBy": 8433,
+    "rank": 309,
+    "popularity": 2924,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "CGDCT",
+      "Music"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "Theatrical compilation of Bocchi the Rock!...",
+    "imageUrl": "https://myanimelist.net/images/anime/1256/142261l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55357/Bocchi_the_Rock_Movie"
+  },
+  {
+    "id": 51440,
+    "title": "Sasaki to Miyano Movie: Sotsugyou-hen",
+    "titleJP": "映画 佐々木と宮野ー卒業編ー",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.31,
+    "scoredBy": 22488,
+    "rank": 314,
+    "popularity": 3221,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Boys Love"
+    ],
+    "themes": [
+      "Otaku Culture",
+      "School"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "With university entrance exams and graduation drawing close, high school senior Shuumei Sasaki has to start taking his future more seriously. However, Sasaki is increasingly finding it hard to study; all he can think about is his boyfriend and junior, Yoshikazu Miyano. Having only recently made their relationship official, Sasaki cannot help but yearn to hold his boyfriend close. But with Sasaki's...",
+    "imageUrl": "https://myanimelist.net/images/anime/1574/128922l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51440/Sasaki_to_Miyano_Movie__Sotsugyou-hen"
+  },
+  {
+    "id": 34534,
+    "title": "Natsume Yuujinchou Go Specials",
+    "titleJP": "夏目友人帳 伍 特別編",
+    "type": "Special",
+    "episodes": 2,
+    "score": 8.31,
+    "scoredBy": 24403,
+    "rank": 313,
+    "popularity": 3499,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "One Night Sake Cup  On his way back home from an errand, Takashi Natsume gets lost in the forest. Luckily, he is rescued by a traveling youkai couple who make sake cups for a living. Taking a sip of water from one, Natsume feels a surge of energy rush throughout his body, thanks to the \"One Night Cup.\" It is a special cup that makes every drink delicious, but unfortunately, its effects last only f...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/84887l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34534/Natsume_Yuujinchou_Go_Specials"
+  },
+  {
+    "id": 5420,
+    "title": "Kemono no Souja Erin",
+    "titleJP": "獣の奏者エリン",
+    "type": "TV",
+    "episodes": 50,
+    "score": 8.31,
+    "scoredBy": 23070,
+    "rank": 312,
+    "popularity": 2475,
+    "year": 2009,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Production I.G",
+      "Trans Arts"
+    ],
+    "synopsis": "In the land of Ryoza, the neighboring provinces of Shin-Ou and Tai-Kou have been at peace. Queen Shinou is the ruler of Ryoza and her greatest general, Grand Duke Taikou, defends the kingdom with his army of powerful war-lizards known as the \"Touda.\" Although the two regions have enjoyed a long-standing alliance, mounting tensions threaten to spark a fierce civil war.  Within Ake, a village in Tai...",
+    "imageUrl": "https://myanimelist.net/images/anime/1929/121700l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5420/Kemono_no_Souja_Erin"
+  },
+  {
+    "id": 30230,
+    "title": "Diamond no Ace: Second Season",
+    "titleJP": "ダイヤのA[エース]～Second Season～",
+    "type": "TV",
+    "episodes": 51,
+    "score": 8.31,
+    "scoredBy": 83022,
+    "rank": 310,
+    "popularity": 1763,
+    "year": 2015,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G",
+      "Madhouse"
+    ],
+    "synopsis": "After the National Tournament, the Seidou High baseball team moves forward with uncertainty as the Fall season quickly approaches. In an attempt to build a stronger team centered around their new captain, fresh faces join the starting roster for the very first time. Previous losses weigh heavily on the minds of the veteran players as they continue their rigorous training, preparing for what will i...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/74398l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30230/Diamond_no_Ace__Second_Season"
+  },
+  {
+    "id": 37822,
+    "title": "Douluo Dalu 2nd Season",
+    "titleJP": "斗罗大陆",
+    "type": "ONA",
+    "episodes": 237,
+    "score": 8.31,
+    "scoredBy": 10581,
+    "rank": 311,
+    "popularity": 5118,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Sparkly Key Animation Studio"
+    ],
+    "synopsis": "Second season of Douluo Dalu....",
+    "imageUrl": "https://myanimelist.net/images/anime/1538/93566l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37822/Douluo_Dalu_2nd_Season"
+  },
+  {
+    "id": 62568,
+    "title": "Dr. Stone: Science Future Part 3",
+    "titleJP": "Dr.STONE SCIENCE FUTURE 第3クール",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.3,
+    "scoredBy": 9033,
+    "rank": 317,
+    "popularity": 2123,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Third part of Dr. Stone: Science Future....",
+    "imageUrl": "https://myanimelist.net/images/anime/1773/155779l.jpg",
+    "malUrl": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3"
+  },
+  {
+    "id": 62568,
+    "title": "Dr. Stone: Science Future Part 3",
+    "titleJP": "Dr.STONE SCIENCE FUTURE 第3クール",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.3,
+    "scoredBy": 9033,
+    "rank": 317,
+    "popularity": 2123,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Third part of Dr. Stone: Science Future....",
+    "imageUrl": "https://myanimelist.net/images/anime/1773/155779l.jpg",
+    "malUrl": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3"
+  },
+  {
+    "id": 59953,
+    "title": "Mushen Ji",
+    "titleJP": "牧神记",
+    "type": "ONA",
+    "episodes": null,
+    "score": 8.3,
+    "scoredBy": 12937,
+    "rank": 320,
+    "popularity": 6067,
+    "year": 2024,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Sparkly Key Animation Studio"
+    ],
+    "synopsis": "In the Disabled Elderly Village, there live nine elderly people with unpredictable origins and the young man Qin Mu they raised. One day, the cows that Qin Mu was responsible for grazing began to speak human words. From then on, Qin Mu became more aware of the dangers and beauty of Daxu, a land abandoned by gods: demons descended with darkness, divine bones danced in the ruins, and dragon bones pr...",
+    "imageUrl": "https://myanimelist.net/images/anime/1324/150012l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59953/Mushen_Ji"
+  },
+  {
+    "id": 56752,
+    "title": "Shiguang Dailiren: Yingdu Pian",
+    "titleJP": "時光代理人 英都篇",
+    "type": "ONA",
+    "episodes": 6,
+    "score": 8.3,
+    "scoredBy": 27598,
+    "rank": 323,
+    "popularity": 3039,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Super Power",
+      "Time Travel"
+    ],
+    "studios": [
+      "CMC Media"
+    ],
+    "synopsis": "Lu Guang loses everything when a mysterious man bursts into the photo studio that he is renting with his close friend Cheng Xiaoshi. The man, who comes to punish the members at the studio for playing with time, murders both Qiao Ling and Cheng Xiaoshi in cold blood. However, Lu Guang inherits his friend's power to go back in time and decides to save everyone from their grim fate.  Now in the past,...",
+    "imageUrl": "https://myanimelist.net/images/anime/1496/147189l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56752/Shiguang_Dailiren__Yingdu_Pian"
+  },
+  {
+    "id": 55644,
+    "title": "Dr. Stone: New World Part 2",
+    "titleJP": "Dr.STONE NEW WORLD",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.3,
+    "scoredBy": 230188,
+    "rank": 316,
+    "popularity": 630,
+    "year": 2023,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Years ago, astronaut Byakuya left behind precious materials in the belief that his son, the scientifically-gifted Senkuu, would one day find them. In the present, the Kingdom of Science's Kohaku and Ginrou have infiltrated the harem of the Petrification Kingdom’s leader with the help of Amaryllis, a local girl. At first, their mission progresses without a hitch. Unfortunately, an error enacted by ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1236/138696l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55644/Dr_Stone__New_World_Part_2"
+  },
+  {
+    "id": 5341,
+    "title": "Ookami to Koushinryou II",
+    "titleJP": "狼と香辛料II",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.3,
+    "scoredBy": 289692,
+    "rank": 323,
+    "popularity": 488,
+    "year": 2009,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Brain's Base",
+      "Marvy Jack"
+    ],
+    "synopsis": "Traveling merchant Kraft Lawrence continues his northward journey with wolf goddess Holo, in search of her lost home of Yoitsu. Lawrence and his sharp-witted partner continue to make some small profits along the way, while slowly uncovering more information about Holo's hometown. However, the road to Yoitsu is a bumpy one filled with many troubles—Lawrence runs into a charming young fellow merchan...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/59399l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II"
+  },
+  {
+    "id": 4081,
+    "title": "Natsume Yuujinchou",
+    "titleJP": "夏目友人帳",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.3,
+    "scoredBy": 199860,
+    "rank": 322,
+    "popularity": 427,
+    "year": 2008,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "Due to an unusual ability to see strange creatures called youkai, Takashi Natsume has never fit in. Passed around from one foster home to another, he was left isolated and lonely. Over time, he has accepted that no one would ever believe him and has closed himself off to his current caretakers and classmates.  When Natsume accidentally breaks an intangible barrier, he frees Madara—a mighty spirit ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1681/108439l.jpg",
+    "malUrl": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou"
+  },
+  {
+    "id": 3784,
+    "title": "Evangelion Movie 2: Ha",
+    "titleJP": "ヱヴァンゲリヲン新劇場版:破",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.3,
+    "scoredBy": 365388,
+    "rank": 317,
+    "popularity": 423,
+    "year": 2009,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Mecha",
+      "Psychological"
+    ],
+    "studios": [
+      "Khara"
+    ],
+    "synopsis": "When the threat of the Angel menace escalates, mankind's defense force is pushed to its limits, with NERV at the forefront of the struggle. Shinji Ikari and his partner Rei Ayanami are assisted by two new pilots: the fiery Asuka Langley Shikinami and the mysterious Mari Illustrious Makinami.  With the aid of their mechanized Evangelion units, equipped with weapons perfect for engaging their monstr...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/74983l.jpg",
+    "malUrl": "https://myanimelist.net/anime/3784/Evangelion_Movie_2__Ha"
+  },
+  {
+    "id": 22507,
+    "title": "Initial D Final Stage",
+    "titleJP": "頭文字 D Final Stage",
+    "type": "TV",
+    "episodes": 4,
+    "score": 8.3,
+    "scoredBy": 85637,
+    "rank": 318,
+    "popularity": 1632,
+    "year": 2014,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "themes": [
+      "Racing"
+    ],
+    "studios": [
+      "SynergySP"
+    ],
+    "synopsis": "In the final match against the Kanagawa street racing team Sidewinder, Project D street racer Takumi Fujiwara is faced with a surprising challenger: Shinji Inui, a 17-year-old high school student. Beginning to drive at a very young age, Shinji is not only familiar with the mountain pass where the race is taking place, but he also drives a Toyota AE86—the same car model Takumi uses.  Initially relu...",
+    "imageUrl": "https://myanimelist.net/images/anime/1404/101364l.jpg",
+    "malUrl": "https://myanimelist.net/anime/22507/Initial_D_Final_Stage"
+  },
+  {
+    "id": 31043,
+    "title": "Boku dake ga Inai Machi",
+    "titleJP": "僕だけがいない街",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.3,
+    "scoredBy": 1475915,
+    "rank": 315,
+    "popularity": 29,
+    "year": 2016,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls \"Revival,\" to save many lives.   However, when he is wrongfully accused of murdering someone close to him, Satoru is sent back to the past once again, but this time ...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/77957l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
+  },
+  {
+    "id": 1365,
+    "title": "Meitantei Conan Movie 06: Baker Street no Bourei",
+    "titleJP": "名探偵コナン ベイカー街の亡霊",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.3,
+    "scoredBy": 50963,
+    "rank": 319,
+    "popularity": 2640,
+    "year": 2002,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ],
+    "themes": [
+      "Detective"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "The latest innovation in virtual reality gaming is set for a private showcase, with the children of Japan's elite given the opportunity to playtest it. Unfortunately, their carefree fun is cut short when a company employee is found murdered, his dying message pointing to a clue hidden within the game's historical setting.  Along with the Detective Boys and Ran Mouri, Conan Edogawa enters the game ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1400/94320l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1365/Meitantei_Conan_Movie_06__Baker_Street_no_Bourei"
+  },
+  {
+    "id": 59408,
+    "title": "Mononoke Movie 2: Hinezumi",
+    "titleJP": "劇場版モノノ怪 第二章 火鼠",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.29,
+    "scoredBy": 5967,
+    "rank": 333,
+    "popularity": 5371,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Mythology",
+      "Psychological"
+    ],
+    "studios": [
+      "EOTA",
+      "Crew-Cell"
+    ],
+    "synopsis": "One month after the Karakasa incident, the situation at the Inner Chambers is slowly returning to normal. To the noble families that run the country, normalcy means carrying on with their usual schemes to prevent any undesirable power shifts in the government. Their current target is the high-ranking concubine Fuki Tokita, who seems to be receiving Lord Tenshi's attention despite being the daughte...",
+    "imageUrl": "https://myanimelist.net/images/anime/1593/147889l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59408/Mononoke_Movie_2__Hinezumi"
+  },
+  {
+    "id": 54870,
+    "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+    "titleJP": "青春ブタ野郎はランドセルガールの夢を見ない",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.29,
+    "scoredBy": 81489,
+    "rank": 337,
+    "popularity": 1497,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "As Sakuta Azusagawa waits for Mai Sakurajima at the beach on her high school graduation day, he encounters a version of Mai from her child acting days. However, when Mai finally arrives, her younger self disappears, leaving him confused. Sakuta spots an unfamiliar scar on his body when he returns home, which confirms his suspicion—he is involved in another case of the inexplicable Puberty Syndrome...",
+    "imageUrl": "https://myanimelist.net/images/anime/1937/138379l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54870/Seishun_Buta_Yarou_wa_Randoseru_Girl_no_Yume_wo_Minai"
+  },
+  {
+    "id": 11917,
+    "title": "Major: World Series",
+    "titleJP": "メジャー ワールドシリーズ編",
+    "type": "OVA",
+    "episodes": 2,
+    "score": 8.29,
+    "scoredBy": 22307,
+    "rank": 332,
+    "popularity": 4045,
+    "year": 2011,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "SynergySP"
+    ],
+    "synopsis": "Gorou Shigeno's journey with the Indiana Hornets continues as they seek to win the prestigious World Series. However, after an unexpected accident during the match with his fated rival, his quest in becoming the world's best becomes more challenging. Undaunted, Gorou continues to put the weight of his dreams into every pitch he makes, and forges a path towards his desired future through high-speed...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/75220l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11917/Major__World_Series"
+  },
+  {
+    "id": 38731,
+    "title": "Diamond no Ace: Act II",
+    "titleJP": "ダイヤのA[エース] actII",
+    "type": "TV",
+    "episodes": 52,
+    "score": 8.29,
+    "scoredBy": 51191,
+    "rank": 327,
+    "popularity": 2366,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "The hallowed ground of Koshien Stadium is the \"field of dreams,\" where the ambitions of high school baseball players come true. After emerging victorious in the autumn tournament last year, Seidou High School baseball's team  has finally earned the right to compete there for the first time in seven years.  Beyond the spring tournament looms the battle to decide who is the best team in the nation  ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1153/100511l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38731/Diamond_no_Ace__Act_II"
+  },
+  {
+    "id": 10863,
+    "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "titleJP": "シュタインズ ゲート 横行跋扈のポリオマニア",
+    "type": "Special",
+    "episodes": 1,
+    "score": 8.29,
+    "scoredBy": 296281,
+    "rank": 338,
+    "popularity": 551,
+    "year": 2012,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "A few months after the events of Steins;Gate, Rintarou Okabe and his group of friends are invited to tag along with their acquaintance Faris NyanNyan, who is participating in a Rai-Net battle event in the United States. There, they meet up with an old colleague: Kurisu Makise, who has been recalling fragmented memories of events that happened in the other world lines in the form of dreams. She con...",
+    "imageUrl": "https://myanimelist.net/images/anime/1805/123188l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania"
+  },
+  {
+    "id": 17389,
+    "title": "Kingdom 2nd Season",
+    "titleJP": "キングダム 第2シリーズ",
+    "type": "TV",
+    "episodes": 39,
+    "score": 8.29,
+    "scoredBy": 74558,
+    "rank": 330,
+    "popularity": 1774,
+    "year": 2013,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "A year after the devastating battle against the formidable Zhao, the State of Qin has returned its focus to pursuing King Ying Zheng's ambition of conquering the other six states and unifying China. Their next target is Wei, a smaller state which stands as a geographic stepping stone for the sake of conquest.  Xin, now a three hundred man commander of the swiftly rising Fei Xin Unit, continues to ...",
+    "imageUrl": "https://myanimelist.net/images/anime/13/53589l.jpg",
+    "malUrl": "https://myanimelist.net/anime/17389/Kingdom_2nd_Season"
+  },
+  {
+    "id": 6675,
+    "title": "Redline",
+    "titleJP": "REDLINE",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.29,
+    "scoredBy": 225795,
+    "rank": 335,
+    "popularity": 633,
+    "year": 2009,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Racing"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Every five years, an exhilarating race called Redline is held, and the universe's most anticipated competition has only one rule: that there are none. Racers are pushed to their absolute limit—a feeling that daredevil driver JP knows all too well. Having just qualified to participate in Redline, he is eager to battle against the other highly skilled drivers, particularly the beautiful rising star ...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/28553l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6675/Redline"
+  },
+  {
+    "id": 24415,
+    "title": "Kuroko no Basket 3rd Season",
+    "titleJP": "黒子のバスケ",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.29,
+    "scoredBy": 512328,
+    "rank": 331,
+    "popularity": 267,
+    "year": 2015,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Seirin prepares to face major obstacles on their path to winning the Winter Cup, including the teams each possessing a member of the Generation of Miracles. Kuroko goes head-to-head with his old teammates once more as he attempts to show them that individual skill is not the only way to play basketball. His firm belief that his form of basketball, team play, is the right way to play the sport will...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/68299l.jpg",
+    "malUrl": "https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season"
+  },
+  {
+    "id": 6594,
+    "title": "Katanagatari",
+    "titleJP": "刀語",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.29,
+    "scoredBy": 223792,
+    "rank": 329,
+    "popularity": 421,
+    "year": 2010,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "In an Edo-era Japan lush with a variety of sword-fighting styles, Shichika Yasuri practices the most unique one: Kyotouryuu, a technique in which the user's own body is wielded as a blade. The enigmatic seventh head of the Kyotouryuu school, Shichika lives quietly in exile with his sister Nanami until one day—the wildly ambitious strategist Togame barges into their lives.  Togame brazenly requests...",
+    "imageUrl": "https://myanimelist.net/images/anime/1112/119225l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6594/Katanagatari"
+  },
+  {
+    "id": 759,
+    "title": "Tokyo Godfathers",
+    "titleJP": "東京ゴッドファーザーズ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.29,
+    "scoredBy": 165220,
+    "rank": 341,
+    "popularity": 847,
+    "year": 2003,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Drama"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Childcare"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "One Christmas Eve, Hana, Gin, and Miyuki are rummaging for presents through heaps of garbage when they chance upon an abandoned baby in the cold winter night. Appalled at the pitiful sight, Hana's maternal instincts kick in and she insists on finding the baby's biological mother to demand an explanation. Naming the baby Kiyoko—meaning pure child—they begin their search using the possible clues lef...",
+    "imageUrl": "https://myanimelist.net/images/anime/1480/132791l.jpg",
+    "malUrl": "https://myanimelist.net/anime/759/Tokyo_Godfathers"
+  },
+  {
+    "id": 12531,
+    "title": "Sakamichi no Apollon",
+    "titleJP": "坂道のアポロン",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.29,
+    "scoredBy": 182608,
+    "rank": 336,
+    "popularity": 646,
+    "year": 2012,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Historical",
+      "Love Polygon",
+      "Music",
+      "School"
+    ],
+    "studios": [
+      "Tezuka Productions",
+      "MAPPA"
+    ],
+    "synopsis": "Introverted classical pianist and top student Kaoru Nishimi has just arrived in Kyushu for his first year of high school. Having constantly moved from place to place since his childhood, he abandons all hope of fitting in, preparing himself for another lonely, meaningless year. That is, until he encounters the notorious delinquent Sentarou Kawabuchi.  Sentarou's immeasurable love for jazz music in...",
+    "imageUrl": "https://myanimelist.net/images/anime/1604/98654l.jpg",
+    "malUrl": "https://myanimelist.net/anime/12531/Sakamichi_no_Apollon"
+  },
+  {
+    "id": 39533,
+    "title": "Given",
+    "titleJP": "ギヴン",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.29,
+    "scoredBy": 346567,
+    "rank": 328,
+    "popularity": 389,
+    "year": 2019,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Boys Love",
+      "Drama"
+    ],
+    "themes": [
+      "Music",
+      "School"
+    ],
+    "studios": [
+      "Lerche"
+    ],
+    "synopsis": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1666/102238l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39533/Given"
+  },
+  {
+    "id": 50407,
+    "title": "Wu Shan Wu Xing: Xichuan Huan Zi Lin",
+    "titleJP": "雾山五行·犀川幻紫林",
+    "type": "ONA",
+    "episodes": 4,
+    "score": 8.29,
+    "scoredBy": 6319,
+    "rank": 341,
+    "popularity": 5599,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Samsara Animation Studio"
+    ],
+    "synopsis": "Second season of Wu Shan Wu Xing....",
+    "imageUrl": "https://myanimelist.net/images/anime/1983/147467l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50407/Wu_Shan_Wu_Xing__Xichuan_Huan_Zi_Lin"
+  },
+  {
+    "id": 2150,
+    "title": "Tanoshii Muumin Ikka",
+    "titleJP": "楽しいムーミン一家",
+    "type": "TV",
+    "episodes": 78,
+    "score": 8.29,
+    "scoredBy": 13925,
+    "rank": 339,
+    "popularity": 4446,
+    "year": 1990,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "themes": [
+      "Iyashikei"
+    ],
+    "studios": [
+      "Telescreen"
+    ],
+    "synopsis": "Spring has finally arrived in Moomin Valley, giving way to another great adventure for Moomintroll and the rest of its inhabitants. With Snufkin coming home from his winter migration, the locals of the valley finally begin to rise from their hibernation. Finding a mysterious hat, the Moomins cannot bring themselves to throw it away due to its fine quality, instead hoping to eventually find its own...",
+    "imageUrl": "https://myanimelist.net/images/anime/13/26765l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2150/Tanoshii_Muumin_Ikka"
+  },
+  {
+    "id": 41487,
+    "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "titleJP": "転生したらスライムだった件",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.29,
+    "scoredBy": 526205,
+    "rank": 340,
+    "popularity": 225,
+    "year": 2021,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "8bit"
+    ],
+    "synopsis": "The nation of Tempest is in a festive mood after successfully overcoming the surprise attack from the Falmuth Army and the Western Holy Church. Beyond the festivities lies a meeting between Tempest and its allies to decide the future of the Nation of Monsters. The aftermath of the Falmuth invasion, Milim Nava's suspicious behavior, and the disappearance of Demon Lord Carrion—the problems seem to k...",
+    "imageUrl": "https://myanimelist.net/images/anime/1033/118296l.jpg",
+    "malUrl": "https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2"
+  },
+  {
+    "id": 57,
+    "title": "Beck",
+    "titleJP": "ベック",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.29,
+    "scoredBy": 151092,
+    "rank": 325,
+    "popularity": 726,
+    "year": 2004,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Fourteen-year-old Yukio \"Koyuki\" Tanaka is a dispirited young boy with no goals in life. However, this all changes when Koyuki saves a strange-looking dog named Beck from being harassed by a group of local kids. The dog's owner, 16-year-old Ryuusuke \"Ray\" Minami, is an emerging guitarist and the former member of a popular rock band.   After Koyuki meets Ray again in a diner, the older boy leads hi...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/11636l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57/Beck"
+  },
+  {
+    "id": 9989,
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "titleJP": "あの日見た花の名前を僕達はまだ知らない。",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.29,
+    "scoredBy": 1034155,
+    "rank": 325,
+    "popularity": 74,
+    "year": 2011,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Jinta Yadomi is peacefully living as a recluse, spending his days away from school and playing video games at home instead. One hot summer day, his childhood friend, Meiko \"Menma\" Honma, appears and pesters him to grant a forgotten wish. He pays her no mind, which annoys her, but he doesn't really care. After all, Menma already died years ago.  At first, Jinta thinks that he is merely hallucinatin...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/79697l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
+  },
+  {
+    "id": 1735,
+    "title": "Naruto: Shippuuden",
+    "titleJP": "-ナルト- 疾風伝",
+    "type": "TV",
+    "episodes": 500,
+    "score": 8.29,
+    "scoredBy": 1818922,
+    "rank": 334,
+    "popularity": 15,
+    "year": 2007,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "synopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.   Although Naruto is older and sinister events loom on the horizon,...",
+    "imageUrl": "https://myanimelist.net/images/anime/1565/111305l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+  },
+  {
+    "id": 43325,
+    "title": "Yuukoku no Moriarty Part 2",
+    "titleJP": "憂国のモリアーティ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.29,
+    "scoredBy": 137462,
+    "rank": 343,
+    "popularity": 960,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Mystery",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Organized Crime",
+      "Psychological"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Great Britain is ablaze with news of a so-called \"Lord of Crime,\" a criminal mastermind responsible for the downfall of several unruly nobles. In truth, the Lord of Crime is not an individual, but rather a group consisting of William James Moriarty and his two brothers, Louis and Albert. Together, they wish to destroy everything rotten about their current world and create a new, fair society for a...",
+    "imageUrl": "https://myanimelist.net/images/anime/1200/111522l.jpg",
+    "malUrl": "https://myanimelist.net/anime/43325/Yuukoku_no_Moriarty_Part_2"
+  },
+  {
+    "id": 36371,
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 3",
+    "titleJP": "銀河英雄伝説 Die Neue These 星乱 第3章",
+    "type": "Movie",
+    "episodes": 4,
+    "score": 8.28,
+    "scoredBy": 15000,
+    "rank": 344,
+    "popularity": 4650,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "At the behest of Admiral Yang Wen-li, defected intelligence officer Commander Baghdash makes an emergency broadcast announcing that the National Salvation Military Council staged a coup under the direction of the Galactic Empire. Despite the lack of physical evidence, this debilitating declaration inspires former Rear Admiral Andrew Lynch to reveal his own role in sowing discord within the Free Pl...",
+    "imageUrl": "https://myanimelist.net/images/anime/1782/103917l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36371/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_3"
+  },
+  {
+    "id": 486,
+    "title": "Kino no Tabi: The Beautiful World",
+    "titleJP": "キノの旅 -the Beautiful World-",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.28,
+    "scoredBy": 106126,
+    "rank": 345,
+    "popularity": 768,
+    "year": 2003,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "A.C.G.T."
+    ],
+    "synopsis": "Kino, a 15-year-old traveler, forms a bond with Hermes, a talking motorcycle. Together, they wander the lands and venture through various countries and places, despite having no clear idea of what to expect. After all, life is a journey filled with the unknown.   Throughout their journeys, they encounter different kinds of customs, from the morally gray to tragic and fascinating. They also meet ma...",
+    "imageUrl": "https://myanimelist.net/images/anime/1763/95397l.jpg",
+    "malUrl": "https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World"
+  },
+  {
+    "id": 45,
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "titleJP": "るろうに剣心 -明治剣客浪漫譚-",
+    "type": "TV",
+    "episodes": 94,
+    "score": 8.28,
+    "scoredBy": 248113,
+    "rank": 346,
+    "popularity": 485,
+    "year": 1996,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Historical",
+      "Samurai"
+    ],
+    "studios": [
+      "Gallop",
+      "Studio Deen"
+    ],
+    "synopsis": "In the final years of the Bakumatsu era lived a legendary assassin known as Hitokiri Battousai. Feared as a merciless killer, he was unmatched throughout the country, but mysteriously disappeared at the peak of the Japanese Revolution. It has been ten peaceful years since then, but the very mention of Battousai still strikes terror into the hearts of war veterans.  Unbeknownst to them, Battousai h...",
+    "imageUrl": "https://myanimelist.net/images/anime/1346/119505l.jpg",
+    "malUrl": "https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
+  },
+  {
+    "id": 59150,
+    "title": "Wu Liuqi: Jiyi Suipian",
+    "titleJP": "伍六七之记忆碎片",
+    "type": "ONA",
+    "episodes": 10,
+    "score": 8.27,
+    "scoredBy": 7566,
+    "rank": 357,
+    "popularity": 5611,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Sharefun Studio"
+    ],
+    "synopsis": "In order to find his cherished partner, Wu Liuqi returns to Xuanwu Country and faces those forgotten fragments of memory. The dusty truth brings pain and anger, but now he is no longer alone. What is the purpose of having power? This time, Wu Liuqi has to make a new choice for his life...  (Source: Official Site)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1787/151956l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59150/Wu_Liuqi__Jiyi_Suipian"
+  },
+  {
+    "id": 35111,
+    "title": "Haikyuu!! Movie 4: Concept no Tatakai",
+    "titleJP": "ハイキュー!! コンセプトの戦い",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 42566,
+    "rank": 350,
+    "popularity": 2301,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "The long-awaited finals of the Spring Tournament have arrived for Karasuno High School's volleyball team. The winner of the match will go on to represent all of Miyagi Prefecture at the National Tournament. However, the last challenge Karasuno must overcome is to win against Shiratorizawa Academy, the school that houses Wakatoshi Ushijima, one of Japan's top three aces. Shiratorizawa is the reigni...",
+    "imageUrl": "https://myanimelist.net/images/anime/1854/147254l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35111/Haikyuu_Movie_4__Concept_no_Tatakai"
+  },
+  {
+    "id": 32188,
+    "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+    "titleJP": "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 161578,
+    "rank": 354,
+    "popularity": 970,
+    "year": 2015,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "Having reached his emotional breaking point, Rintarou Okabe refuses to continue aiding time traveler Suzuha Amane in her mission to prevent World War III, believing any further efforts to save Makise Kurisu will be in vain. Shortly after, Okabe abandons his mad scientist persona and becomes a seemingly regular university student.   Okabe's close friend Mayuri Shiina perceives him to be recovering ...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/77324l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero"
+  },
+  {
+    "id": 19363,
+    "title": "Gin no Saji 2nd Season",
+    "titleJP": "銀の匙",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.27,
+    "scoredBy": 94774,
+    "rank": 348,
+    "popularity": 1723,
+    "year": 2014,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Now accustomed to his life at Ooezo Agricultural High School, Yuugo Hachiken explores the deeper aspects of what school life really means. As Hachiken learns more about himself and earns the skills necessary for his everyday tasks, he is even offered the position of the Equestrian Club's vice-president. The new semester brings a variety of agricultural dilemmas and personal conflicts, but, neverth...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/57995l.jpg",
+    "malUrl": "https://myanimelist.net/anime/19363/Gin_no_Saji_2nd_Season"
+  },
+  {
+    "id": 23327,
+    "title": "Space☆Dandy 2nd Season",
+    "titleJP": "スペース☆ダンディ 第2シリーズ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.27,
+    "scoredBy": 96123,
+    "rank": 353,
+    "popularity": 1511,
+    "year": 2014,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Space"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Second season of Space Dandy.  Space Dandy is a dandy guy, in space! This dreamy adventurer with a to-die-for pompadour travels across the galaxy in search of aliens no one has ever laid eyes on. Each new species he discovers earns him a hefty reward, but this dandy has to be quick on his feet because it's first come, first served! Accompanied by his sidekicks, a rundown robot named QT and Meow th...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/64451l.jpg",
+    "malUrl": "https://myanimelist.net/anime/23327/Space☆Dandy_2nd_Season"
+  },
+  {
+    "id": 34798,
+    "title": "Yuru Camp△",
+    "titleJP": "ゆるキャン△",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.27,
+    "scoredBy": 239545,
+    "rank": 358,
+    "popularity": 463,
+    "year": 2018,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "CGDCT",
+      "Iyashikei"
+    ],
+    "studios": [
+      "C-Station"
+    ],
+    "synopsis": "While the perfect getaway for most girls her age might be a fancy vacation with their loved ones, Rin Shima's ideal way of spending her days off is camping alone at the base of Mount Fuji. From pitching her tent to gathering firewood, she has always done everything by herself, and has no plans of leaving her little solitary world.  However, what starts off as one of Rin's usual camping sessions so...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/89877l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34798/Yuru_Camp△"
+  },
+  {
+    "id": 40211,
+    "title": "Luo Xiaohei Zhanji (Movie)",
+    "titleJP": "罗小黑战记",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 13910,
+    "rank": 352,
+    "popularity": 3973,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "HMCH"
+    ],
+    "synopsis": "Luo Xiaohei is a young monster who normally takes the form of a small black cat. Living freely in the forests, gradual deforestation and human development force him to flee and find a new home. Wandering the city streets, the black cat struggles to survive until he encounters Feng Xi, a fellow monster who takes Xiaohei to an isolated island inhabited by a small group of monsters. Excited to find w...",
+    "imageUrl": "https://myanimelist.net/images/anime/1583/108598l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40211/Luo_Xiaohei_Zhanji_Movie"
+  },
+  {
+    "id": 30346,
+    "title": "Doukyuusei",
+    "titleJP": "同級生",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 158600,
+    "rank": 347,
+    "popularity": 939,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Boys Love"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "Hikaru Kusakabe is a normal, carefree boy in a rock band who is always focused on the present. During the summer, his entire class is forced to participate in an upcoming chorus festival. By coincidence, he discovers his classmate Rihito Sajou—known for being an honor student with excellent grades—practicing his singing alone. Sajou just cannot seem to get their class' song right, and Kusakabe, de...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/78606l.jpg",
+    "malUrl": "https://myanimelist.net/anime/30346/Doukyuusei"
+  },
+  {
+    "id": 2685,
+    "title": "Tsubasa: Tokyo Revelations",
+    "titleJP": "ツバサ TOKYO REVELATIONS",
+    "type": "OVA",
+    "episodes": 3,
+    "score": 8.27,
+    "scoredBy": 46938,
+    "rank": 356,
+    "popularity": 2367,
+    "year": 2007,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "themes": [],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Continuing their journey from Record Country (the place that held the book of memories), Syaoran and company land into Tokyo Country, a blood-filled country under war from opposing factions for natural resources and survival. While reluctantly involved in the race to live, the group faces their own problems as certain revelations are made, changing their journey forever.  A shocking betrayal and a...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/49129l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2685/Tsubasa__Tokyo_Revelations"
+  },
+  {
+    "id": 9735,
+    "title": "Gintama: Shinyaku Benizakura-hen",
+    "titleJP": "銀魂 新訳紅桜篇",
+    "type": "Special",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 21025,
+    "rank": 349,
+    "popularity": 3687,
+    "year": 2010,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "It's the running gag of Ben Johnson episode where animation staff reuse the New Years footage; Yorozuya would sit around the kotatsu eating a bowl of tangerines. They discuss elaborate subjects, Shinpachi complains about reusing animation footage, and then Gin-chan always ending the gag with a pointless announcement....",
+    "imageUrl": "https://myanimelist.net/images/anime/12/26966l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9735/Gintama__Shinyaku_Benizakura-hen"
+  },
+  {
+    "id": 43,
+    "title": "Koukaku Kidoutai",
+    "titleJP": "GHOST IN THE SHELL（攻殻機動隊）",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 361310,
+    "rank": 351,
+    "popularity": 338,
+    "year": 1995,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Award Winning",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Mecha",
+      "Psychological"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to replace their limbs with robotic parts. The world is now more interconnected than ever before, and the city's Public Security Section 9 is responsible for combating corruption, terrorism, and other dangerous threats following this shift toward globaliz...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/82594l.jpg",
+    "malUrl": "https://myanimelist.net/anime/43/Koukaku_Kidoutai"
+  },
+  {
+    "id": 38826,
+    "title": "Tenki no Ko",
+    "titleJP": "天気の子",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.27,
+    "scoredBy": 676931,
+    "rank": 355,
+    "popularity": 157,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "CoMix Wave Films"
+    ],
+    "synopsis": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and he...",
+    "imageUrl": "https://myanimelist.net/images/anime/1880/101146l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38826/Tenki_no_Ko"
+  },
+  {
+    "id": 58572,
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+    "titleJP": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.26,
+    "scoredBy": 130924,
+    "rank": 369,
+    "popularity": 1073,
+    "year": 2024,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Video Game"
+    ],
+    "studios": [
+      "C2C"
+    ],
+    "synopsis": "Ever since Rakurou \"Sunraku\" Hizutome started to play the extremely popular virtual reality game Shangri-La Frontier, he has truly fallen in love with it. Sunraku has quickly made a big name for himself by fighting two of the seven unique, nearly unbeatable monsters, which is unthinkable for most players. To progress the game's story, he sets out on an adventure with his leporine guide, Emul, to a...",
+    "imageUrl": "https://myanimelist.net/images/anime/1996/147601l.jpg",
+    "malUrl": "https://myanimelist.net/anime/58572/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su_2nd_Season"
+  },
+  {
+    "id": 53111,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen",
+    "titleJP": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ深章 厄災篇",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.26,
+    "scoredBy": 155898,
+    "rank": 361,
+    "popularity": 948,
+    "year": 2023,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Second part of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV....",
+    "imageUrl": "https://myanimelist.net/images/anime/1476/128693l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53111/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_IV__Shin_Shou_-_Yakusai-hen"
+  },
+  {
+    "id": 37520,
+    "title": "Dororo",
+    "titleJP": "どろろ",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.26,
+    "scoredBy": 699298,
+    "rank": 359,
+    "popularity": 109,
+    "year": 2019,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology",
+      "Samurai"
+    ],
+    "studios": [
+      "Tezuka Productions",
+      "MAPPA"
+    ],
+    "synopsis": "The greedy samurai lord Daigo Kagemitsu's land is dying, and he would do anything for power, even renounce Buddha and make a pact with demons. His prayers are answered by 12 demons who grant him the power he desires by aiding his prefecture's growth, but at a price. When Kagemitsu's first son is born, the boy has no limbs, no nose, no eyes, no ears, nor even skin—yet still, he lives.  This child i...",
+    "imageUrl": "https://myanimelist.net/images/anime/1879/100467l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37520/Dororo"
+  },
+  {
+    "id": 25835,
+    "title": "Shirobako",
+    "titleJP": "SHIROBAKO",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.26,
+    "scoredBy": 149681,
+    "rank": 370,
+    "popularity": 555,
+    "year": 2014,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Drama"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Otaku Culture",
+      "Workplace"
+    ],
+    "studios": [
+      "P.A. Works"
+    ],
+    "synopsis": "It all started in Kaminoyama High School, when five best friends—Aoi Miyamori, Ema Yasuhara, Midori Imai, Shizuka Sakaki, and Misa Toudou—discovered their collective love for all things anime and formed the animation club. After making their first amateur anime together and showcasing it at the culture festival, the group vows to pursue careers in the industry, aiming to one day work together and ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1460/141897l.jpg",
+    "malUrl": "https://myanimelist.net/anime/25835/Shirobako"
+  },
+  {
+    "id": 3002,
+    "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "titleJP": "逆境無頼カイジ Ultimate Survivor",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.26,
+    "scoredBy": 178303,
+    "rank": 363,
+    "popularity": 693,
+    "year": 2007,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "High Stakes Game",
+      "Psychological",
+      "Strategy Game"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "After one of his coworkers fails to repay a debt, apathetic bum Kaiji Itou is pressured by loan sharks to settle the large sum of cash. Since Kaiji has little money and no future prospects of his own, he is unable to return what his colleague borrowed. Faced with massive financial burdens, Kaiji is given an offer to board the illustrious Espoir—it is said that \"one night aboard the ship, and all o...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/80032l.jpg",
+    "malUrl": "https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor"
+  },
+  {
+    "id": 513,
+    "title": "Tenkuu no Shiro Laputa",
+    "titleJP": "天空の城ラピュタ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.26,
+    "scoredBy": 334592,
+    "rank": 371,
+    "popularity": 468,
+    "year": 1986,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "In a world filled with planes and airships, Sheeta is a young girl who has been kidnapped by government agents who seek her mysterious crystal amulet. While trapped aboard an airship, she finds herself without hope—that is, until the ship is raided by pirates. Taking advantage of the ensuing confusion, Sheeta manages to flee from her captors. Upon her escape, she meets Pazu, a boy who dreams of re...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/37799l.jpg",
+    "malUrl": "https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa"
+  },
+  {
+    "id": 265,
+    "title": "Hajime no Ippo: Mashiba vs. Kimura",
+    "titleJP": "はじめの一歩 間柴vs木村 死刑執行",
+    "type": "OVA",
+    "episodes": 1,
+    "score": 8.26,
+    "scoredBy": 78181,
+    "rank": 365,
+    "popularity": 2007,
+    "year": 2003,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Tatsuya Kimura is beginning to feel left behind. With his friends Ippo Makunouchi and Mamoru Takamura holding the championship belt in their respective weight classes, Kimura's inability to become Japan's Junior Lightweight boxing champion eats away at him. Scheduled to fight with the current champion Ryo Mashiba, Kimura begins to train with Ippo's rival Ichirou Miyata, who previously suffered a c...",
+    "imageUrl": "https://myanimelist.net/images/anime/4/64737l.jpg",
+    "malUrl": "https://myanimelist.net/anime/265/Hajime_no_Ippo__Mashiba_vs_Kimura"
+  },
+  {
+    "id": 264,
+    "title": "Hajime no Ippo: Champion Road",
+    "titleJP": "はじめの一歩 -Champion Road-",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.26,
+    "scoredBy": 94945,
+    "rank": 364,
+    "popularity": 1707,
+    "year": 2003,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Combat Sports"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "The challenger has become the champion as Ippo Makunouchi now wears the featherweight championship belt of Japan.  Some time has passed since Ippo's victory, and he has found his friends and coach as supportive as ever; his crush, Kumi Mashiba, seems to enjoy spending time with him as well. Things are looking bright for the new champion, but just as he once set his sights on becoming the best, his...",
+    "imageUrl": "https://myanimelist.net/images/anime/1521/137978l.jpg",
+    "malUrl": "https://myanimelist.net/anime/264/Hajime_no_Ippo__Champion_Road"
+  },
+  {
+    "id": 38691,
+    "title": "Dr. Stone",
+    "titleJP": "ドクターストーン",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.26,
+    "scoredBy": 1177293,
+    "rank": 360,
+    "popularity": 49,
+    "year": 2019,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.  Several millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has f...",
+    "imageUrl": "https://myanimelist.net/images/anime/1613/102576l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38691/Dr_Stone"
+  },
+  {
+    "id": 10087,
+    "title": "Fate/Zero",
+    "titleJP": "フェイト/ゼロ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.26,
+    "scoredBy": 912873,
+    "rank": 362,
+    "popularity": 83,
+    "year": 2011,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the E...",
+    "imageUrl": "https://myanimelist.net/images/anime/1887/117644l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10087/Fate_Zero"
+  },
+  {
+    "id": 139,
+    "title": "Hunter x Hunter: Greed Island Final",
+    "titleJP": "HUNTER×HUNTER G・I Final",
+    "type": "OVA",
+    "episodes": 14,
+    "score": 8.26,
+    "scoredBy": 83903,
+    "rank": 367,
+    "popularity": 1706,
+    "year": 2004,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Nippon Animation"
+    ],
+    "synopsis": "Continuing with their adventure at Greed Island, Gon and Killua train furiously under the guidance of Biscuit for better preparation at attempting the game. With their abilities vastly improving and the threat of player killers menacing Greed Island, Gon and company continue the game despite the dangers that they will face with the game activities and encounters with other players. Based on the ma...",
+    "imageUrl": "https://myanimelist.net/images/anime/1/139l.jpg",
+    "malUrl": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final"
+  },
+  {
+    "id": 10408,
+    "title": "Hotarubi no Mori e",
+    "titleJP": "蛍火の杜へ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.26,
+    "scoredBy": 487169,
+    "rank": 366,
+    "popularity": 242,
+    "year": 2011,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Brain's Base"
+    ],
+    "synopsis": "During a summer vacation at her grandfather’s house, six-year-old Hotaru Takegawa gets lost in a forest rumored to be inhabited by spirits. While crying out in desperation, Hotaru is approached by Gin—a mysterious boy wearing a mask—who offers to help her.  Overjoyed at the sight of another person, Hotaru runs to Gin with open arms only to be rudely fended off. However, she quickly learns the grav...",
+    "imageUrl": "https://myanimelist.net/images/anime/1599/112267l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e"
+  },
+  {
+    "id": 34036,
+    "title": "Meitantei Conan: Episode One - Chiisaku Natta Meitantei",
+    "titleJP": "名探偵コナン エピソードONE 小さくなった名探偵",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.26,
+    "scoredBy": 16677,
+    "rank": 368,
+    "popularity": 4372,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "themes": [
+      "Detective"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "The \"real\" episode 1 of Meitantei Conan written by the Mangaka Gosho Aoyama....",
+    "imageUrl": "https://myanimelist.net/images/anime/5/81968l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34036/Meitantei_Conan__Episode_One_-_Chiisaku_Natta_Meitantei"
+  },
+  {
+    "id": 57592,
+    "title": "Dr. Stone: Science Future",
+    "titleJP": "Dr.STONE SCIENCE FUTURE",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.25,
+    "scoredBy": 146609,
+    "rank": 373,
+    "popularity": 925,
+    "year": 2025,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "themes": [],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Having resolved the crisis in the Petrification Kingdom, Senkuu and his companions gear up to deal directly with the mastermind behind the petrification phenomenon—who supposedly resides on the moon. The ambitious spaceship project, however, requires immense manpower and critical resources scattered across the world. Thus, the Kingdom of Science exploration team kick-starts its transcontinental jo...",
+    "imageUrl": "https://myanimelist.net/images/anime/1403/146479l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57592/Dr_Stone__Science_Future"
+  },
+  {
+    "id": 54959,
+    "title": "BanG Dream! It's MyGO!!!!!",
+    "titleJP": "バンドリ！It's MyGO!!!!!",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.25,
+    "scoredBy": 20690,
+    "rank": 372,
+    "popularity": 3955,
+    "year": 2023,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Music"
+    ],
+    "studios": [
+      "SANZIGEN"
+    ],
+    "synopsis": "In their last year of middle school, the five band members of CRYCHIC went their separate ways after an unpleasant disbandment. Each wrestling with their own regrets, the girls enrolled in different high schools, hoping never to hear from one another again.  Meanwhile, Anon Chihaya transfers to Haneoka Girls' Academy in the middle of the school year. As most students play in a band as a hobby, Ano...",
+    "imageUrl": "https://myanimelist.net/images/anime/1891/136948l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54959/BanG_Dream_Its_MyGO"
+  },
+  {
+    "id": 54595,
+    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+    "titleJP": "陰の実力者になりたくて！ 2nd Season",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.25,
+    "scoredBy": 297515,
+    "rank": 376,
+    "popularity": 474,
+    "year": 2023,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Nexus"
+    ],
+    "synopsis": "Enticed by its rumored wealth, Cid Kagenou happily tags along with his sister, Claire, on a trip to the infamous Lawless City. The region is ruled by three monarchs: Yukime, the Spirit Fox; Juggernaut, the Tyrant; and Elisabeth, a dormant progenitor vampire known as the Blood Queen. Hunting Elisabeth down serves as the perfect opportunity for Claire to prove her true mettle. On the other hand, Cid...",
+    "imageUrl": "https://myanimelist.net/images/anime/1938/138295l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54595/Kage_no_Jitsuryokusha_ni_Naritakute_2nd_Season"
+  },
+  {
+    "id": 10271,
+    "title": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+    "titleJP": "逆境無頼カイジ 破戒録篇",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.25,
+    "scoredBy": 117627,
+    "rank": 374,
+    "popularity": 1306,
+    "year": 2011,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "High Stakes Game",
+      "Psychological",
+      "Strategy Game"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Owing to an increasing debt, Kaiji Itou ends up resuming his old lifestyle. One day, while walking on the street, he stumbles upon Yuuji Endou, who is hunting Kaiji due to the money he owes to the Teiai Group. Unaware of this, Kaiji eagerly follows Endou, hoping for a chance to participate in another gamble, but soon finds out the loan shark's real intentions when he is kidnapped.  Given that Kaij...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/30599l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10271/Gyakkyou_Burai_Kaiji__Hakairoku-hen"
+  },
+  {
+    "id": 1698,
+    "title": "Nodame Cantabile",
+    "titleJP": "のだめカンタービレ",
+    "type": "TV",
+    "episodes": 23,
+    "score": 8.25,
+    "scoredBy": 134567,
+    "rank": 378,
+    "popularity": 843,
+    "year": 2007,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Music",
+      "Performing Arts"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist—not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.  During his fourth year at Japan's top music university,...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/11986l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1698/Nodame_Cantabile"
+  },
+  {
+    "id": 1033,
+    "title": "Sennen Joyuu",
+    "titleJP": "千年女優",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.25,
+    "scoredBy": 95333,
+    "rank": 381,
+    "popularity": 1322,
+    "year": 2002,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Showbiz"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "At the turn of the millennium, Ginei Studio's dilapidated buildings are set to be demolished. Ex-employee and filmmaker Genya Tachibana decides to honor this occasion with a commemorative documentary about the company's star actress: Chiyoko Fujiwara, the reclusive sweetheart of Shouwa Era cinema. Having finally obtained permission to interview the retired starlet, an enamored Genya drags along cy...",
+    "imageUrl": "https://myanimelist.net/images/anime/1648/93626l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1033/Sennen_Joyuu"
+  },
+  {
+    "id": 523,
+    "title": "Tonari no Totoro",
+    "titleJP": "となりのトトロ",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.25,
+    "scoredBy": 755702,
+    "rank": 382,
+    "popularity": 145,
+    "year": 1988,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "In 1950s Japan, Tatsuo Kusakabe relocates himself and his two daughters, Satsuki and Mei, to the countryside to be closer to their mother, who is hospitalized due to long-term illness. As the girls grow acquainted with rural life, Mei encounters a small, bunny-like creature in the yard one day. Chasing it into the forest, she finds \"Totoro\"—a giant, mystical forest spirit whom she soon befriends. ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1110/147278l.jpg",
+    "malUrl": "https://myanimelist.net/anime/523/Tonari_no_Totoro"
+  },
+  {
+    "id": 31812,
+    "title": "Kuroshitsuji Movie: Book of the Atlantic",
+    "titleJP": "劇場版 黒執事 Book of the Atlantic",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.25,
+    "scoredBy": 105067,
+    "rank": 377,
+    "popularity": 1241,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "The young Earl Ciel Phantomhive—the Queen's Guard Dog—is once again called to investigate seemingly supernatural phenomena when news of miraculous resurrections begins to surface in Victorian London. Along with Sebastian Michaelis, his demon butler, they board the luxury cruise liner Campania to investigate rumors of the Aurora Society—a medical organization suspected of experimenting on the dead....",
+    "imageUrl": "https://myanimelist.net/images/anime/9/85792l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic"
+  },
+  {
+    "id": 329,
+    "title": "Planetes",
+    "titleJP": "プラネテス",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.25,
+    "scoredBy": 83221,
+    "rank": 379,
+    "popularity": 1000,
+    "year": 2003,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Space",
+      "Workplace"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "In 2075, space travel is no longer just a dream, but an everyday reality for mankind. Advancements in science and technology have led to the colonization of the moon, the commercialization of outer space, and the formation of large space corporations. Ai Tanabe, an upbeat woman whose interests lie in the cosmos, joins Technora Corporation as a member of their Debris Section, a department dedicated...",
+    "imageUrl": "https://myanimelist.net/images/anime/1209/142900l.jpg",
+    "malUrl": "https://myanimelist.net/anime/329/Planetes"
+  },
+  {
+    "id": 45577,
+    "title": "IDOLiSH7 Third Beat!",
+    "titleJP": "アイドリッシュセブン Third BEAT!",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.25,
+    "scoredBy": 9320,
+    "rank": 375,
+    "popularity": 4884,
+    "year": 2021,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama"
+    ],
+    "themes": [
+      "Idols (Male)",
+      "Music"
+    ],
+    "studios": [
+      "TROYCA"
+    ],
+    "synopsis": "Nearing their first debut anniversary and with their popularity still on the rise, IDOLiSH7 set a date for a live tour to express their gratitude toward their fans. Meanwhile, the Black or White event draws closer—and as the previous year's winners—the group must prepare to take on the challengers. Looking to solidify their reputation in the world of idols, IDOLiSH7 are determined to come out vict...",
+    "imageUrl": "https://myanimelist.net/images/anime/1646/115723l.jpg",
+    "malUrl": "https://myanimelist.net/anime/45577/IDOLiSH7_Third_Beat"
+  },
+  {
+    "id": 31240,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "titleJP": "Re:ゼロから始める異世界生活",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.25,
+    "scoredBy": 1562251,
+    "rank": 380,
+    "popularity": 23,
+    "year": 2016,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Suspense"
+    ],
+    "themes": [
+      "Isekai",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things are not looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious be...",
+    "imageUrl": "https://myanimelist.net/images/anime/1522/128039l.jpg",
+    "malUrl": "https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu"
+  },
+  {
+    "id": 60570,
+    "title": "Ling Long 2nd Season",
+    "titleJP": "灵笼 第二季",
+    "type": "ONA",
+    "episodes": 12,
+    "score": 8.24,
+    "scoredBy": 585,
+    "rank": 386,
+    "popularity": 13444,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "themes": [],
+    "studios": [
+      "YHKT Entertainment"
+    ],
+    "synopsis": "In this thrilling continuation, former Wilderness Hunter Commander Marc has transformed into a blood-stained monster who destroys lighthouses. Guided by the enigmatic Bai Yuekui, he embarks on a new mission. The arrival of survivors on the ground reveals that the lighthouse isn't humanity's final refuge. Facing adversity, they harness their innate abilities to combat the Mana ecosystem. Bai Yuekui...",
+    "imageUrl": "https://myanimelist.net/images/anime/1980/150040l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60570/Ling_Long_2nd_Season"
+  },
+  {
+    "id": 54029,
+    "title": "Wu Liuqi: Anying Suming",
+    "titleJP": "伍六七之暗影宿命",
+    "type": "ONA",
+    "episodes": 10,
+    "score": 8.24,
+    "scoredBy": 20535,
+    "rank": 395,
+    "popularity": 4062,
+    "year": 2023,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "themes": [
+      "Martial Arts",
+      "Super Power"
+    ],
+    "studios": [
+      "Sharefun Studio"
+    ],
+    "synopsis": "The protagonist Wu Liuqi originally lived a carefree life on Xiaoji Island, but his identity became a mystery due to amnesia. As outsiders landed on the island and recognized Wu Liuqi, various conspiracies began to cover Xiaoji Island. So Wu Liuqi decided to return to Xuanwu Kingdom to meet his destiny in order to protect his partners and their homeland.   (Source: Bilibili, translated)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1016/153863l.jpg",
+    "malUrl": "https://myanimelist.net/anime/54029/Wu_Liuqi__Anying_Suming"
+  },
+  {
+    "id": 37989,
+    "title": "Golden Kamuy 2nd Season",
+    "titleJP": "ゴールデンカムイ",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.24,
+    "scoredBy": 129794,
+    "rank": 383,
+    "popularity": 1186,
+    "year": 2018,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Historical",
+      "Military"
+    ],
+    "studios": [
+      "Geno Studio"
+    ],
+    "synopsis": "In Hokkaido, it is rumored that there is a stash of hidden gold. This gold was supposedly stolen by a man who killed the original Ainu owners; and before being captured and imprisoned by the police, he hid it in a secret location. In order to relay the gold's location to his comrades on the outside, he tattooed the map on the bodies of his cellmates and promised them a share of the gold—provided t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1180/95018l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37989/Golden_Kamuy_2nd_Season"
+  },
+  {
+    "id": 36990,
+    "title": "Non Non Biyori Movie: Vacation",
+    "titleJP": "劇場版 のんのんびより ばけーしょん",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.24,
+    "scoredBy": 41365,
+    "rank": 388,
+    "popularity": 2614,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "CGDCT",
+      "Iyashikei"
+    ],
+    "studios": [
+      "SILVER LINK."
+    ],
+    "synopsis": "With summer vacation coming to an end, the girls are having as much fun as they can with their remaining time. However, their daily shenanigans are cut short when Suguru Koshigaya wins the grand prize of a lottery—tickets to Okinawa! After hasty preparations, the Asahigaoka group embarks on a three-day trip for their final summer getaway.  Upon arriving in Okinawa and checking into an inn, the gro...",
+    "imageUrl": "https://myanimelist.net/images/anime/1044/93575l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36990/Non_Non_Biyori_Movie__Vacation"
+  },
+  {
+    "id": 25681,
+    "title": "Kamisama Hajimemashita◎",
+    "titleJP": "神様はじめました◎",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.24,
+    "scoredBy": 249322,
+    "rank": 384,
+    "popularity": 557,
+    "year": 2015,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Mythology"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Nanami Momozono and her familiars Tomoe and Mizuki have survived quite a few challenges since Nanami took up the mantle of Mikage Shrine's patron god. Naturally, the wind god Otohiko comes to invite Nanami to the Divine Assembly in Izumo, the home of the gods, and Nanami chooses to take Mizuki with her, leaving Tomoe to pose as her at school. However, she has an ulterior motive for attending the D...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/69187l.jpg",
+    "malUrl": "https://myanimelist.net/anime/25681/Kamisama_Hajimemashita◎"
+  },
+  {
+    "id": 13125,
+    "title": "Shinsekai yori",
+    "titleJP": "新世界より",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.24,
+    "scoredBy": 289541,
+    "rank": 389,
+    "popularity": 271,
+    "year": 2012,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "themes": [
+      "Psychological"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "In the year 2011, a small percentage of humans began manifesting psychokinetic abilities known as \"Cantus.\" Over a millennium later, in the small town of Kamisu 66, Saki Watanabe is the last of her friends to awaken her powers and join the Sage Academy, a school for psychics like her. Although everyone at the institution has Cantus, they are not all equal; shortly after Saki enrolls, one of her cl...",
+    "imageUrl": "https://myanimelist.net/images/anime/1549/136389l.jpg",
+    "malUrl": "https://myanimelist.net/anime/13125/Shinsekai_yori"
+  },
+  {
+    "id": 2418,
+    "title": "Stranger: Mukou Hadan",
+    "titleJP": "ストレンヂア -無皇刃譚-",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.24,
+    "scoredBy": 172460,
+    "rank": 392,
+    "popularity": 773,
+    "year": 2007,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "themes": [
+      "Historical",
+      "Samurai"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "In the Sengoku period of Japan, a young orphan named Kotarou and his dog Tobimaru steal from unsuspecting villagers in order to make ends meet. However, Kotarou is forced to remain on the run when he finds himself being hunted down by assassins sent by China's Ming Dynasty for mysterious reasons not involving his petty crimes.   Fortunately, the duo run into Nanashi, a ronin who has taken refuge i...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/87066l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2418/Stranger__Mukou_Hadan"
+  },
+  {
+    "id": 44940,
+    "title": "World Trigger 3rd Season",
+    "titleJP": "ワールドトリガー",
+    "type": "TV",
+    "episodes": 14,
+    "score": 8.24,
+    "scoredBy": 55312,
+    "rank": 394,
+    "popularity": 1862,
+    "year": 2021,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "themes": [],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "At the Border Defense Agency's headquarters, the B-Rank Wars are underway as each team fights intensely to secure a spot in the upcoming Away Mission. Though Osamu Mikumo and the rest of Tamakoma-2 have pulled through thus far, the final rounds will require them to push far beyond the limits of their current abilities. Taking in a talented new member, the squad begins to train and develop new stra...",
+    "imageUrl": "https://myanimelist.net/images/anime/1617/117474l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44940/World_Trigger_3rd_Season"
+  },
+  {
+    "id": 32937,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "titleJP": "この素晴らしい世界に祝福を！ 2",
+    "type": "TV",
+    "episodes": 10,
+    "score": 8.24,
+    "scoredBy": 1091097,
+    "rank": 385,
+    "popularity": 76,
+    "year": 2017,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Parody"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then.  Not only is he stuck with a useless deity turned party archpriest, t...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/83188l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32937/Kono_Subarashii_Sekai_ni_Shukufuku_wo_2"
+  },
+  {
+    "id": 512,
+    "title": "Majo no Takkyuubin",
+    "titleJP": "魔女の宅急便",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.24,
+    "scoredBy": 428600,
+    "rank": 387,
+    "popularity": 369,
+    "year": 1989,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "Kiki, a 13-year-old witch-in-training, must spend a year living on her own in a distant town in order to become a full-fledged witch. Leaving her family and friends, Kiki undertakes this tradition when she flies out into the open world atop her broomstick with her black cat Jiji.  As she settles down in the coastal town of Koriko, Kiki struggles to adapt and ends up wandering the streets with no p...",
+    "imageUrl": "https://myanimelist.net/images/anime/1579/140483l.jpg",
+    "malUrl": "https://myanimelist.net/anime/512/Majo_no_Takkyuubin"
+  },
+  {
+    "id": 440,
+    "title": "Shoujo Kakumei Utena",
+    "titleJP": "少女革命ウテナ",
+    "type": "TV",
+    "episodes": 39,
+    "score": 8.24,
+    "scoredBy": 72057,
+    "rank": 390,
+    "popularity": 1137,
+    "year": 1997,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [
+      "Mahou Shoujo",
+      "Psychological",
+      "School"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Years ago, a tragic incident befell a young princess when both her parents died. Devastated, it seemed nothing would calm this poor soul. However, a prince traveling through the area came to see the princess, hoping to cheer her up. After wiping her sorrowful tears, the prince gave her a ring carrying a rose emblem and told her as long as she holds onto the ring, they are destined to meet again. T...",
+    "imageUrl": "https://myanimelist.net/images/anime/1078/95285l.jpg",
+    "malUrl": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena"
+  },
+  {
+    "id": 50594,
+    "title": "Suzume no Tojimari",
+    "titleJP": "すずめの戸締まり",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.24,
+    "scoredBy": 278498,
+    "rank": 393,
+    "popularity": 516,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "themes": [
+      "Mythology"
+    ],
+    "studios": [
+      "CoMix Wave Films"
+    ],
+    "synopsis": "On her way to school one day, Suzume Iwato stumbles upon Souta Munakata, a young man searching for abandoned areas. The high school girl directs Souta to a nearby ruin, but out of pure curiosity, she herself decides to head to the same destination.  Once there, Suzume discovers an isolated door with a dreamlike universe lying beyond it—a place that she can see and feel, but not enter. A strange st...",
+    "imageUrl": "https://myanimelist.net/images/anime/1598/128450l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50594/Suzume_no_Tojimari"
+  },
+  {
+    "id": 35838,
+    "title": "Shoujo Shuumatsu Ryokou",
+    "titleJP": "少女終末旅行",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.24,
+    "scoredBy": 151526,
+    "rank": 391,
+    "popularity": 675,
+    "year": 2017,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "themes": [
+      "Iyashikei"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "synopsis": "Amid the desolate remains of a once-thriving city, only the rumbling of a motorbike breaks the cold winter silence. Its riders, Chito and Yuuri, are the last survivors in the war-torn city. Scavenging old military sites for food and parts, the two girls explore the wastelands and speculate about the old world to pass the time. Chito and Yuuri each occasionally struggle with the looming solitude, b...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/88321l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35838/Shoujo_Shuumatsu_Ryokou"
+  },
+  {
+    "id": 56215,
+    "title": "Yi Nian Yong Heng 3rd Season",
+    "titleJP": "一念永恒 第3季",
+    "type": "ONA",
+    "episodes": 59,
+    "score": 8.23,
+    "scoredBy": 1354,
+    "rank": 405,
+    "popularity": 10112,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "B.CMAY PICTURES"
+    ],
+    "synopsis": "After Bai Xiaochun merged the four downstream sects to form the Reverse River Sect, he successfully challenged the three midstream sects and established a firm foothold. He was then chosen by the Celestial Being of the Starry Sky Dao Sect in the upstream to be a hostage, thus beginning the third season, the Hostage arc.  (Source: Tencent, translated)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1105/150044l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56215/Yi_Nian_Yong_Heng_3rd_Season"
+  },
+  {
+    "id": 29831,
+    "title": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+    "titleJP": "たまゆら～卒業写真～ 第4部 朝-あした-",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.23,
+    "scoredBy": 4624,
+    "rank": 403,
+    "popularity": 6306,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "CGDCT",
+      "Iyashikei"
+    ],
+    "studios": [
+      "TYO Animations"
+    ],
+    "synopsis": "The final movie of a four-part finale of Tamayura....",
+    "imageUrl": "https://myanimelist.net/images/anime/1697/134884l.jpg",
+    "malUrl": "https://myanimelist.net/anime/29831/Tamayura__Sotsugyou_Shashin_Part_4_-_Ashita"
+  },
+  {
+    "id": 37055,
+    "title": "Youjo Senki Movie",
+    "titleJP": "劇場版 幼女戦記",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.23,
+    "scoredBy": 175057,
+    "rank": 406,
+    "popularity": 852,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Military",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Nut"
+    ],
+    "synopsis": "With its armies sweeping across the continent, the Empire seems unstoppable. After securing victory over the remnants of the Republic's army, the Empire's ultimate victory is finally within reach. However, dark clouds are gathering in the East. The communist-led Russy Federation is mustering troops on its western border, preparing to enter the war. Supported by a detachment of Allied volunteer mag...",
+    "imageUrl": "https://myanimelist.net/images/anime/1249/117182l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37055/Youjo_Senki_Movie"
+  },
+  {
+    "id": 35677,
+    "title": "Liz to Aoi Tori",
+    "titleJP": "リズと青い鳥",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.23,
+    "scoredBy": 66855,
+    "rank": 399,
+    "popularity": 1665,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [
+      "Music",
+      "Performing Arts",
+      "School"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "Liz's days of solitude come to an end when she meets a blue bird in the form of a young girl. Although their relationship blossoms, Liz must make a heart-wrenching decision in order to truly realize her love for Blue Bird.  High school seniors and close friends Mizore Yoroizuka and Nozomi Kasaki are tasked to play the lead instruments in the third movement of Liz and the Blue Bird, a concert band ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1638/93032l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35677/Liz_to_Aoi_Tori"
+  },
+  {
+    "id": 15227,
+    "title": "Kono Sekai no Katasumi ni",
+    "titleJP": "この世界の片隅に",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.23,
+    "scoredBy": 84619,
+    "rank": 398,
+    "popularity": 1335,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Suzu Urano is a pure and kindhearted girl who loves to draw and keep her head in the clouds. Growing up in the outskirts of Hiroshima with her family, she is more than happy to help with her grandmother's nori business.  However, when she becomes of age, Suzu leaves her beloved home to marry Shuusaku Houjou, a man she barely knows. As she integrates into her new husband's household, the homesick b...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/87704l.jpg",
+    "malUrl": "https://myanimelist.net/anime/15227/Kono_Sekai_no_Katasumi_ni"
+  },
+  {
+    "id": 33051,
+    "title": "Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season",
+    "titleJP": "機動戦士ガンダム 鉄血のオルフェンズ 第2期",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.23,
+    "scoredBy": 90100,
+    "rank": 397,
+    "popularity": 1676,
+    "year": 2016,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Space"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Tekkadan has now become a direct affiliate of Teiwaz after procuring a new trade agreement with Arbrau. With its newfound funds and prestige, Tekkadan finds both its list of allies and enemies growing. Meanwhile, the flames of the Gjallarhorn power struggle continue to rage in full force. As a part of her efforts to make Mars financially independent from Earth, Kudelia Aina Bernstein founds the Ad...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/80899l.jpg",
+    "malUrl": "https://myanimelist.net/anime/33051/Kidou_Senshi_Gundam__Tekketsu_no_Orphans_2nd_Season"
+  },
+  {
+    "id": 11843,
+    "title": "Danshi Koukousei no Nichijou",
+    "titleJP": "男子高校生の日常",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.23,
+    "scoredBy": 441807,
+    "rank": 396,
+    "popularity": 239,
+    "year": 2012,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "School"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Roaming the halls of the all-boys Sanada North High School are three close comrades: the eccentric ringleader with a hyperactive imagination Hidenori, the passionate Yoshitake, and the rational and prudent Tadakuni. Their lives are filled with giant robots, true love, and intense drama... in their colorful imaginations, at least. In reality, they are just an everyday trio of ordinary guys trying t...",
+    "imageUrl": "https://myanimelist.net/images/anime/3/33257l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou"
+  },
+  {
+    "id": 37450,
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "titleJP": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.23,
+    "scoredBy": 1235955,
+    "rank": 402,
+    "popularity": 47,
+    "year": 2018,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "The rare and inexplicable Puberty Syndrome is thought of as a myth. It is a rare disease which only affects teenagers, and its symptoms are so supernatural that hardly anyone recognizes it as a legitimate occurrence. However, high school student Sakuta Azusagawa knows from personal experience that it is very much real, and happens to be quite prevalent in his school.  Mai Sakurajima is a third-yea...",
+    "imageUrl": "https://myanimelist.net/images/anime/1301/93586l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai"
+  },
+  {
+    "id": 11977,
+    "title": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
+    "titleJP": "劇場版 魔法少女まどか☆マギカ 始まりの物語",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.23,
+    "scoredBy": 108304,
+    "rank": 400,
+    "popularity": 1292,
+    "year": 2012,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Mahou Shoujo",
+      "Psychological"
+    ],
+    "studios": [
+      "Shaft"
+    ],
+    "synopsis": "Madoka Kaname and her best friend Sayaka Miki are ordinary middle school students in the city of Mitakihara. But one day, they encounter a strange cat-like creature named Kyuubey, who claims he can grant them one wish. In exchange, they would become magical girls and fight against evil perpetrated by witches. A veteran magical girl in the area, Mami Tomoe, decides to show them how to hunt witches,...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/42331l.jpg",
+    "malUrl": "https://myanimelist.net/anime/11977/Mahou_Shoujo_Madoka★Magica_Movie_1__Hajimari_no_Monogatari"
+  },
+  {
+    "id": 49571,
+    "title": "Tunshi Xingkong 2nd Season",
+    "titleJP": "吞噬星空 第二季",
+    "type": "ONA",
+    "episodes": 26,
+    "score": 8.23,
+    "scoredBy": 3417,
+    "rank": 404,
+    "popularity": 7550,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Sparkly Key Animation Studio"
+    ],
+    "synopsis": "Second season of Tunshi Xingkong....",
+    "imageUrl": "https://myanimelist.net/images/anime/1558/117008l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49571/Tunshi_Xingkong_2nd_Season"
+  },
+  {
+    "id": 585,
+    "title": "Mimi wo Sumaseba",
+    "titleJP": "耳をすませば",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.23,
+    "scoredBy": 229222,
+    "rank": 401,
+    "popularity": 669,
+    "year": 1995,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "Shizuku Tsukishima is an energetic 14-year-old girl who enjoys reading and writing poetry in her free time. Glancing at the checkout cards of her books one evening, she notices that her library books are frequently checked out by a boy named Seiji Amasawa. Curiosity strikes Shizuku, and she decides to search for the boy who shares her love for literature.  Meeting a peculiar cat on the train, Shiz...",
+    "imageUrl": "https://myanimelist.net/images/anime/1764/138714l.jpg",
+    "malUrl": "https://myanimelist.net/anime/585/Mimi_wo_Sumaseba"
+  },
+  {
+    "id": 59708,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+    "titleJP": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+    "type": "TV",
+    "episodes": 16,
+    "score": 8.22,
+    "scoredBy": 15140,
+    "rank": 419,
+    "popularity": 1609,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "themes": [
+      "Psychological",
+      "School"
+    ],
+    "studios": [
+      "Lerche"
+    ],
+    "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they're greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They'll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team perf...",
+    "imageUrl": "https://myanimelist.net/images/anime/1176/153626l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59708/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_4th_Season__2-nensei-hen_1_Gakki"
+  },
+  {
+    "id": 59062,
+    "title": "Gachiakuta",
+    "titleJP": "ガチアクタ",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.22,
+    "scoredBy": 207926,
+    "rank": 410,
+    "popularity": 539,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Bones Film"
+    ],
+    "synopsis": "The inhabitants of a certain wealthy town think nothing of throwing objects away. However, their waste is priceless to Rudo, a resident of the town's slums. Despite the constant warnings from his adoptive father Regto, Rudo spends his days searching for reusable materials that would otherwise be sent to the giant disposal area known as the Pit. Due to its vastness, the Pit doubles as a means of cr...",
+    "imageUrl": "https://myanimelist.net/images/anime/1682/150432l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59062/Gachiakuta"
+  },
+  {
+    "id": 52588,
+    "title": "Kaijuu 8-gou",
+    "titleJP": "怪獣8号",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.22,
+    "scoredBy": 417703,
+    "rank": 413,
+    "popularity": 324,
+    "year": 2024,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "After the destruction of their hometown, childhood friends Kafka Hibino and Mina Ashiro make a pact to become officers in the Defense Force—a militarized organization tasked with protecting Japan from colossal monsters known as \"kaijuu.\" Decades later, the 32-year-old Kafka has all but given up on his dreams of heroism. Instead, he cleans up the remains of the slaughtered kaijuu after they are def...",
+    "imageUrl": "https://myanimelist.net/images/anime/1370/140362l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52588/Kaijuu_8-gou"
+  },
+  {
+    "id": 40853,
+    "title": "Stand By Me Doraemon 2",
+    "titleJP": "STAND BY ME ドラえもん ２",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.22,
+    "scoredBy": 18595,
+    "rank": 417,
+    "popularity": 3954,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Time Travel"
+    ],
+    "studios": [
+      "Shirogumi",
+      "Shin-Ei Animation"
+    ],
+    "synopsis": "After reminiscing about his late grandmother, Nobita Nobi wishes to see her again and asks Doraemon to return them to the past. Following the wholesome reunion of the two, Nobita's grandmother confesses that she hopes to meet his future bride. Nobita accepts her request out of filial love and quickly scrambles into the time machine as he and Doraemon journey forward in time.  However, when the duo...",
+    "imageUrl": "https://myanimelist.net/images/anime/1842/109657l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2"
+  },
+  {
+    "id": 28805,
+    "title": "Bakemono no Ko",
+    "titleJP": "バケモノの子",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.22,
+    "scoredBy": 239942,
+    "rank": 407,
+    "popularity": 579,
+    "year": 2015,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "Anthropomorphic",
+      "Isekai"
+    ],
+    "studios": [
+      "Studio Chizu"
+    ],
+    "synopsis": "Two souls, living very different lives, wander alone and isolated in their respective worlds. For nine-year-old Ren, the last person who treated him with any form of kindness has been killed, and he is shunned by what is left of his family. With no parents, no real family, and no place to go, Ren escapes into the confusing streets and alleyways of Shibuya. Through the twists and turns of the alley...",
+    "imageUrl": "https://myanimelist.net/images/anime/11/73540l.jpg",
+    "malUrl": "https://myanimelist.net/anime/28805/Bakemono_no_Ko"
+  },
+  {
+    "id": 5690,
+    "title": "Nodame Cantabile Finale",
+    "titleJP": "のだめカンタービレ フィナーレ",
+    "type": "TV",
+    "episodes": 11,
+    "score": 8.22,
+    "scoredBy": 72103,
+    "rank": 416,
+    "popularity": 1948,
+    "year": 2010,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Music",
+      "Performing Arts"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Shinichi Chiaki is quickly making a name for himself as the principal conductor of the revitalized Roux-Marlet Orchestra, and Megumi \"Nodame\" Noda has made leaps and bounds as a pianist at the Conservatoire de Paris. However, tensions mount between the two as Nodame feels left behind by Chiaki's growing success and his close friendship with legendary piano prodigy Rui Son. Disregarding her teacher...",
+    "imageUrl": "https://myanimelist.net/images/anime/1084/119096l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5690/Nodame_Cantabile_Finale"
+  },
+  {
+    "id": 1453,
+    "title": "Maison Ikkoku",
+    "titleJP": "めぞん一刻",
+    "type": "TV",
+    "episodes": 96,
+    "score": 8.22,
+    "scoredBy": 21426,
+    "rank": 414,
+    "popularity": 2688,
+    "year": 1986,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "In the town of Clock Hill, there is an old boarding house called Maison Ikkoku. While the residence itself is fairly normal, most of its occupants are not. Yuusaku Godai, its most quiet tenant, has finally reached his limit with his neighbors' constant disruptions and boisterous partying. Wanting a calmer place to call home so that he can study in peace, he prepares to move away.  However, his pla...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/17576l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1453/Maison_Ikkoku"
+  },
+  {
+    "id": 48316,
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "titleJP": "陰の実力者になりたくて！",
+    "type": "TV",
+    "episodes": 20,
+    "score": 8.22,
+    "scoredBy": 467581,
+    "rank": 411,
+    "popularity": 250,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Nexus"
+    ],
+    "synopsis": "For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible, which has led him to undertake all kinds of rigorous training. This wish, however, does not stem from a desire to be recognized by others; rather, Minoru does everything he can to blend in with the crowd. So, while pretending to be a completely average student during the day, he arms himself with a c...",
+    "imageUrl": "https://myanimelist.net/images/anime/1091/128729l.jpg",
+    "malUrl": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute"
+  },
+  {
+    "id": 49918,
+    "title": "Boku no Hero Academia 6th Season",
+    "titleJP": "僕のヒーローアカデミア",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.22,
+    "scoredBy": 421332,
+    "rank": 408,
+    "popularity": 276,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "School",
+      "Super Power"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "With Tomura Shigaraki at its helm, the former Liberation Army is now known as the Paranormal Liberation Front. This organized criminal group poses an immense threat to the Hero Association, not only because of its sheer size and strength, but also the overpowering quirks of Jin \"Twice\" Bubaigawara and Gigantomachia.  As new intel from the covert hero Keigo \"Hawks\" Takami confirms that Shigaraki is...",
+    "imageUrl": "https://myanimelist.net/images/anime/1483/126005l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season"
+  },
+  {
+    "id": 1842,
+    "title": "Major S3",
+    "titleJP": "メジャー (第3シリーズ)",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.22,
+    "scoredBy": 45935,
+    "rank": 415,
+    "popularity": 2863,
+    "year": 2007,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "Studio Hibari"
+    ],
+    "synopsis": "Having bid farewell to his former teammates at Kaido High School's baseball club, Gorou Honda returns to his hometown eager to continue playing. Attending a new high school proves to be more difficult than he initially expected, as Tetsufumi Egashira's merciless slandering of his name prevents Gorou from being accepted into any school with an existing baseball team.   Left with no other options, G...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/73971l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1842/Major_S3"
+  },
+  {
+    "id": 16664,
+    "title": "Kaguya-hime no Monogatari",
+    "titleJP": "かぐや姫の物語",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.22,
+    "scoredBy": 136395,
+    "rank": 412,
+    "popularity": 1075,
+    "year": 2013,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Award Winning",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical"
+    ],
+    "studios": [
+      "Studio Ghibli"
+    ],
+    "synopsis": "Deep in the countryside, a man named Okina works as a bamboo cutter in a forest, chopping away at the hollow plants day after day. One day, he discovers a small baby inside a glowing shoot. He immediately takes her home, convinced that she is a princess sent to Earth as a divine blessing from heaven. Okina and his wife Ouna take it upon themselves to raise the infant as their own, watching over he...",
+    "imageUrl": "https://myanimelist.net/images/anime/1935/93606l.jpg",
+    "malUrl": "https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari"
+  },
+  {
+    "id": 6,
+    "title": "Trigun",
+    "titleJP": "トライガン",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.22,
+    "scoredBy": 400785,
+    "rank": 418,
+    "popularity": 265,
+    "year": 1998,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title \"The Humanoid Typhoon.\" He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact—or so the rumors say. In act...",
+    "imageUrl": "https://myanimelist.net/images/anime/1130/120002l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6/Trigun"
+  },
+  {
+    "id": 372,
+    "title": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+    "titleJP": "劇場版 カードキャプターさくら 封印されたカード",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.22,
+    "scoredBy": 70911,
+    "rank": 409,
+    "popularity": 2054,
+    "year": 2000,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Mahou Shoujo"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "For this year's Nadeshiko Festival, Sakura Kinomoto's elementary school class is presenting a play. She will portray a princess who struggles to respond to the love confession of the neighboring country's prince. Sakura empathizes with her character all too well, since she herself still owes an answer to the boy who confessed his love for her four months ago.  When cousins Shaoran and Meiling Li r...",
+    "imageUrl": "https://myanimelist.net/images/anime/1652/90326l.jpg",
+    "malUrl": "https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card"
+  },
+  {
+    "id": 59027,
+    "title": "Spy x Family Season 3",
+    "titleJP": "SPY×FAMILY Season 3",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.21,
+    "scoredBy": 124947,
+    "rank": 433,
+    "popularity": 824,
+    "year": 2025,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "themes": [
+      "Childcare",
+      "Super Power"
+    ],
+    "studios": [
+      "Wit Studio",
+      "CloverWorks"
+    ],
+    "synopsis": "Despite occasional setbacks, Operation Strix has remained on track to extract sensitive information from the enigmatic politician Donovan Desmond. To this end, spy Loid Forger has managed to maintain his pretend family consisting of his telepathic daughter, Anya; assassin wife, Yor; and their clairvoyant dog, Bond. Still the only one aware of everyone's true identities, Anya tries to sustain the f...",
+    "imageUrl": "https://myanimelist.net/images/anime/1697/151793l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59027/Spy_x_Family_Season_3"
+  },
+  {
+    "id": 53393,
+    "title": "Tengoku Daimakyou",
+    "titleJP": "天国大魔境",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.21,
+    "scoredBy": 291336,
+    "rank": 433,
+    "popularity": 396,
+    "year": 2023,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Fifteen years ago, disaster struck human civilization, and now dangerous man-eating monsters roam the ravaged lands, posing an existential threat to the remaining survivors. Amid this turmoil, an isolated facility shelters children and nurtures them in peace. However, as a few among them find out about the world beyond the narrow periphery of their nursery's walls, their curiosity about it slowly ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1121/133132l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53393/Tengoku_Daimakyou"
+  },
+  {
+    "id": 35110,
+    "title": "Haikyuu!! Movie 3: Sainou to Sense",
+    "titleJP": "ハイキュー!! 才能とセンス",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.21,
+    "scoredBy": 44396,
+    "rank": 424,
+    "popularity": 2249,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Following the events of the Inter-High, the Karasuno High School volleyball team decides to regroup by attending an intensive boot camp organized by Nekoma High School in Tokyo. At the camp, the team continues to suffer loss upon loss to the other schools in attendance. Reaching an impasse, the players each struggle to break out of their routine to hone their skills.   For the team's setter-and-ac...",
+    "imageUrl": "https://myanimelist.net/images/anime/1034/147253l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35110/Haikyuu_Movie_3__Sainou_to_Sense"
+  },
+  {
+    "id": 12115,
+    "title": "Berserk: Ougon Jidai-hen III - Kourin",
+    "titleJP": "ベルセルク 黄金時代篇Ⅲ 降臨",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.21,
+    "scoredBy": 153334,
+    "rank": 419,
+    "popularity": 1145,
+    "year": 2013,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "themes": [
+      "Gore",
+      "Military",
+      "Psychological"
+    ],
+    "studios": [
+      "Studio 4°C"
+    ],
+    "synopsis": "The Band of the Hawk has dwindled in the year since Guts left them on his journey to forge his own destiny. Unaware of their fate, Guts returns to the Hawks—now being led by his former ally Casca—after a rumor about them passes his way. Once the saviors of the kingdom of Midland, the Band of the Hawk are now hunted as they desperately fight for their lives while plotting to free their leader, Grif...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/41305l.jpg",
+    "malUrl": "https://myanimelist.net/anime/12115/Berserk__Ougon_Jidai-hen_III_-_Kourin"
+  },
+  {
+    "id": 5460,
+    "title": "Meitantei Conan Movie 13: Shikkoku no Chaser",
+    "titleJP": "名探偵コナン漆黒の追跡者(チェイサー)",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.21,
+    "scoredBy": 36663,
+    "rank": 426,
+    "popularity": 3086,
+    "year": 2009,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "themes": [
+      "Detective"
+    ],
+    "studios": [
+      "Tokyo Movie Shinsha",
+      "TMS Entertainment"
+    ],
+    "synopsis": "Kudou Shinichi is living his life as Edogawa Conan, but those days seem like they might end pretty soon. The Black Syndicate is coming dangerously close to learning the truth about Shinichi having survived. Conan and everybody around him may end up dead if he doesn't manage to find Irish—a member of the Black Organization who has infiltrated the police forces, currently investigating a big serial ...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/22558l.jpg",
+    "malUrl": "https://myanimelist.net/anime/5460/Meitantei_Conan_Movie_13__Shikkoku_no_Chaser"
+  },
+  {
+    "id": 38249,
+    "title": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+    "titleJP": "斉木楠雄のΨ難 完結編",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.21,
+    "scoredBy": 147395,
+    "rank": 429,
+    "popularity": 1129,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "School",
+      "Super Power"
+    ],
+    "studios": [
+      "J.C.Staff",
+      "Egg Firm"
+    ],
+    "synopsis": "The ground shakes, a rumble follows, and before anyone in Japan can prepare themselves, a cataclysmic volcanic eruption engulfs the country in molten lava and suffocating ashes. Of course, high school student Kusou Saiki repeatedly uses his psychic powers to prevent this harrowing catastrophe.  But between restoring the planet and watching his friends discuss their aspirations, Saiki finally resol...",
+    "imageUrl": "https://myanimelist.net/images/anime/1159/95661l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38249/Saiki_Kusuo_no_Ψ-nan__Kanketsu-hen"
+  },
+  {
+    "id": 2966,
+    "title": "Ookami to Koushinryou",
+    "titleJP": "狼と香辛料",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.21,
+    "scoredBy": 414635,
+    "rank": 427,
+    "popularity": 244,
+    "year": 2008,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Imagin"
+    ],
+    "synopsis": "Holo is a powerful wolf deity who is revered in the small town of Pasloe for blessing the annual harvest. Yet as years go by and the villagers become more self-sufficient, Holo has been reduced to a mere folktale. When a traveling merchant named Kraft Lawrence stops at the settlement, Holo offers to become his business partner if he takes her to her northern home of Yoitsu. The savvy trader recogn...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/59401l.jpg",
+    "malUrl": "https://myanimelist.net/anime/2966/Ookami_to_Koushinryou"
+  },
+  {
+    "id": 44412,
+    "title": "Doupo Cangqiong 4th Season",
+    "titleJP": "斗破苍穹 第4季",
+    "type": "ONA",
+    "episodes": 24,
+    "score": 8.21,
+    "scoredBy": 5012,
+    "rank": 420,
+    "popularity": 7173,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Motion Magic"
+    ],
+    "synopsis": "To awaken his teacher Yao Cheng, Xiao Yan travels to the capital for a meeting of the pill masters. His power was immediately noticed, people who wanted to use it, but at the decisive moment Xiao Yan still becomes a champion and defends the honor of the empire. But Xiao Yan is waiting for a meeting, for which he has been preparing for three whole years......",
+    "imageUrl": "https://myanimelist.net/images/anime/1887/112452l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44412/Doupo_Cangqiong_4th_Season"
+  },
+  {
+    "id": 47794,
+    "title": "MILGЯAM",
+    "titleJP": "ミルグラム",
+    "type": "Music",
+    "episodes": null,
+    "score": 8.21,
+    "scoredBy": 2134,
+    "rank": null,
+    "popularity": 6484,
+    "year": 2020,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Suspense"
+    ],
+    "themes": [
+      "Music",
+      "Psychological"
+    ],
+    "studios": [
+      "OTOIRO"
+    ],
+    "synopsis": "Es awakens in the facility Milgram to find a strange talking animal named Jackalope staring them down. Soon, they learn their purpose: as the prison guard, Es must delve into the psyches of 10 inmates, each of them imprisoned for causing the loss of life in some form or another. Their fates rest in Es' hands. Do the means justify an end, and how much does intent matter if the result is death? No m...",
+    "imageUrl": "https://myanimelist.net/images/anime/1497/112023l.jpg",
+    "malUrl": "https://myanimelist.net/anime/47794/MILGЯAM"
+  },
+  {
+    "id": 35466,
+    "title": "ReLIFE: Kanketsu-hen",
+    "titleJP": "ReLIFE 完結編",
+    "type": "Special",
+    "episodes": 4,
+    "score": 8.21,
+    "scoredBy": 265957,
+    "rank": 428,
+    "popularity": 592,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "After reliving the life of a high school student through the ReLIFE experiment, 27-year-old Arata Kaizaki cannot believe how quickly it has changed him. He has begun to see the world through a different perspective that he had completely forgotten as an adult. He has made friends and formed deep relationships with each one of them. However his support, Ryou Yoake, reminds him that the experiment i...",
+    "imageUrl": "https://myanimelist.net/images/anime/1566/91061l.jpg",
+    "malUrl": "https://myanimelist.net/anime/35466/ReLIFE__Kanketsu-hen"
+  },
+  {
+    "id": 3091,
+    "title": "xxxHOLiC◆Kei",
+    "titleJP": "×××HOLiC◆継",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.21,
+    "scoredBy": 70413,
+    "rank": 435,
+    "popularity": 1718,
+    "year": 2008,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Kimihiro Watanuki's life was never really normal. But in addition to his ability to see spirits, this sequel to xxxHOLiC finds him still slaving away for Yuuko, the bizarre owner of a strange shop, who promised to rid him of this ability. However, this otherworldly woman can only do so when he has worked enough to earn his wish. Such is the way for anyone who finds their way into the shop to have ...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/8626l.jpg",
+    "malUrl": "https://myanimelist.net/anime/3091/xxxHOLiC◆Kei"
+  },
+  {
+    "id": 32843,
+    "title": "Senki Zesshou Symphogear XV",
+    "titleJP": "戦姫絶唱シンフォギアXV",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.21,
+    "scoredBy": 16057,
+    "rank": 430,
+    "popularity": 3865,
+    "year": 2019,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Idols (Female)",
+      "Music"
+    ],
+    "studios": [
+      "Satelight"
+    ],
+    "synopsis": "Humanity is finally confronted with the threat of the Custodians—the ancient, sentient species held responsible for cursing humanity to speak different languages thousands of years ago. The Symphogear wielders—Hibiki Tachibana, Tsubasa Kazanari, Chris Yukine, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi—are sent to the Antarctic in order to retrieve an ancient relic. After securing...",
+    "imageUrl": "https://myanimelist.net/images/anime/1899/101966l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32843/Senki_Zesshou_Symphogear_XV"
+  },
+  {
+    "id": 627,
+    "title": "Major S1",
+    "titleJP": "メジャー （第1シリーズ）",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.21,
+    "scoredBy": 54281,
+    "rank": 425,
+    "popularity": 2257,
+    "year": 2004,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "Studio Hibari"
+    ],
+    "synopsis": "Gorou Honda, a little boy obsessed with baseball, has always admired his father, Shigeharu. Wishing to follow in his father's footsteps, Gorou dreams of becoming a professional baseball player. In turn, his son's starry-eyed admiration encourages Shigeharu to keep persevering, despite his late wife's death and his unsatisfying position on the second-string team Blue Ocean.  Unfortunately, an elbow...",
+    "imageUrl": "https://myanimelist.net/images/anime/13/73973l.jpg",
+    "malUrl": "https://myanimelist.net/anime/627/Major_S1"
+  },
+  {
+    "id": 38680,
+    "title": "Fruits Basket 1st Season",
+    "titleJP": "フルーツバスケット",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.21,
+    "scoredBy": 449115,
+    "rank": 423,
+    "popularity": 213,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "Love Polygon",
+      "School"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Tooru Honda has always been fascinated by the story of the Chinese zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone. Tooru is now forced to live in a tent, but little does she know that her temporary home resides on the private property of the esteemed Souma family. Stumbling upon their home one ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1447/99827l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season"
+  },
+  {
+    "id": 813,
+    "title": "Dragon Ball Z",
+    "titleJP": "ドラゴンボールZ",
+    "type": "TV",
+    "episodes": 291,
+    "score": 8.21,
+    "scoredBy": 905034,
+    "rank": 423,
+    "popularity": 116,
+    "year": 1989,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "Five years after winning the World Martial Arts tournament, Gokuu is now living a peaceful life with his wife and son. This changes, however, with the arrival of a mysterious enemy named Raditz who presents himself as Gokuu's long-lost brother. He reveals that Gokuu is a descendant of the once powerful but now virtually extinct Saiyan race, whose homeworld was annihilated. When he was sent to Eart...",
+    "imageUrl": "https://myanimelist.net/images/anime/1277/142022l.jpg",
+    "malUrl": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+  },
+  {
+    "id": 9863,
+    "title": "SKET Dance",
+    "titleJP": "スケットダンス",
+    "type": "TV",
+    "episodes": 77,
+    "score": 8.21,
+    "scoredBy": 88662,
+    "rank": 432,
+    "popularity": 1185,
+    "year": 2011,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Tatsunoko Production"
+    ],
+    "synopsis": "At Kaimei High School there is a special club dedicated to helping others known as the SKET Brigade. The brains of the group is Kazuyoshi \"Switch\" Usui, a tech-savvy otaku who speaks through speech synthesis software, while the brawn is provided by Hime \"Himeko\" Onizuka, the hockey stick-wielding girl once known as \"Onihime.\"  And last but not least, their leader is Yuusuke \"Bossun\" Fujisaki, whos...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/73974l.jpg",
+    "malUrl": "https://myanimelist.net/anime/9863/SKET_Dance"
+  },
+  {
+    "id": 36946,
+    "title": "Dragon Ball Super: Broly",
+    "titleJP": "ドラゴンボール超（スーパー） ブロリー",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.21,
+    "scoredBy": 323949,
+    "rank": 421,
+    "popularity": 560,
+    "year": 2018,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Martial Arts"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "Forty-one years ago on Planet Vegeta, home of the infamous Saiyan warrior race, King Vegeta noticed a baby named Broly whose latent power exceeded that of his own son. Believing that Broly's power would one day surpass that of his child, Vegeta, the king sends Broly to the desolate planet Vampa. Broly's father Paragus follows after him, intent on rescuing his son. However, his ship gets damaged, c...",
+    "imageUrl": "https://myanimelist.net/images/anime/1575/93498l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36946/Dragon_Ball_Super__Broly"
+  },
+  {
+    "id": 60420,
+    "title": "Cang Yuan Tu 2",
+    "titleJP": "沧元图2",
+    "type": "ONA",
+    "episodes": 36,
+    "score": 8.2,
+    "scoredBy": 990,
+    "rank": 438,
+    "popularity": 12142,
+    "year": 2024,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [
+      "Historical",
+      "Martial Arts"
+    ],
+    "studios": [
+      "Shenman Entertainment",
+      "Tianshi Wenhua"
+    ],
+    "synopsis": "Second season of Cang Yuan Tu....",
+    "imageUrl": "https://myanimelist.net/images/anime/1403/155838l.jpg",
+    "malUrl": "https://myanimelist.net/anime/60420/Cang_Yuan_Tu_2"
+  },
+  {
+    "id": 55866,
+    "title": "Yubisaki to Renren",
+    "titleJP": "ゆびさきと恋々",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.2,
+    "scoredBy": 159727,
+    "rank": 449,
+    "popularity": 808,
+    "year": 2024,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Ajia-do"
+    ],
+    "synopsis": "For hearing-impaired university student Yuki Itose, silence has been a natural part of life since birth. Her world is small and isolated; she commutes to campus, interacts with her best friend Rin Fujishiro, and communicates through writing and text messages—a lifestyle that offers little to no change. One day, during her commute, Yuki meets fellow student Itsuomi Nagi, a multilingual travel enthu...",
+    "imageUrl": "https://myanimelist.net/images/anime/1478/140828l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55866/Yubisaki_to_Renren"
+  },
+  {
+    "id": 52578,
+    "title": "Boku no Kokoro no Yabai Yatsu",
+    "titleJP": "僕の心のヤバイやつ",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.2,
+    "scoredBy": 228423,
+    "rank": 436,
+    "popularity": 606,
+    "year": 2023,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "Shin-Ei Animation"
+    ],
+    "synopsis": "Kyoutarou Ichikawa may look like a shy and reserved middle school student, but deep within his heart is a bloodthirsty killer. His ultimate desire is to see his classmate Anna Yamada's beautiful face writhing in pain before he ends her life. But this fantasy may never come to fruition, as Ichikawa starts to see an entirely different side to Yamada.  Often seeking refuge in the library, Ichikawa fr...",
+    "imageUrl": "https://myanimelist.net/images/anime/1545/133887l.jpg",
+    "malUrl": "https://myanimelist.net/anime/52578/Boku_no_Kokoro_no_Yabai_Yatsu"
+  },
+  {
+    "id": 51179,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "titleJP": "無職転生 II ～異世界行ったら本気だす～",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.2,
+    "scoredBy": 439862,
+    "rank": 445,
+    "popularity": 308,
+    "year": 2023,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "Studio Bind"
+    ],
+    "synopsis": "After his relationship with Eris Boreas Greyrat reaches new heights, Rudeus Greyrat is ecstatic. Unfortunately, his joy is short-lived, as Eris suddenly abandons him to embark on her own journey. Believing that Eris has lost all interest in him, a heartbroken and depressed Rudeus sets forth to the Northern Territories. With his sole goal being to locate his mother on the vast continent, Rudeus won...",
+    "imageUrl": "https://myanimelist.net/images/anime/1898/138005l.jpg",
+    "malUrl": "https://myanimelist.net/anime/51179/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu"
+  },
+  {
+    "id": 18617,
+    "title": "Girls & Panzer Movie",
+    "titleJP": "ガールズ&パンツァー 劇場版",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.2,
+    "scoredBy": 64906,
+    "rank": 439,
+    "popularity": 1973,
+    "year": 2015,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Award Winning"
+    ],
+    "themes": [
+      "CGDCT",
+      "Military",
+      "School"
+    ],
+    "studios": [
+      "Actas"
+    ],
+    "synopsis": "Having won the 63rd National Sensha-dou tournament, the girls from Ooarai Girls Academy managed to prevent their school from closure by the Japanese Ministry of Education. However, new troubles loom on the horizon: a ministry official argues that the deal was not legally binding and that the Ooarai school carrier is to be decommissioned. Students and their families are frustrated with this injusti...",
+    "imageUrl": "https://myanimelist.net/images/anime/1776/91467l.jpg",
+    "malUrl": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie"
+  },
+  {
+    "id": 38003,
+    "title": "Bungou Stray Dogs 3rd Season",
+    "titleJP": "文豪ストレイドッグス 第3期",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.2,
+    "scoredBy": 377137,
+    "rank": 437,
+    "popularity": 334,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Detective",
+      "Organized Crime",
+      "Super Power"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Following the conclusion of the three-way organizational war, government bureaucrat Ango Sakaguchi recalls an event that transpired years ago, after the death of the former Port Mafia boss. Osamu Dazai, still a new recruit at the time, was tasked with investigating rumors related to a mysterious explosion that decimated part of the city years ago—and its connection to the alleged reappearance of t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1037/100463l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season"
+  },
+  {
+    "id": 39166,
+    "title": "Girls & Panzer: Saishuushou Part 3",
+    "titleJP": "『ガールズ＆パンツァー 最終章』第3話",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.2,
+    "scoredBy": 16871,
+    "rank": 440,
+    "popularity": 3679,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [],
+    "themes": [
+      "CGDCT",
+      "Military",
+      "School"
+    ],
+    "studios": [
+      "Actas"
+    ],
+    "synopsis": "The quarterfinal round of the Winter Continuous Track Cup is in full swing, and each school is going all out. What started as a furious back-and-forth firefight between Ooarai Girls Academy and Chi-Ha-Tan Academy has become a 12-hour jungle slugfest with neither team having the advantage and almost everyone running on fumes. In spite of this, Miho Nishizumi and her teammates continue to fight into...",
+    "imageUrl": "https://myanimelist.net/images/anime/1894/119214l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39166/Girls___Panzer__Saishuushou_Part_3"
+  },
+  {
+    "id": 23847,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "titleJP": "やはり俺の青春ラブコメはまちがっている。続",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.2,
+    "scoredBy": 745984,
+    "rank": 447,
+    "popularity": 146,
+    "year": 2015,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Love Polygon",
+      "School"
+    ],
+    "studios": [
+      "feel."
+    ],
+    "synopsis": "With the Volunteer Service Club now firmly established, it is receiving more requests from students in search of solutions to their various issues. However, the club members often struggle to see eye to eye when it comes to their problem-solving ideals. The suggestions that Hachiman Hikigaya recommends frequently clash with those of Yukino Yukinoshita, fracturing the relationships within the club....",
+    "imageUrl": "https://myanimelist.net/images/anime/11/75376l.jpg",
+    "malUrl": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku"
+  },
+  {
+    "id": 6811,
+    "title": "InuYasha: Kanketsu-hen",
+    "titleJP": "犬夜叉 完結編",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.2,
+    "scoredBy": 153428,
+    "rank": 441,
+    "popularity": 915,
+    "year": 2009,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "themes": [
+      "Historical",
+      "Love Polygon",
+      "Mythology",
+      "Time Travel"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Thwarted again by Naraku, Inuyasha, Kagome Higurashi, and their friends must continue their hunt for the few remaining Shikon Jewel shards, lest they fully form into a corrupted jewel at the hands of Naraku. But Naraku has plans of his own to acquire them, and will destroy anyone and anything standing in his way—even his own underlings.  The persistent, unyielding danger posed by Naraku forces San...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/75570l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6811/InuYasha__Kanketsu-hen"
+  },
+  {
+    "id": 1382,
+    "title": "Yuusha-Ou GaoGaiGar Final",
+    "titleJP": "勇者王ガオガイガーFINAL",
+    "type": "OVA",
+    "episodes": 8,
+    "score": 8.2,
+    "scoredBy": 5419,
+    "rank": 450,
+    "popularity": 6483,
+    "year": 2000,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Super Power"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "Following Gutsy Galaxy Guard's victory over the Zonder Empire and the 31 Primevals, a new threat makes their appearance on Earth. GGG—with Guy Shishio and the newly-constructed GaoFighGar—team up with their French counterpart Chasseur to battle the evil organization BioNet. Among Chasseur's ranks is Renais Cardiff Shishioh, a former BioNet cyborg with the relentless pursuit of destroying those who...",
+    "imageUrl": "https://myanimelist.net/images/anime/1187/132740l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1382/Yuusha-Ou_GaoGaiGar_Final"
+  },
+  {
+    "id": 16894,
+    "title": "Kuroko no Basket 2nd Season",
+    "titleJP": "黒子のバスケ",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.2,
+    "scoredBy": 587542,
+    "rank": 443,
+    "popularity": 218,
+    "year": 2013,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "School",
+      "Team Sports"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "With the Interhigh Championship finally over, Seirin's basketball team refocuses their efforts, training harder than ever to get the chance to participate in the Winter Cup. Both Tetsuya Kuroko and Taiga Kagami see old friends walk back into their lives, providing a challenge both on and off the court.  As new skills are developed and new alliances created, enemies from various teams—giants of hig...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/56155l.jpg",
+    "malUrl": "https://myanimelist.net/anime/16894/Kuroko_no_Basket_2nd_Season"
+  },
+  {
+    "id": 49590,
+    "title": "Yojouhan Time Machine Blues",
+    "titleJP": "四畳半タイムマシンブルース",
+    "type": "ONA",
+    "episodes": 6,
+    "score": 8.2,
+    "scoredBy": 16042,
+    "rank": 448,
+    "popularity": 3108,
+    "year": 2022,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Suspense"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Psychological",
+      "Time Travel"
+    ],
+    "studios": [
+      "Science SARU"
+    ],
+    "synopsis": "On a hot summer day in Kyoto, a young man walks toward his apartment, dreaming of turning on the air conditioner and cooling down. But before he can turn his dream into reality, disaster naturally strikes in the form of Ozu, who spills soda all over the remote. With the air conditioner rendered completely unusable, the man and his friends are left to suffer in the terrible August heat.  Just when ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1583/126128l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49590/Yojouhan_Time_Machine_Blues"
+  },
+  {
+    "id": 50602,
+    "title": "Spy x Family Part 2",
+    "titleJP": "SPY×FAMILY",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.2,
+    "scoredBy": 616404,
+    "rank": 446,
+    "popularity": 153,
+    "year": 2022,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "themes": [
+      "Childcare",
+      "Super Power"
+    ],
+    "studios": [
+      "Wit Studio",
+      "CloverWorks"
+    ],
+    "synopsis": "With Anya Forger successfully enrolled at the renowned Eden Academy, Operation Strix advances to its second phase. To investigate Ostanian politician Donovan Desmond, Anya must either befriend his son Damian or collect eight Stella Stars to become an Imperial Scholar. Fortunately, Anya has already acquired her first star. In celebration, her adoptive father, Loid, decides to fulfill her wish to ad...",
+    "imageUrl": "https://myanimelist.net/images/anime/1111/127508l.jpg",
+    "malUrl": "https://myanimelist.net/anime/50602/Spy_x_Family_Part_2"
+  },
+  {
+    "id": 39247,
+    "title": "Kobayashi-san Chi no Maid Dragon S",
+    "titleJP": "小林さんちのメイドラゴンS",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.2,
+    "scoredBy": 309095,
+    "rank": 442,
+    "popularity": 407,
+    "year": 2021,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "As Tooru continues on her quest to become the greatest maid and Kanna Kamui fully immerses in her life as an elementary school student, there is not a dull day in the Kobayashi household with mischief being a daily staple. On one such day, however, a massive landslide is spotted on the hill where Kobayashi and Tooru first met—a clear display of a dragon's might. When none of the dragons they know ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1252/115539l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S"
+  },
+  {
+    "id": 18115,
+    "title": "Magi: The Kingdom of Magic",
+    "titleJP": "マギ The kingdom of magic",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.2,
+    "scoredBy": 483739,
+    "rank": 444,
+    "popularity": 233,
+    "year": 2013,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "synopsis": "After celebrating their victory against Al-Thamen, Aladdin and his friends depart the land of Sindria. With the end of the battle, however, comes the time for each of them to go their separate ways. Hakuryuu and Kougyoku are ordered to go back to their home country, the Kou Empire. Meanwhile Aladdin announces he needs to head for Magnostadt—a mysterious country ruled by magicians—to investigate th...",
+    "imageUrl": "https://myanimelist.net/images/anime/13/55039l.jpg",
+    "malUrl": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic"
+  },
+  {
+    "id": 55825,
+    "title": "Jigokuraku 2nd Season",
+    "titleJP": "地獄楽第二期",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.19,
+    "scoredBy": 105673,
+    "rank": 456,
+    "popularity": 761,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "themes": [
+      "Gore",
+      "Historical",
+      "Samurai"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "Seeking the key to the elixir of immortality, the group arrives at the fortress of the island's monstrous ruler, the \"Tensen.\" To survive and escape the island, cooperation becomes essential—regardless of whether one is a condemned criminal or an executioner.  Meanwhile, the shogunate orders additional landings on the island of the Immortal Realm, led by Shugen Yamada Asayemon. Among them are the ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1772/154456l.jpg",
+    "malUrl": "https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season"
+  },
+  {
+    "id": 37171,
+    "title": "Asobi Asobase",
+    "titleJP": "あそびあそばせ",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.19,
+    "scoredBy": 251307,
+    "rank": 451,
+    "popularity": 471,
+    "year": 2018,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy"
+    ],
+    "themes": [
+      "Gag Humor",
+      "School"
+    ],
+    "studios": [
+      "Lerche"
+    ],
+    "synopsis": "During recess, Olivia, a foreign transfer student who doesn't know English, plays a game of \"look-the-other-way\" with Hanako Honda, a loud-mouthed airhead. Their rowdy behavior spurs the ire of Kasumi Nomura, a deadpan loner constantly teased by her older sister for her tendency to lose games. Not willing to compete, Kasumi declines Olivia's offer to join the fun, but eventually gets involved anyw...",
+    "imageUrl": "https://myanimelist.net/images/anime/1139/95077l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37171/Asobi_Asobase"
+  },
+  {
+    "id": 37514,
+    "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+    "titleJP": "劇場版総集編【前編】メイドインアビス 旅立ちの夜明け",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.19,
+    "scoredBy": 60728,
+    "rank": 459,
+    "popularity": 1667,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Gore"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "synopsis": "The movie is a compilation of episodes 1-8 of the 2017 television series with new scenes added for the introduction. It covers the period from when Riko descends into the Abyss with her robot companion Reg, reaching the second layer where they meet the White Whistle Ozen who reveals information about Riko's mother.  (Source: Wikipedia)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1173/95167l.jpg",
+    "malUrl": "https://myanimelist.net/anime/37514/Made_in_Abyss_Movie_1__Tabidachi_no_Yoake"
+  },
+  {
+    "id": 32005,
+    "title": "Meitantei Conan Movie 20: Junkoku no Nightmare",
+    "titleJP": "劇場版　名探偵コナン　純黒の悪夢（ナイトメア）",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.19,
+    "scoredBy": 26270,
+    "rank": 461,
+    "popularity": 3709,
+    "year": 2016,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "themes": [
+      "Detective"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "On a dark night, the Japanese police is raided by a spy. Different countries' intelligence agencies—such as England's MI6, Germany's BND, and America's CIA—as well as the FBI's secret files are going to be taken, but public safety officers lead by Tooru Amuro arrive just in time. The spy steals a car and escapes. The spy and Amuro are then locked in a dead heat on the highway, and just as it is ab...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/78894l.jpg",
+    "malUrl": "https://myanimelist.net/anime/32005/Meitantei_Conan_Movie_20__Junkoku_no_Nightmare"
+  },
+  {
+    "id": 39592,
+    "title": "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei",
+    "titleJP": "機動戦士ガンダム THE ORIGIN 前夜 赤い彗星",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.19,
+    "scoredBy": 12985,
+    "rank": 458,
+    "popularity": 4765,
+    "year": 2019,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "synopsis": "What was the tragedy that decided the fates of Char Aznable, the man later nicknamed the \"Red Comet\" as an ace pilot of the Zeon forces, and his sister Sayla Mass?  The two siblings' journeys, brought on by the sudden death of their father Zeon Zum Deikun who was a leader of the Spacenoids, are depicted in the four episodes of \"Chronicle of Char and Sayla.\"  The Zabi family who seize control of Si...",
+    "imageUrl": "https://myanimelist.net/images/anime/1897/100015l.jpg",
+    "malUrl": "https://myanimelist.net/anime/39592/Kidou_Senshi_Gundam__The_Origin_-_Zenya_Akai_Suisei"
+  },
+  {
+    "id": 3226,
+    "title": "Major S4",
+    "titleJP": "メジャー　（第4シリーズ)",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.19,
+    "scoredBy": 43108,
+    "rank": 460,
+    "popularity": 2980,
+    "year": 2008,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "SynergySP"
+    ],
+    "synopsis": "Having finished high school, Gorou Honda sets his sights on becoming a professional baseball player. His dreams are much more ambitious than becoming a Japanese Baseball League player, so he instead decides to move to the birthplace of his beloved sport, America, in order to play in the Major League.  However, Gorou finds that the Major League players are much faster, stronger, and more driven tha...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/75217l.jpg",
+    "malUrl": "https://myanimelist.net/anime/3226/Major_S4"
+  },
+  {
+    "id": 6864,
+    "title": "xxxHOLiC Rou",
+    "titleJP": "xxxHOLiC 籠",
+    "type": "OVA",
+    "episodes": 2,
+    "score": 8.19,
+    "scoredBy": 34622,
+    "rank": 466,
+    "popularity": 2620,
+    "year": 2010,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Ten years after the events of xxxHOLiC Shunmuki, a melancholic Kimihiro Watanuki has taken over the shop formerly run by the mysterious Yuuko due to a promise he made to her. His companions Maru, Moro, and Mokona live together with him in relative contentment, and some familiar faces arrive every now and then: former rival turned-steadfast friend Shizuka Doumeki, and the former psychic prodigy Koh...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/25080l.jpg",
+    "malUrl": "https://myanimelist.net/anime/6864/xxxHOLiC_Rou"
+  },
+  {
+    "id": 38088,
+    "title": "Digimon Adventure: Last Evolution Kizuna",
+    "titleJP": "デジモンアドベンチャー LAST EVOLUTION 絆",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.19,
+    "scoredBy": 22584,
+    "rank": 453,
+    "popularity": 3153,
+    "year": 2020,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "themes": [],
+    "studios": [
+      "Yumeta Company"
+    ],
+    "synopsis": "As the Chosen Children and their partner Digimon live happily together in the human world, Taichi Yagami and Yamato Ishida, alongside their friends, dedicate themselves to maintaining this hard-earned peace. Though united by this innate responsibility, each one has already started to take their first steps toward a future beyond being a Chosen Child.   However, this new journey is interrupted by t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1654/104884l.jpg",
+    "malUrl": "https://myanimelist.net/anime/38088/Digimon_Adventure__Last_Evolution_Kizuna"
+  },
+  {
+    "id": 40784,
+    "title": "Wu Liuqi: Zui Qiang Fa Xing Shi",
+    "titleJP": "伍六七之最强发型师",
+    "type": "ONA",
+    "episodes": 10,
+    "score": 8.19,
+    "scoredBy": 56512,
+    "rank": 465,
+    "popularity": 2420,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "themes": [
+      "Martial Arts",
+      "Super Power"
+    ],
+    "studios": [
+      "Sharefun Studio"
+    ],
+    "synopsis": "Seeking to recover his memories, a scissor-wielding hairdresser, bungling quasi-assassin stumbles into a struggle for power among two feuding factions.  (Source: IMDb)...",
+    "imageUrl": "https://myanimelist.net/images/anime/1962/153860l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40784/Wu_Liuqi__Zui_Qiang_Fa_Xing_Shi"
+  },
+  {
+    "id": 19123,
+    "title": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+    "titleJP": "ワンピース エピソード・オブ・メリー ～もうひとりの仲間の物語～",
+    "type": "TV Special",
+    "episodes": 1,
+    "score": 8.19,
+    "scoredBy": 34819,
+    "rank": 462,
+    "popularity": 2730,
+    "year": 2013,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Toei Animation"
+    ],
+    "synopsis": "After Brook questions the origin of the Mini Merry name, Usopp and Chopper Tony Tony recall the adventures of the Straw Hat Crew's beloved ship, friend, and crew member—the Going Merry. Usopp abandons the crew for a fight over the Going Merry while Robin Nico leaves with the government's top assassin group, CP9. In order to bring the crew back together, Monkey D. Luffy and the remaining Straw Hats...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/61015l.jpg",
+    "malUrl": "https://myanimelist.net/anime/19123/One_Piece__Episode_of_Merry_-_Mou_Hitori_no_Nakama_no_Monogatari"
+  },
+  {
+    "id": 40052,
+    "title": "Great Pretender",
+    "titleJP": "GREAT PRETENDER",
+    "type": "TV",
+    "episodes": 23,
+    "score": 8.19,
+    "scoredBy": 356807,
+    "rank": 454,
+    "popularity": 309,
+    "year": 2020,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Organized Crime"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "synopsis": "A series of unfortunate events has led Makoto Edamura to adopt the life of crime—pickpocketing and scamming others for a living. However, after swindling a seemingly clueless tourist, Makoto discovers that he was the one tricked and, to make matters worse, that the police are now after him.   While making his escape, he runs into the tourist once again, who turns out to be a fellow con man named L...",
+    "imageUrl": "https://myanimelist.net/images/anime/1418/107954l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40052/Great_Pretender"
+  },
+  {
+    "id": 186,
+    "title": "Initial D Second Stage",
+    "titleJP": "頭文字〈イニシャル〉D SECOND STAGE",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.19,
+    "scoredBy": 152683,
+    "rank": 456,
+    "popularity": 1069,
+    "year": 1999,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "themes": [
+      "Racing"
+    ],
+    "studios": [
+      "Pastel"
+    ],
+    "synopsis": "Accumulating an impressive series of victories with his AE86, Takumi Fujiwara has imposed himself as street racing's newest rising star. However, his newly found confidence of winning at his home turf of Mount Akina has been put in jeopardy by a new Emperor team exclusively using a car model favored by most professional racing pilots: the Mitsubishi four-wheel drive Lancer Evolutions—also known as...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/12750l.jpg",
+    "malUrl": "https://myanimelist.net/anime/186/Initial_D_Second_Stage"
+  },
+  {
+    "id": 138,
+    "title": "Hunter x Hunter: Greed Island",
+    "titleJP": "HUNTER×HUNTER Greed Island",
+    "type": "OVA",
+    "episodes": 8,
+    "score": 8.19,
+    "scoredBy": 92567,
+    "rank": 455,
+    "popularity": 1517,
+    "year": 2003,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Nippon Animation"
+    ],
+    "synopsis": "After the battle with the Spiders, the search for Ging continues as Gon and Killua decided to once again attempt to purchase the rare game \"Greed Island.\" However, Gon came up with a better plan, which was to volunteer to complete the game for the billionaire who owned it. But some training must be done, as Gon and Killua's abilities are still at a developing stage and \"Greed Island\" is no simple ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1902/122320l.jpg",
+    "malUrl": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+  },
+  {
+    "id": 49114,
+    "title": "Vanitas no Karte Part 2",
+    "titleJP": "ヴァニタスの手記",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.19,
+    "scoredBy": 150596,
+    "rank": 464,
+    "popularity": 806,
+    "year": 2022,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mystery"
+    ],
+    "themes": [
+      "Historical",
+      "Urban Fantasy",
+      "Vampire"
+    ],
+    "studios": [
+      "Bones"
+    ],
+    "synopsis": "Vanitas and Noé Archiviste head out to the town of Gévaudan in search of the \"Beast,\" an enormous wolf-like creature that has slaughtered hundreds of people. Suspecting that the Beast is a curse-bearing vampire, Vanitas primarily aims to heal it using the powers of his grimoire.  Along the way, the two get separated and suddenly travel back to the past—to the exact moment the Beast is lurking in t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1247/120579l.jpg",
+    "malUrl": "https://myanimelist.net/anime/49114/Vanitas_no_Karte_Part_2"
+  },
+  {
+    "id": 232,
+    "title": "Cardcaptor Sakura",
+    "titleJP": "カードキャプターさくら",
+    "type": "TV",
+    "episodes": 70,
+    "score": 8.19,
+    "scoredBy": 234144,
+    "rank": 452,
+    "popularity": 535,
+    "year": 1998,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG - Children",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Mahou Shoujo",
+      "School"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Ten-year-old Sakura Kinomoto is an ordinary fourth-grade student living in Tomoeda until, one day, she stumbles upon a mysterious book of cards titled \"The Clow.\" Pondering over her discovery, she unintentionally causes a magical gust of wind to scatter the cards all over town.  The accident awakens the Beast of the Seal—Keroberos, nicknamed \"Kero\"—who tells Sakura that she has released the mystic...",
+    "imageUrl": "https://myanimelist.net/images/anime/8/60781l.jpg",
+    "malUrl": "https://myanimelist.net/anime/232/Cardcaptor_Sakura"
+  },
+  {
+    "id": 44055,
+    "title": "Sasaki to Miyano",
+    "titleJP": "佐々木と宮野",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.19,
+    "scoredBy": 107557,
+    "rank": 463,
+    "popularity": 1195,
+    "year": 2022,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Boys Love"
+    ],
+    "themes": [
+      "Otaku Culture",
+      "School"
+    ],
+    "studios": [
+      "Studio Deen"
+    ],
+    "synopsis": "Yoshikazu Miyano's troubles first start one hot summer day when Shuumei Sasaki steps into his life. Sasaki saves Miyano's classmate from a group of bullies, and after that, Miyano cannot seem to shake off his eccentric upperclassman. His silent admiration for Sasaki gradually sours into annoyance each time the so-called delinquent refuses to leave him alone. Constantly being called by cute nicknam...",
+    "imageUrl": "https://myanimelist.net/images/anime/1182/119308l.jpg",
+    "malUrl": "https://myanimelist.net/anime/44055/Sasaki_to_Miyano"
+  },
+  {
+    "id": 62927,
+    "title": "Fangkai Nage Nuwu",
+    "titleJP": "放开那个女巫",
+    "type": "ONA",
+    "episodes": 8,
+    "score": 8.18,
+    "scoredBy": 3142,
+    "rank": 471,
+    "popularity": 5972,
+    "year": 2026,
+    "season": null,
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai"
+    ],
+    "studios": [
+      "Thundray"
+    ],
+    "synopsis": "Modern man Cheng Yan unexpectedly dies and his soul travels to a medieval European-style otherworldly continent, becoming Roland, the fourth prince of the Kingdom of Graycastle. This playboy prince saves the witch Anna at an execution scene and is shocked to discover that magic really exists in this medieval-style otherworld.  When Anna, as a witch, displays her magical skills, Roland realizes tha...",
+    "imageUrl": "https://myanimelist.net/images/anime/1381/153536l.jpg",
+    "malUrl": "https://myanimelist.net/anime/62927/Fangkai_Nage_Nuwu"
+  },
+  {
+    "id": 59970,
+    "title": "Tensei shitara Slime Datta Ken 4th Season",
+    "titleJP": "転生したらスライムだった件 第4期",
+    "type": "TV",
+    "episodes": null,
+    "score": 8.18,
+    "scoredBy": 10554,
+    "rank": 487,
+    "popularity": 1630,
+    "year": 2026,
+    "season": "spring",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
+    "studios": [
+      "8bit"
+    ],
+    "synopsis": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!...",
+    "imageUrl": "https://myanimelist.net/images/anime/1695/156389l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season"
+  },
+  {
+    "id": 59654,
+    "title": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
+    "titleJP": "呪術廻戦 懐玉・玉折",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.18,
+    "scoredBy": 11937,
+    "rank": 477,
+    "popularity": 3241,
+    "year": 2025,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [
+      "Gore",
+      "School"
+    ],
+    "studios": [
+      "MAPPA"
+    ],
+    "synopsis": "A compilation movie of Jujutsu Kaisen's Hidden Inventory and Premature Death arc....",
+    "imageUrl": "https://myanimelist.net/images/anime/1999/147023l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59654/Jujutsu_Kaisen__Kaigyoku_Gyokusetsu"
+  },
+  {
+    "id": 56009,
+    "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "titleJP": "勇者刑に処す 懲罰勇者9004隊刑務記録",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.18,
+    "scoredBy": 111567,
+    "rank": 488,
+    "popularity": 953,
+    "year": 2026,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "themes": [],
+    "studios": [
+      "Studio KAI"
+    ],
+    "synopsis": "In a world where the title of Hero is treated as a punishment rather than an honor, the worst criminals are sentenced to the front lines of an endless war against the Demon Lords. Branded as Heroes, they are forced into military service without even the mercy of death, condemned to be revived and sent back into battle forever.  Among them is Xylo Forbartz, once a respected commander of the Holy Kn...",
+    "imageUrl": "https://myanimelist.net/images/anime/1062/151911l.jpg",
+    "malUrl": "https://myanimelist.net/anime/56009/Yuusha-kei_ni_Shosu__Choubatsu_Yuusha_9004-tai_Keimu_Kiroku"
+  },
+  {
+    "id": 53065,
+    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+    "titleJP": "その着せ替え人形は恋をする Season 2",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.18,
+    "scoredBy": 199611,
+    "rank": 485,
+    "popularity": 569,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "Otaku Culture",
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "After Marin Kitagawa introduced Wakana Gojou to the world of cosplay, he has been creating her outfits with ease. Even so, he still has a lot to learn, and every new lesson seems to strengthen his love for sewing and for the hina dolls his grandfather taught him to make.  Meanwhile, Kitagawa finds it harder and harder to hide her feelings for Gojou. Friends and strangers alike constantly mistake t...",
+    "imageUrl": "https://myanimelist.net/images/anime/1024/150787l.jpg",
+    "malUrl": "https://myanimelist.net/anime/53065/Sono_Bisque_Doll_wa_Koi_wo_Suru_Season_2"
+  },
+  {
+    "id": 34537,
+    "title": "Yoru wa Mijikashi Arukeyo Otome",
+    "titleJP": "夜は短し歩けよ乙女",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.18,
+    "scoredBy": 57508,
+    "rank": 488,
+    "popularity": 1853,
+    "year": 2017,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R+ - Mild Nudity",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast"
+    ],
+    "studios": [
+      "Science SARU"
+    ],
+    "synopsis": "On a mysterious night that seems to last for a year, an ordinary college student continues to chase one of his underclassmen, a girl with black hair—the girl of his dreams. Up until now, he has been relying on a simple plan, which is to calculatingly bump into her every day while making it seem like a meaningful coincidence. However, his efforts remain futile as their relationship is not progressi...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/86940l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34537/Yoru_wa_Mijikashi_Arukeyo_Otome"
+  },
+  {
+    "id": 36370,
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2",
+    "titleJP": "銀河英雄伝説 Die Neue These 星乱 第2章",
+    "type": "Movie",
+    "episodes": 4,
+    "score": 8.18,
+    "scoredBy": 15071,
+    "rank": 473,
+    "popularity": 4018,
+    "year": 2019,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Military",
+      "Space"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Marquis Reinhard von Lohengramm's plot to destabilize the Free Planets Alliance succeeds when the treacherous former Rear Admiral Arthur Lynch instigates a coup on Heinessen. Equipped with a plan crafted by Reinhard himself, Lynch encourages his longtime friend Admiral Dwight Greenhill to supervise the National Salvation Military Council's toppling of the civilian government. Seeking to defend dem...",
+    "imageUrl": "https://myanimelist.net/images/anime/1215/103351l.jpg",
+    "malUrl": "https://myanimelist.net/anime/36370/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_2"
+  },
+  {
+    "id": 10800,
+    "title": "Chihayafuru",
+    "titleJP": "ちはやふる",
+    "type": "TV",
+    "episodes": 25,
+    "score": 8.18,
+    "scoredBy": 195105,
+    "rank": 470,
+    "popularity": 521,
+    "year": 2011,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "themes": [
+      "Love Polygon",
+      "School",
+      "Strategy Game"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "As a child, Chihaya Ayase had only one dream: to see her elder sister Chitose become Japan's most successful model. However, upon defending her ostracised classmate Arata Wataya from his bully—Chihaya's childhood friend Taichi Mashima—she discovers the world of competitive karuta and soon becomes enamoured with the sport.  Based on the Ogura Hundred Poets anthology, this card game where poems are ...",
+    "imageUrl": "https://myanimelist.net/images/anime/1959/156735l.jpg",
+    "malUrl": "https://myanimelist.net/anime/10800/Chihayafuru"
+  },
+  {
+    "id": 7791,
+    "title": "K-On!!",
+    "titleJP": "けいおん!!",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.18,
+    "scoredBy": 413615,
+    "rank": 478,
+    "popularity": 306,
+    "year": 2010,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Award Winning",
+      "Comedy"
+    ],
+    "themes": [
+      "CGDCT",
+      "Music",
+      "School"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "synopsis": "It is the new year, which means that the senior members of the Light Music Club are now third-years, with Azusa Nakano being the only second-year. The seniors soon realize that Azusa will be the only member left once they graduate and decide to recruit new members. Despite trying many methods of attracting underclassmen—handing out fliers, bringing people into the clubroom, and performing at the w...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/76121l.jpg",
+    "malUrl": "https://myanimelist.net/anime/7791/K-On"
+  },
+  {
+    "id": 22297,
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "titleJP": "Fate/stay night [Unlimited Blade Works]",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.18,
+    "scoredBy": 729978,
+    "rank": 472,
+    "popularity": 142,
+    "year": 2014,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "themes": [
+      "Urban Fantasy"
+    ],
+    "studios": [
+      "ufotable"
+    ],
+    "synopsis": "The Holy Grail War is a battle royale among seven magi who serve as Masters. Masters, through the use of the command seals they are given when they enter the war, command Heroic Spirits known as Servants to fight for them in battle. In the Fifth Holy Grail War, Rin Toosaka is among the magi entering the competition. With her Servant, Archer, she hopes to obtain the ultimate prize—the Holy Grail, a...",
+    "imageUrl": "https://myanimelist.net/images/anime/12/67333l.jpg",
+    "malUrl": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+  },
+  {
+    "id": 4107,
+    "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+    "titleJP": "劇場版 天元突破グレンラガン 紅蓮篇",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.18,
+    "scoredBy": 90164,
+    "rank": 486,
+    "popularity": 1437,
+    "year": 2008,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "themes": [
+      "Mecha"
+    ],
+    "studios": [
+      "Gainax"
+    ],
+    "synopsis": "Animation studio Gainax presented a website for the release of a movie adaptation of the Tengen Toppa Gurren Lagann TV series in the fall of 2008. Both the original director and series script editor will return to work on the new project. Gainax will also be hosting four events to celebrate this occasion at this year's Tokyo International Anime Fair, featuring voice actors from the anime....",
+    "imageUrl": "https://myanimelist.net/images/anime/1270/115752l.jpg",
+    "malUrl": "https://myanimelist.net/anime/4107/Tengen_Toppa_Gurren_Lagann_Movie_1__Gurren-hen"
+  },
+  {
+    "id": 40729,
+    "title": "Nomad: Megalo Box 2",
+    "titleJP": "NOMAD メガロボクス2",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.18,
+    "scoredBy": 92058,
+    "rank": 483,
+    "popularity": 1224,
+    "year": 2021,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Sci-Fi",
+      "Sports"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Combat Sports"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Megalo Box is an advanced form of boxing where competitors wear metal frames called Gear. When the first ever Megalonia tournament took place, \"Gearless\" Joe became its champion and known to all as a legendary fighter. However, soon after, he lost an exhibition match against the second champion and vanished from the public eye.  Seven years later, Joe now goes by \"Nomad\" and keeps a low profile, o...",
+    "imageUrl": "https://myanimelist.net/images/anime/1190/113352l.jpg",
+    "malUrl": "https://myanimelist.net/anime/40729/Nomad__Megalo_Box_2"
+  },
+  {
+    "id": 18195,
+    "title": "Little Busters! Refrain",
+    "titleJP": "リトルバスターズ！～Refrain～",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.18,
+    "scoredBy": 81497,
+    "rank": 479,
+    "popularity": 1559,
+    "year": 2013,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Following the Little Busters after they lost their first baseball game, the team decides to have a pancake party. It has been almost one semester since the return of Kyousuke Natsume. As usual, Riki Naoe continues to help the Little Busters' members—both old and new—with confronting their inner struggles. However, strange happenings begin to occur, leading Rin Natsume and Riki closer to unraveling...",
+    "imageUrl": "https://myanimelist.net/images/anime/10/55049l.jpg",
+    "malUrl": "https://myanimelist.net/anime/18195/Little_Busters_Refrain"
+  },
+  {
+    "id": 1519,
+    "title": "Black Lagoon: The Second Barrage",
+    "titleJP": "BLACK LAGOON The Second Barrage",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.18,
+    "scoredBy": 341527,
+    "rank": 469,
+    "popularity": 434,
+    "year": 2006,
+    "season": "fall",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Organized Crime"
+    ],
+    "studios": [
+      "Madhouse"
+    ],
+    "synopsis": "Rokurou \"Rock\" Okajima has joined the Lagoon Company, a pirate mercenary group which operates out of Roanapur, Thailand. Despite his initial protests, this filthy slum of depraved souls and merciless criminals now serves as the former salaryman's home. Stranded, with nothing left of his past life but the clothes on his back and his inner morality, Rock is forced to perform jobs alongside the other...",
+    "imageUrl": "https://myanimelist.net/images/anime/1701/152849l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage"
+  },
+  {
+    "id": 1142,
+    "title": "Hachimitsu to Clover II",
+    "titleJP": "ハチミツとクローバー II",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.18,
+    "scoredBy": 56718,
+    "rank": 474,
+    "popularity": 2044,
+    "year": 2006,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Adult Cast",
+      "Love Polygon",
+      "Visual Arts"
+    ],
+    "studios": [
+      "J.C.Staff"
+    ],
+    "synopsis": "Back from his journey across Japan, Yuuta Takemoto reminisces about his college life so far. He has matured significantly since his second year and is motivated to move forward.  Feeling more confident than ever before, he finally confesses to Hagumi Hanamoto, the girl he has been in love with since their first encounter. However, Hagumi has been confused by her attempts to understand the mysterio...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/11040l.jpg",
+    "malUrl": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II"
+  },
+  {
+    "id": 962,
+    "title": "Aria the Natural",
+    "titleJP": "ARIA The NATURAL",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.18,
+    "scoredBy": 32293,
+    "rank": 466,
+    "popularity": 2624,
+    "year": 2006,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "G - All Ages",
+    "genres": [
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "themes": [
+      "Iyashikei"
+    ],
+    "studios": [
+      "HAL Film Maker"
+    ],
+    "synopsis": "Akari Mizunashi continues her training to become a Prima Undine (a professional tour guide gondolier) along with her friends Aika and Alice in the peaceful city of Neo Venezia. Despite the fact that these three girls are from competing companies, they are constantly together, learning more about how to become better tour guides and more about the mysteries of Neo Venezia.  As the group continues t...",
+    "imageUrl": "https://myanimelist.net/images/anime/2/77621l.jpg",
+    "malUrl": "https://myanimelist.net/anime/962/Aria_the_Natural"
+  },
+  {
+    "id": 558,
+    "title": "Major S2",
+    "titleJP": "メジャー (第2シリーズ)",
+    "type": "TV",
+    "episodes": 26,
+    "score": 8.18,
+    "scoredBy": 47994,
+    "rank": 480,
+    "popularity": 2814,
+    "year": 2006,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Team Sports"
+    ],
+    "studios": [
+      "Studio Hibari"
+    ],
+    "synopsis": "Gorou Honda has finally returned to Mifune East Junior High School, surprising his friends upon arrival. Now, Gorou is once again surrounded by those he holds closest, and he strives to continue playing and enjoying the game he loves most.  However, things do not go as planned, as Gorou is reminded of the harsh realities of baseball as he copes with an injury he sustained while playing baseball at...",
+    "imageUrl": "https://myanimelist.net/images/anime/6/73972l.jpg",
+    "malUrl": "https://myanimelist.net/anime/558/Major_S2"
+  },
+  {
+    "id": 42894,
+    "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+    "titleJP": "夏目友人帳 石起こしと怪しき来訪者",
+    "type": "Movie",
+    "episodes": 1,
+    "score": 8.18,
+    "scoredBy": 14030,
+    "rank": 482,
+    "popularity": 3456,
+    "year": 2021,
+    "season": null,
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "themes": [
+      "Iyashikei",
+      "Mythology"
+    ],
+    "studios": [
+      "Shuka"
+    ],
+    "synopsis": "Ishi Okoshi While searching for Nyanko-sensei, Takashi Natsume encounters meek and small-looking youkai Mitsumi. Mitsumi was entrusted by his leader Gantetsu, a powerful and strong ayakashi, to be the year's \"Ishi Okoshi,\" whose role consists of waking him from his deep slumber. Seeing how much Mitsumi wants to prove himself as Gantetsu's worthy servant, Natsume decides to help him fulfill his tas...",
+    "imageUrl": "https://myanimelist.net/images/anime/1992/111560l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42894/Natsume_Yuujinchou__Ishi_Okoshi_to_Ayashiki_Raihousha"
+  },
+  {
+    "id": 23623,
+    "title": "Non Non Biyori Repeat",
+    "titleJP": "のんのんびより りぴーと",
+    "type": "TV",
+    "episodes": 12,
+    "score": 8.18,
+    "scoredBy": 107512,
+    "rank": 484,
+    "popularity": 1305,
+    "year": 2015,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Slice of Life"
+    ],
+    "themes": [
+      "CGDCT",
+      "Iyashikei",
+      "School"
+    ],
+    "studios": [
+      "SILVER LINK."
+    ],
+    "synopsis": "Far from the hustle and bustle of urban life, and with only a single candy store and bus route to its name, the rural Asahigaoka is certainly not a place for everyone. Nevertheless, the village's children still manage to cheerfully spend their days exploring and having fun in the wilderness around them. One such child, Renge Miyauchi, the youngest of the group, looks forward to the entrance ceremo...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/75105l.jpg",
+    "malUrl": "https://myanimelist.net/anime/23623/Non_Non_Biyori_Repeat"
+  },
+  {
+    "id": 18,
+    "title": "Initial D Fourth Stage",
+    "titleJP": "頭文字〈イニシャル〉D FOURTH STAGE",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.18,
+    "scoredBy": 119368,
+    "rank": 476,
+    "popularity": 1300,
+    "year": 2004,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "themes": [
+      "Racing"
+    ],
+    "studios": [
+      "A.C.G.T."
+    ],
+    "synopsis": "Takumi Fujiwara finally joins Ryousuke and Keisuke Takahashi to create \"Project D.\" Their goal is twofold: Ryousuke wants to develop his \"High-Speed Street Racing Theory,\" while Keisuke and Takumi aim at improving their driving skills by facing powerful opponents on dangerous roads. The idea of Project D is to challenge street racing teams from other prefectures to improve both their uphill and do...",
+    "imageUrl": "https://myanimelist.net/images/anime/9/10521l.jpg",
+    "malUrl": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage"
+  },
+  {
+    "id": 42897,
+    "title": "Horimiya",
+    "titleJP": "ホリミヤ",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.18,
+    "scoredBy": 991637,
+    "rank": 475,
+    "popularity": 79,
+    "year": 2021,
+    "season": "winter",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds. After all, Hori has a perfect combination of beauty and brains, while Miyamura appears meek and distant to his fellow classmates. However, a fateful meeting between the two lays both of their hidden selves bare. Even though she is popular at school, Hori has little time to sociali...",
+    "imageUrl": "https://myanimelist.net/images/anime/1695/111486l.jpg",
+    "malUrl": "https://myanimelist.net/anime/42897/Horimiya"
+  },
+  {
+    "id": 235,
+    "title": "Meitantei Conan",
+    "titleJP": "名探偵コナン",
+    "type": "TV",
+    "episodes": null,
+    "score": 8.18,
+    "scoredBy": 170122,
+    "rank": 481,
+    "popularity": 725,
+    "year": 1996,
+    "season": "winter",
+    "status": "Currently Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "themes": [
+      "Detective"
+    ],
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "synopsis": "Shinichi Kudou, a high school student of astounding talent in detective work, is well known for having solved several challenging cases. One day, when Shinichi spots two suspicious men and decides to follow them, he inadvertently becomes witness to a disturbing illegal activity. Unfortunately, he is caught in the act, so the men dose him with an experimental drug formulated by their criminal organ...",
+    "imageUrl": "https://myanimelist.net/images/anime/7/75199l.jpg",
+    "malUrl": "https://myanimelist.net/anime/235/Meitantei_Conan"
+  },
+  {
+    "id": 34636,
+    "title": "Ballroom e Youkoso",
+    "titleJP": "ボールルームへようこそ",
+    "type": "TV",
+    "episodes": 24,
+    "score": 8.18,
+    "scoredBy": 160387,
+    "rank": 468,
+    "popularity": 753,
+    "year": 2017,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Sports"
+    ],
+    "themes": [
+      "Performing Arts"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "synopsis": "Tatara Fujita is a shy middle schooler who has no particular plan for the future. He has gotten through life by avoiding any kind of confrontation and blending in with the crowd. But blending in isn't enough to get out of trouble, as some bullies harass him for money. Luckily, he is saved by a man named Kaname Sengoku.  Kaname invites Tatara to his dance studio. Although he would normally never se...",
+    "imageUrl": "https://myanimelist.net/images/anime/5/86739l.jpg",
+    "malUrl": "https://myanimelist.net/anime/34636/Ballroom_e_Youkoso"
+  },
+  {
+    "id": 59228,
+    "title": "Kuroshitsuji: Midori no Majo-hen",
+    "titleJP": "黒執事 -緑の魔女編-",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.17,
+    "scoredBy": 25536,
+    "rank": 491,
+    "popularity": 2899,
+    "year": 2025,
+    "season": "spring",
+    "status": "Finished Airing",
+    "rating": "R - 17+ (violence & profanity)",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "themes": [
+      "Historical",
+      "Mythology"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "Queen Victoria of England has ordered her loyal watchdog, 13-year-old Earl Ciel Phantomhive, to investigate a series of suspicious deaths in southern Germany. Across multiple villages, all the victims have one thing in common: they had entered the so-called Werewolves' Forest right before they developed strange deformities and subsequently died. The rumors put blame on a \"witch's curse,\" the nearb...",
+    "imageUrl": "https://myanimelist.net/images/anime/1517/148292l.jpg",
+    "malUrl": "https://myanimelist.net/anime/59228/Kuroshitsuji__Midori_no_Majo-hen"
+  },
+  {
+    "id": 57433,
+    "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+    "titleJP": "青春ブタ野郎はサンタクロースの夢を見ない",
+    "type": "TV",
+    "episodes": 13,
+    "score": 8.17,
+    "scoredBy": 68119,
+    "rank": 494,
+    "popularity": 1323,
+    "year": 2025,
+    "season": "summer",
+    "status": "Finished Airing",
+    "rating": "PG-13 - Teens 13 or older",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "themes": [
+      "School"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "synopsis": "After surviving the entrance exams, Sakuta Azusagawa has finally enrolled in the same university as his girlfriend, Mai Sakurajima. He is gradually getting used to the unfamiliar environment as he attends student gatherings and makes new acquaintances. Everything seems to be going smoothly until Sakuta's friend and Sweet Bullet idol group member Uzuki Hirokawa begins acting out.  With fellow Sweet...",
+    "imageUrl": "https://myanimelist.net/images/anime/1823/149858l.jpg",
+    "malUrl": "https://myanimelist.net/anime/57433/Seishun_Buta_Yarou_wa_Santa_Claus_no_Yume_wo_Minai"
+  }
+];
+
+// Pre-extracted unique genres for filter UI
+const allGenres = ["Drama","Action","Adventure","Comedy","Fantasy","Supernatural","Sci-Fi","Romance","Mystery","Suspense","Award Winning","Sports","Slice of Life","Horror","Boys Love","Ecchi","Avant Garde","Gourmet"];
+const allRatings = ["G - All Ages","PG - Children","PG-13 - Teens 13 or older","R - 17+ (violence & profanity)","R+ - Mild Nudity","Rx - Hentai"];
