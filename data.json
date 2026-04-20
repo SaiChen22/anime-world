@@ -1,12 +1,4 @@
-// ============================================================
-// Anime Catalog — Static Dataset
-// Source: MyAnimeList via Jikan API (jikan.moe)
-// Generated: 2026-04-19T04:03:06.572Z
-// Total entries: 500
-// NOTE: No API calls at runtime. This is pre-fetched static data.
-// ============================================================
-
-const animeData = [
+[
   {
     "id": 52991,
     "title": "Sousou no Frieren",
@@ -14531,8 +14523,4 @@ const animeData = [
     "imageUrl": "https://myanimelist.net/images/anime/1823/149858l.jpg",
     "malUrl": "https://myanimelist.net/anime/57433/Seishun_Buta_Yarou_wa_Santa_Claus_no_Yume_wo_Minai"
   }
-];
-
-// Pre-extracted unique genres for filter UI
-const allGenres = ["Drama","Action","Adventure","Comedy","Fantasy","Supernatural","Sci-Fi","Romance","Mystery","Suspense","Award Winning","Sports","Slice of Life","Horror","Boys Love","Ecchi","Avant Garde","Gourmet"];
-const allRatings = ["G - All Ages","PG - Children","PG-13 - Teens 13 or older","R - 17+ (violence & profanity)","R+ - Mild Nudity","Rx - Hentai"];
+]
