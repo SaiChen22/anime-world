@@ -26,11 +26,18 @@
 //---------------------------State---------------------------
 //Single source of truth for all UI statue.
 
-const state = {
+const defaultState = {
   search: "",
   filters: { genre: "", type: "" },
   sort: { by: "score", order: "desc" },
   pagination: { currentPage: 1, pageSize: 20 },
+};
+
+const state = {
+  search: defaultState.search,
+  filters: { ...defaultState.filters },
+  sort: { ...defaultState.sort },
+  pagination: { ...defaultState.pagination },
 };
 
 // Populated once at init; never changes after that
@@ -43,7 +50,15 @@ let animeData = [];
 //function that takes in the raw data and returns the data that should be rendered on the page based on the current state
 function filterData(data,state){
   return data.filter((anime) => {
-    const matchesSearch = anime.title.toLowerCase().includes(state.search.toLowerCase());
+    const search = state.search.toLowerCase().trim();
+    const studioNames = Array.isArray(anime.studios) ? anime.studios : [];
+    
+    const matchesSearch = search === "" ||
+      (anime.title || "").toLowerCase().includes(search) ||
+      (anime.titleJP || "").toLowerCase().includes(search) ||
+      studioNames.some(studio => studio.toLowerCase().trim().includes(search));
+
+
     const matchesGenre = state.filters.genre ? anime.genres.includes(state.filters.genre) : true;
     const matchesType = state.filters.type ? anime.type === state.filters.type : true;
 
@@ -51,6 +66,7 @@ function filterData(data,state){
   })
 }
 
+//function that takes in the filtered data and returns it sorted based on the current sort state
 function sortData(data,sortState){
   const {by,order} = sortState;
 
@@ -72,6 +88,7 @@ function sortData(data,sortState){
   return sortedData;
 }
 
+//function that takes in the sorted data and returns it paginated based on the current pagination state
 function paginateData(data,paginationState){
   const {currentPage,pageSize} = paginationState;
   const startIndex = (currentPage - 1) * pageSize;
@@ -129,18 +146,53 @@ function renderCards(items) {
 // Builds a single card DOM element from one anime object.
 function createCard(anime) {
   const card = document.createElement("div");
+  card.className = "card";
 
   const scoreText = anime.score != null ? anime.score.toFixed(2) : "N/A";
   const yearText = anime.year != null ? anime.year : "—";
   const popularityText = anime.popularity != null ? anime.popularity : "N/A";
   const synopsisText = anime.synopsis ? anime.synopsis : "No synopsis available.";
+  const studiosText = Array.isArray(anime.studios) && anime.studios.length > 0
+    ? anime.studios.join(", ")
+    : "N/A";
 
   const genreTags = anime.genres
     .map(g => `<span class="genre-tag">${g}</span>`)
     .join("");
 
   card.innerHTML = `
-    <img class="anime-image" src="${anime.image_url}" alt="${anime.title} cover image" />
+    <a class="card-image-link" href="${anime.malUrl}" target="_blank" rel="noopener">
+      <img src="${anime.imageUrl}" alt="${anime.title} poster" loading="lazy" />
+    </a>
+    <div class="card-content">
+      <h2><a href="${anime.malUrl}" target="_blank" rel="noopener">${anime.title}</a></h2>
+      <p class="title-jp">${anime.titleJP}</p>
+
+      <div class="stats-grid">
+        <div class="stat-item">
+          <span class="stat-label">Type</span>
+          <span class="stat-value">${anime.type || "N/A"}</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Year</span>
+          <span class="stat-value">${yearText}</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Score</span>
+          <span class="stat-value">${scoreText}</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Popularity</span>
+          <span class="stat-value">${popularityText}</span>
+        </div>
+      </div>
+      <p class="studio-line">
+        <span class="studio-label">Studios:</span> ${studiosText}
+      </p>
+
+      <div class="genres">${genreTags}</div>
+      <p class="synopsis">${synopsisText}</p>
+    </div>
   `;
   return card;
 }
@@ -149,6 +201,9 @@ function createCard(anime) {
 function populateFilters(genres,types){
   const genreSelect = document.getElementById("genre-select");
   const typeSelect = document.getElementById("type-select");
+
+  genreSelect.innerHTML = `<option value="">All Genres</option>`;
+  typeSelect.innerHTML = `<option value="">All Types</option>`;
 
   genres.forEach((genre) => {
     const option = document.createElement("option");
@@ -174,6 +229,7 @@ function renderPagination(totalPages, currentPage) {
   const addBtn = (label, page, disabled, active) => {
     const btn = document.createElement("button");
     btn.textContent = label;
+    btn.className = "page-btn" + (active ? " active" : "");
     btn.disabled = disabled;
     if (!disabled) btn.addEventListener("click", () => onPageChange(page));
     container.appendChild(btn);
@@ -192,6 +248,7 @@ function renderPagination(totalPages, currentPage) {
     if (p - prev > 1) {
       const ellipsis = document.createElement("span");
       ellipsis.textContent = "…";
+      ellipsis.className = "ellipsis";
       container.appendChild(ellipsis);
     }
     addBtn(p, p, false, p === currentPage);
@@ -214,17 +271,109 @@ function renderResultCount(filteredCount) {
   resultCount.textContent = `Showing ${start}–${end} of ${filteredCount} results`;
 }
 
+//-------------------------Event Handlers----------------------------------------------------
+//search input handler; updates state and triggers re-render on every keystroke
+function onSearchInput(e) {
+  state.search = e.target.value.trim();
+  state.pagination.currentPage = 1;
+  render();
+}
+
+//filter change handler; updates state and triggers re-render when either filter dropdown changes
+function onFilterChange(e) {
+  if (e.target.id === "genre-select") {
+    state.filters.genre = e.target.value;
+  } else if (e.target.id === "type-select") {
+    state.filters.type = e.target.value;
+  }
+  state.pagination.currentPage = 1;
+  render();
+}
+
+//sort change handler; updates state and triggers re-render when sort dropdown changes
+function onSortChange(e) {
+  const [by, order] = e.target.value.split("-");
+  state.sort.by = by;
+  state.sort.order = order;
+  render();
+}
+
+//pagination button handler; updates state and triggers re-render when a pagination button is clicked; also scrolls to top of page
+function onPageChange(newPage) {
+  state.pagination.currentPage = newPage;
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+//header click handler; resets all filters and search and goes back to page 1
+function onHeaderActivate() {
+  onReset();
+}
+
+// Resets all UI controls to match the current state values; useful after programmatically changing state.
+function syncControlsToState() {
+  document.getElementById("search-bar").value = state.search;
+  document.getElementById("genre-select").value = state.filters.genre;
+  document.getElementById("type-select").value = state.filters.type;
+  document.getElementById("sort-select").value = `${state.sort.by}-${state.sort.order}`;
+}
+
+// Reset button handler; resets state to default values and syncs controls, then re-renders and scrolls to top.
+function onReset() {
+  state.search = defaultState.search;
+  state.filters.genre = defaultState.filters.genre;
+  state.filters.type = defaultState.filters.type;
+  state.sort.by = defaultState.sort.by;
+  state.sort.order = defaultState.sort.order;
+  state.pagination.currentPage = defaultState.pagination.currentPage;
+
+  syncControlsToState();
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+// Clear search button handler; clears the search input and resets to page 1, but keeps filters and sort intact.
+function onClearSearch() {
+  if (state.search === "") {
+    return;
+  }
+
+  state.search = "";
+  state.pagination.currentPage = 1;
+  syncControlsToState();
+  render();
+}
+
+
+
 
 
 //------------------Initialization------------------
 async function init(){
-  await loadAnimeData();
-  allGenres = getUniqueValues(animeData,"genres");
-  allTypes = getUniqueValues(animeData,"type");
+  try {
+    await loadAnimeData();
+    availableGenres = getUniqueValues(animeData, "genres");
+    allTypes = getUniqueValues(animeData, "type");
 
-  populateFilters(allGenres,allTypes);
-  
-  render();
+    populateFilters(availableGenres, allTypes);
+    syncControlsToState();
+
+    const header = document.querySelector(".main-header");
+    header.addEventListener("click", onHeaderActivate);
+
+    document.getElementById("search-bar").addEventListener("input", onSearchInput);
+    document.getElementById("clear-search").addEventListener("click", onClearSearch);
+    document.getElementById("reset-button").addEventListener("click", onReset);
+    document.getElementById("genre-select").addEventListener("change", onFilterChange);
+    document.getElementById("type-select").addEventListener("change", onFilterChange);
+    document.getElementById("sort-select").addEventListener("change", onSortChange);
+
+    render();
+  } catch (error) {
+    console.error(error);
+    document.getElementById("result-count").textContent =
+      "Unable to load data.json. Open this project with a local web server.";
+  }
 
 }
 
