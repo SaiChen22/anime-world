@@ -115,7 +115,7 @@ function getUniqueValues(data, field) {
 }
 
 async function loadAnimeData() {
-  const response = await fetch("data.json", { cache: "no-store" });
+  const response = await fetch("data.json");
   if (!response.ok) {
     throw new Error(`Failed to load data.json (${response.status})`);
   }
