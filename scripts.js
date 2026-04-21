@@ -37,251 +37,7 @@ const state = {
 //page-wide data that we can use for filtering and sorting
 let allGenres = [];
 let allTypes  = [];
-const animeData = [
-  {
-    "id": 52991,
-    "title": "Sousou no Frieren",
-    "titleJP": "葬送のフリーレン",
-    "type": "TV",
-    "episodes": 28,
-    "score": 9.27,
-    "scoredBy": 873408,
-    "rank": 1,
-    "popularity": 104,
-    "year": 2023,
-    "season": "fall",
-    "status": "Finished Airing",
-    "rating": "PG-13 - Teens 13 or older",
-    "genres": [
-      "Adventure",
-      "Award Winning",
-      "Drama",
-      "Fantasy"
-    ],
-    "themes": [],
-    "studios": [
-      "Madhouse"
-    ],
-    "synopsis": "During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.  However, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted...",
-    "imageUrl": "https://myanimelist.net/images/anime/1015/138006l.jpg",
-    "malUrl": "https://myanimelist.net/anime/52991/Sousou_no_Frieren"
-  },
-  {
-    "id": 61469,
-    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
-    "titleJP": "スティール・ボール・ラン ジョジョの奇妙な冒険",
-    "type": "ONA",
-    "episodes": null,
-    "score": 9.15,
-    "scoredBy": 88238,
-    "rank": 2,
-    "popularity": 1430,
-    "year": 2026,
-    "season": null,
-    "status": "Currently Airing",
-    "rating": "R - 17+ (violence & profanity)",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Mystery",
-      "Supernatural"
-    ],
-    "themes": [
-      "Historical",
-      "Racing"
-    ],
-    "studios": [
-      "David Production"
-    ],
-    "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a...",
-    "imageUrl": "https://myanimelist.net/images/anime/1448/154111l.jpg",
-    "malUrl": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken"
-  },
-  {
-    "id": 5114,
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "titleJP": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-    "type": "TV",
-    "episodes": 64,
-    "score": 9.11,
-    "scoredBy": 2305377,
-    "rank": 3,
-    "popularity": 3,
-    "year": 2009,
-    "season": "spring",
-    "status": "Finished Airing",
-    "rating": "R - 17+ (violence & profanity)",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "themes": [
-      "Military"
-    ],
-    "studios": [
-      "Bones"
-    ],
-    "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an ar...",
-    "imageUrl": "https://myanimelist.net/images/anime/1208/94745l.jpg",
-    "malUrl": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
-  },
-  {
-    "id": 57555,
-    "title": "Chainsaw Man Movie: Reze-hen",
-    "titleJP": "劇場版 チェンソーマン レゼ篇",
-    "type": "Movie",
-    "episodes": 1,
-    "score": 9.08,
-    "scoredBy": 286220,
-    "rank": 4,
-    "popularity": 584,
-    "year": 2025,
-    "season": null,
-    "status": "Finished Airing",
-    "rating": "R - 17+ (violence & profanity)",
-    "genres": [
-      "Action",
-      "Fantasy"
-    ],
-    "themes": [
-      "Gore",
-      "Urban Fantasy"
-    ],
-    "studios": [
-      "MAPPA"
-    ],
-    "synopsis": "Despite the immediate challenges following becoming a devil hunter with the Public Safety Bureau, Denji has quickly adapted to his new life and responsibilities. As the chaos of Denji's first ordeal with Public Safety settles down, the elite devil hunter Makima decides to take Denji out on a date. Although the date strengthens his affection for Makima and he swears to not fall in love with anyone ...",
-    "imageUrl": "https://myanimelist.net/images/anime/1763/150638l.jpg",
-    "malUrl": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
-  },
-  {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "titleJP": "STEINS;GATE",
-    "type": "TV",
-    "episodes": 24,
-    "score": 9.07,
-    "scoredBy": 1517241,
-    "rank": 5,
-    "popularity": 14,
-    "year": 2011,
-    "season": "spring",
-    "status": "Finished Airing",
-    "rating": "PG-13 - Teens 13 or older",
-    "genres": [
-      "Drama",
-      "Sci-Fi",
-      "Suspense"
-    ],
-    "themes": [
-      "Psychological",
-      "Time Travel"
-    ],
-    "studios": [
-      "White Fox"
-    ],
-    "synopsis": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave tha...",
-    "imageUrl": "https://myanimelist.net/images/anime/1935/127974l.jpg",
-    "malUrl": "https://myanimelist.net/anime/9253/Steins_Gate"
-  },
-  {
-    "id": 38524,
-    "title": "Shingeki no Kyojin Season 3 Part 2",
-    "titleJP": "進撃の巨人 Season3 Part.2",
-    "type": "TV",
-    "episodes": 10,
-    "score": 9.05,
-    "scoredBy": 1787366,
-    "rank": 8,
-    "popularity": 20,
-    "year": 2019,
-    "season": "spring",
-    "status": "Finished Airing",
-    "rating": "R - 17+ (violence & profanity)",
-    "genres": [
-      "Action",
-      "Drama",
-      "Suspense"
-    ],
-    "themes": [
-      "Gore",
-      "Military",
-      "Survival"
-    ],
-    "studios": [
-      "Wit Studio"
-    ],
-    "synopsis": "Seeking to restore humanity's diminishing hope, the Survey Corps embark on a mission to retake Wall Maria, where the battle against the merciless \"Titans\" takes the stage once again.  Returning to the tattered Shiganshina District that was once his home, Eren Yeager and the Corps find the town oddly unoccupied by Titans. Even after the outer gate is plugged, they strangely encounter no opposition....",
-    "imageUrl": "https://myanimelist.net/images/anime/1517/100633l.jpg",
-    "malUrl": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2"
-  },
-  {
-    "id": 28977,
-    "title": "Gintama°",
-    "titleJP": "銀魂°",
-    "type": "TV",
-    "episodes": 51,
-    "score": 9.05,
-    "scoredBy": 272286,
-    "rank": 7,
-    "popularity": 349,
-    "year": 2015,
-    "season": "spring",
-    "status": "Finished Airing",
-    "rating": "PG-13 - Teens 13 or older",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Gag Humor",
-      "Historical",
-      "Parody",
-      "Samurai"
-    ],
-    "studios": [
-      "Bandai Namco Pictures"
-    ],
-    "synopsis": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?  Meanwhile,...",
-    "imageUrl": "https://myanimelist.net/images/anime/3/72078l.jpg",
-    "malUrl": "https://myanimelist.net/anime/28977/Gintama°"
-  },
-  {
-    "id": 39486,
-    "title": "Gintama: The Final",
-    "titleJP": "銀魂 THE FINAL",
-    "type": "Movie",
-    "episodes": 1,
-    "score": 9.05,
-    "scoredBy": 86889,
-    "rank": 6,
-    "popularity": 1501,
-    "year": 2021,
-    "season": null,
-    "status": "Finished Airing",
-    "rating": "PG-13 - Teens 13 or older",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Gag Humor",
-      "Historical",
-      "Parody",
-      "Samurai"
-    ],
-    "studios": [
-      "Bandai Namco Pictures"
-    ],
-    "synopsis": "Two years have passed following the Tendoshuu's invasion of the O-Edo Central Terminal. Since then, the Yorozuya have gone their separate ways. Foreseeing Utsuro's return, Gintoki Sakata begins surveying Earth's ley lines for traces of the other man's Altana. After an encounter with the remnants of the Tendoshuu—who continue to press on in search of immortality—Gintoki returns to Edo.  Later, the ...",
-    "imageUrl": "https://myanimelist.net/images/anime/1245/116760l.jpg",
-    "malUrl": "https://myanimelist.net/anime/39486/Gintama__The_Final"
-  }];
+let animeData = [];
 
 //------------------Data Pipeline------------------
 //function that takes in the raw data and returns the data that should be rendered on the page based on the current state
@@ -296,7 +52,7 @@ function filterData(data,state){
 }
 
 function sortData(data,sortState){
-  const [by,order] = sortState;
+  const {by,order} = sortState;
 
   const sortedData = [...data].sort((a,b) => {
     const aValue = a[by];
@@ -341,7 +97,55 @@ function getUniqueValues(data,field){
   return [...values].sort();
 }
 
+async function loadAnimeData() {
+  const response = await fetch("data.json", { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Failed to load data.json (${response.status})`);
+  }
+  animeData = await response.json();
+}
+
 //------------------Render------------------
+// Main render function that runs the entire data pipeline and updates the DOM; should be called whenever state changes.
+function render() {
+  const filtered = filterData(animeData, state);
+  const sorted = sortData(filtered, state.sort);
+  const { items, totalPages } = paginateData(sorted, state.pagination);
+
+  renderCards(items);
+  renderPagination(totalPages, state.pagination.currentPage);
+  renderResultCount(filtered.length);
+}
+
+// Builds and appends card DOM elements for each anime in the given list of items.
+function renderCards(items) {
+  const container = document.getElementById("card-container");
+  container.innerHTML = "";
+  for (const anime of items) {
+    container.appendChild(createCard(anime));
+  }
+}
+
+// Builds a single card DOM element from one anime object.
+function createCard(anime) {
+  const card = document.createElement("div");
+
+  const scoreText = anime.score != null ? anime.score.toFixed(2) : "N/A";
+  const yearText = anime.year != null ? anime.year : "—";
+  const popularityText = anime.popularity != null ? anime.popularity : "N/A";
+  const synopsisText = anime.synopsis ? anime.synopsis : "No synopsis available.";
+
+  const genreTags = anime.genres
+    .map(g => `<span class="genre-tag">${g}</span>`)
+    .join("");
+
+  card.innerHTML = `
+    <img class="anime-image" src="${anime.image_url}" alt="${anime.title} cover image" />
+  `;
+  return card;
+}
+
+//helper function to populate the filter dropdowns based on the unique genres and types in the data
 function populateFilters(genres,types){
   const genreSelect = document.getElementById("genre-select");
   const typeSelect = document.getElementById("type-select");
@@ -361,14 +165,66 @@ function populateFilters(genres,types){
   });
 }
 
+// Renders Prev / page numbers (windowed ±2 around current) / Next.
+function renderPagination(totalPages, currentPage) {
+  const container = document.getElementById("pagination");
+  container.innerHTML = "";
+  if (totalPages <= 1) return;
+
+  const addBtn = (label, page, disabled, active) => {
+    const btn = document.createElement("button");
+    btn.textContent = label;
+    btn.disabled = disabled;
+    if (!disabled) btn.addEventListener("click", () => onPageChange(page));
+    container.appendChild(btn);
+  };
+
+  addBtn("← Prev", currentPage - 1, currentPage === 1, false);
+
+  // Show first, last, and a ±2 window around the current page
+  const pageSet = new Set([1, totalPages]);
+  for (let p = Math.max(1, currentPage - 2); p <= Math.min(totalPages, currentPage + 2); p++) {
+    pageSet.add(p);
+  }
+
+  let prev = 0;
+  for (const p of [...pageSet].sort((a, b) => a - b)) {
+    if (p - prev > 1) {
+      const ellipsis = document.createElement("span");
+      ellipsis.textContent = "…";
+      container.appendChild(ellipsis);
+    }
+    addBtn(p, p, false, p === currentPage);
+    prev = p;
+  }
+
+  addBtn("Next →", currentPage + 1, currentPage === totalPages, false);
+}
+
+// Updates the "Showing X–Y of Z results" text based on the filtered count and pagination.
+function renderResultCount(filteredCount) {
+  const resultCount = document.getElementById("result-count");
+  const { currentPage, pageSize } = state.pagination;
+  if (filteredCount === 0) {
+    resultCount.textContent = "No results found";
+    return;
+  }
+  const start = (currentPage - 1) * pageSize + 1;
+  const end   = Math.min(currentPage * pageSize, filteredCount);
+  resultCount.textContent = `Showing ${start}–${end} of ${filteredCount} results`;
+}
+
 
 
 //------------------Initialization------------------
-function init(){
+async function init(){
+  await loadAnimeData();
   allGenres = getUniqueValues(animeData,"genres");
   allTypes = getUniqueValues(animeData,"type");
-  populateFilters(allGenres,allTypes);
 
+  populateFilters(allGenres,allTypes);
+  
+  render();
 
 }
 
