@@ -43,16 +43,16 @@ const state = {
 // Populated once at init; never changes after that
 //page-wide data that we can use for filtering and sorting
 let allGenres = [];
-let allTypes  = [];
+let allTypes = [];
 let animeData = [];
 
 //------------------Data Pipeline------------------
 //function that takes in the raw data and returns the data that should be rendered on the page based on the current state
-function filterData(data,state){
+function filterData(data, state) {
   return data.filter((anime) => {
     const search = state.search.toLowerCase().trim();
     const studioNames = Array.isArray(anime.studios) ? anime.studios : [];
-    
+
     const matchesSearch = search === "" ||
       (anime.title || "").toLowerCase().includes(search) ||
       (anime.titleJP || "").toLowerCase().includes(search) ||
@@ -67,10 +67,10 @@ function filterData(data,state){
 }
 
 //function that takes in the filtered data and returns it sorted based on the current sort state
-function sortData(data,sortState){
-  const {by,order} = sortState;
+function sortData(data, sortState) {
+  const { by, order } = sortState;
 
-  const sortedData = [...data].sort((a,b) => {
+  const sortedData = [...data].sort((a, b) => {
     const aValue = a[by];
     const bValue = b[by];
 
@@ -80,7 +80,7 @@ function sortData(data,sortState){
     if (bValue === null) return -1;
 
     let multiplier = order === "asc" ? 1 : -1;
-    
+
     return multiplier * (aValue - bValue);
 
   });
@@ -89,23 +89,23 @@ function sortData(data,sortState){
 }
 
 //function that takes in the sorted data and returns it paginated based on the current pagination state
-function paginateData(data,paginationState){
-  const {currentPage,pageSize} = paginationState;
+function paginateData(data, paginationState) {
+  const { currentPage, pageSize } = paginationState;
   const startIndex = (currentPage - 1) * pageSize;
   const endIndex = startIndex + pageSize;
 
-  const items = data.slice(startIndex,endIndex);
+  const items = data.slice(startIndex, endIndex);
   const totalPages = Math.ceil(data.length / pageSize);
 
-  return {items,totalPages};
+  return { items, totalPages };
 }
 
 //----------Init Helpers----------------------
 //helper function to get all unique values for a given field in the data; used for populating filter dropdowns
-function getUniqueValues(data,field){
-  const values = new Set();   
+function getUniqueValues(data, field) {
+  const values = new Set();
   data.forEach((item) => {
-    if(field === "genres"){
+    if (field === "genres") {
       item.genres.forEach((genre) => values.add(genre));
     } else {
       values.add(item[field]);
@@ -198,7 +198,7 @@ function createCard(anime) {
 }
 
 //helper function to populate the filter dropdowns based on the unique genres and types in the data
-function populateFilters(genres,types){
+function populateFilters(genres, types) {
   const genreSelect = document.getElementById("genre-select");
   const typeSelect = document.getElementById("type-select");
 
@@ -267,7 +267,7 @@ function renderResultCount(filteredCount) {
     return;
   }
   const start = (currentPage - 1) * pageSize + 1;
-  const end   = Math.min(currentPage * pageSize, filteredCount);
+  const end = Math.min(currentPage * pageSize, filteredCount);
   resultCount.textContent = `Showing ${start}–${end} of ${filteredCount} results`;
 }
 
@@ -345,11 +345,8 @@ function onClearSearch() {
 }
 
 
-
-
-
 //------------------Initialization------------------
-async function init(){
+async function init() {
   try {
     await loadAnimeData();
     availableGenres = getUniqueValues(animeData, "genres");

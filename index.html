@@ -1,48 +1,53 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <title>Anime Catalog</title>
-    <meta name="description" content="Top 500 Anime from MyAnimeList" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="style.css" />
-    <script type="text/javascript" src="scripts.js" defer></script>
-  </head>
 
-  <body>
-    <header class="main-header" role="button" tabindex="0">
-      <h1 class="title">Anime World</h1>
-      <p class="header-tagline">500 animes · ranked by MyAnimeList score</p>
-    </header>
+<head>
+  <title>Anime Catalog</title>
+  <meta name="description" content="Top 500 Anime from MyAnimeList" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script type="text/javascript" src="scripts.js" defer></script>
+</head>
 
-    <div id="controls">
-      <div class="search-wrapper">
-        <span class="search-icon">
-          <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
-            <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5"/>
-            <path d="M10.5 10.5L13.5 13.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
-          </svg>
-        </span>
-        <input id="search-bar" type="text" placeholder="Search titles or studios…" />
-        <button id="clear-search" class="search-clear-button" type="button" aria-label="Clear search" title="Clear search">×</button>
-      </div>
-      <select id="genre-select"></select>
-      <select id="type-select"></select>
-      <select id="sort-select">
-        <option value="score-desc">Score: High → Low</option>
-        <option value="score-asc">Score: Low → High</option>
-        <option value="year-desc">Year: Newest</option>
-        <option value="year-asc">Year: Oldest</option>
-        <option value="popularity-asc">Popularity: Most</option>
-        <option value="popularity-desc">Popularity: Least</option>
-      </select>
-      <button id="reset-button" class="reset-button" type="button">Reset</button>
+<body>
+  <header class="main-header" role="button" tabindex="0">
+    <h1 class="title">Anime World</h1>
+    <p class="header-tagline">500 animes · ranked by MyAnimeList score</p>
+  </header>
+
+  <div id="controls">
+    <div class="search-wrapper">
+      <span class="search-icon">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5" />
+          <path d="M10.5 10.5L13.5 13.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+        </svg>
+      </span>
+      <input id="search-bar" type="text" placeholder="Search titles or studios…" />
+      <button id="clear-search" class="search-clear-button" type="button" aria-label="Clear search"
+        title="Clear search">×</button>
     </div>
+    <select id="genre-select"></select>
+    <select id="type-select"></select>
+    <select id="sort-select">
+      <option value="score-desc">Score: High → Low</option>
+      <option value="score-asc">Score: Low → High</option>
+      <option value="year-desc">Year: Newest</option>
+      <option value="year-asc">Year: Oldest</option>
+      <option value="popularity-asc">Popularity: Most</option>
+      <option value="popularity-desc">Popularity: Least</option>
+    </select>
+    <button id="reset-button" class="reset-button" type="button">Reset</button>
+  </div>
 
-    <div id="result-count"></div>
-    <div id="card-container"></div>
-    <div id="pagination"></div>
-  </body>
+  <div id="result-count"></div>
+  <div id="card-container"></div>
+  <div id="pagination"></div>
+</body>
+
 </html>
