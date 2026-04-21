@@ -222,9 +222,22 @@ function populateFilters(genres, types) {
 
 // Renders Prev / page numbers (windowed ±2 around current) / Next.
 function renderPagination(totalPages, currentPage) {
+  const bar = document.getElementById("pagination-bar");
+  const pageSizeControl = document.querySelector(".page-size-control");
   const container = document.getElementById("pagination");
   container.innerHTML = "";
-  if (totalPages <= 1) return;
+  if (totalPages <= 1) {
+    bar.style.display = "none";
+    if (pageSizeControl) {
+      pageSizeControl.style.display = "none";
+    }
+    return;
+  }
+
+  bar.style.display = "flex";
+  if (pageSizeControl) {
+    pageSizeControl.style.display = "inline-flex";
+  }
 
   const addBtn = (label, page, disabled, active) => {
     const btn = document.createElement("button");
@@ -316,6 +329,8 @@ function syncControlsToState() {
   document.getElementById("genre-select").value = state.filters.genre;
   document.getElementById("type-select").value = state.filters.type;
   document.getElementById("sort-select").value = `${state.sort.by}-${state.sort.order}`;
+  document.getElementById("page-size-select").value = String(state.pagination.pageSize);
+  
 }
 
 // Reset button handler; resets state to default values and syncs controls, then re-renders and scrolls to top.
@@ -326,8 +341,22 @@ function onReset() {
   state.sort.by = defaultState.sort.by;
   state.sort.order = defaultState.sort.order;
   state.pagination.currentPage = defaultState.pagination.currentPage;
+  state.pagination.pageSize = defaultState.pagination.pageSize;
 
   syncControlsToState();
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+// Page size change handler; updates state and triggers re-render when page size dropdown changes; also resets to page 1 and scrolls to top.
+function onPageSizeChange(e) {
+  const newPageSize = Number.parseInt(e.target.value, 10);
+  if (!Number.isFinite(newPageSize) || newPageSize <= 0) {
+    return;
+  }
+
+  state.pagination.pageSize = newPageSize;
+  state.pagination.currentPage = 1;
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -364,6 +393,7 @@ async function init() {
     document.getElementById("genre-select").addEventListener("change", onFilterChange);
     document.getElementById("type-select").addEventListener("change", onFilterChange);
     document.getElementById("sort-select").addEventListener("change", onSortChange);
+    document.getElementById("page-size-select").addEventListener("change", onPageSizeChange);
 
     render();
   } catch (error) {
