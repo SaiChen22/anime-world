@@ -1,31 +1,36 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
-    <title>LA TV Shows | Home</title>
-    <meta name="description" content="A Catalog of Shows Set in Los Angeles" />
-    <link rel="stylesheet" href="style.css" />
-    <script type="text/javascript" src="scripts.js"></script>
+    <title>Anime Catalog</title>
+    <meta name="description" content="Top 500 Anime from MyAnimeList" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript" src="scripts.js" defer></script>
   </head>
 
   <body>
-    <header class="main-header">
-      <h1 class="title">LA TV Shows</h1>
+    <header class="main-header" role="button">
+      <h1 class="title">Anime World</h1>
+      <p class="header-tagline">500 animes · ranked by MyAnimeList score</p>
     </header>
-    <div id="card-container"></div>
-    <div class="card" style="display: none">
-      <div class="card-content">
-        <h2>TV Show Title</h2>
-        <img src="" alt="TV Show Poster" />
-        <ul>
-          <li>Bullet Point 1</li>
-          <li>Bullet Point 2</li>
-          <li>Bullet Point 3</li>
-        </ul>
+
+    <div id="controls">
+      <div class="search-wrapper">
+        <input id="search-bar" type="text" placeholder="Search titles…" />
       </div>
+      <select id="genre-select"></select>
+      <select id="type-select"></select>
+      <select id="sort-select">
+        <option value="score-desc">Score: High → Low</option>
+        <option value="score-asc">Score: Low → High</option>
+        <option value="year-desc">Year: Newest</option>
+        <option value="year-asc">Year: Oldest</option>
+        <option value="popularity-asc">Popularity: Most</option>
+        <option value="popularity-desc">Popularity: Least</option>
+      </select>
     </div>
-    <div class="footer">
-      <button onclick="quoteAlert()">Get A Quote!</button>
-      <button onclick="removeLastCard()">Remove A Card!</button>
-    </div>
+
+    <div id="result-count"></div>
+    <div id="card-container"></div>
+    <div id="pagination"></div>
   </body>
 </html>
